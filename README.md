@@ -173,17 +173,169 @@ Ser reconocidos como una **startup innovadora** en el desarrollo de herramientas
 
 ---
 
-### 1.2. Solution Profile
-#### 1.2.1. Antecedentes y problemática
+## 1.2. Solution Profile
 
-#### 1.2.2. Lean UX Process
-##### 1.2.2.1. Lean UX Problem Statements
+### 1.2.1. Antecedentes y Problemática
 
-##### 1.2.2.2. Lean UX Assumptions
+#### Enunciado del Problema
+Existe una **falta de confianza en la contratación de servicios de desarrollo web**, donde los clientes temen no recibir el servicio prometido, y los desarrolladores temen no ser remunerados. Esto genera fricciones, sobrecostos, y pérdida de oportunidades para ambos.
 
-##### 1.2.2.3. Lean UX Hypothesis Statements
 
-##### 1.2.2.4. Lean UX Canvas
+| Clave | Pregunta | Respuesta                                                                                                 |
+|-------|----------|-----------------------------------------------------------------------------------------------------------|
+| **Who** | ¿Quiénes están involucrados? | Desarrolladores web y Profesionales que buscan crear un portafolio digital.                               |
+| **What** | ¿Qué ocurre? | Se generan riesgos de fraude, falta de pago o incumplimiento en acuerdos de servicios web.                |
+| **Where** | ¿Dónde ocurre? | En entornos digitales, principalmente redes sociales, plataformas independientes o acuerdos directos.     |
+| **When** | ¿Cuándo ocurre? | Al contratar desarrolladores web por fuera de plataformas intermediarias.                                   |
+| **Why** | ¿Por qué es un problema? | Porque no hay garantías legales ni mecanismos automáticos de verificación.                                |
+| **How** | ¿Cómo se presenta? | A través de entregas fallidas, impagos o disputas entre las partes.                                       |
+| **How Much** | ¿Qué tanto afecta? | Impacta directamente en la reputación de los desarrolladores y en la pérdida económica para ambas partes. |
+
+
+
+---
+
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+**Problem Statement 1**  
+Se ha identificado que los desarrolladores web enfrentan desafíos importantes para garantizar el pago de sus servicios una vez entregado el producto final. La ausencia de mecanismos automatizados de verificación y pago genera desconfianza, especialmente cuando se trabaja fuera de plataformas intermediarias. Esto provoca frustración, riesgo de impago y limita el crecimiento de los profesionales independientes. Por lo tanto, se reconoce la necesidad de desarrollar un sistema descentralizado que asegure el cumplimiento del contrato y la liberación del pago únicamente cuando el cliente confirme que el servicio fue entregado correctamente o cuando el sistema lo valide automáticamente.
+
+**¿Cómo podemos garantizar que los desarrolladores reciban el pago justo y oportuno por sus servicios sin depender de intermediarios, utilizando tecnologías descentralizadas?**
+
+---
+
+**Problem Statement 2**  
+Por otro lado, se observa que muchos clientes que contratan servicios de desarrollo de páginas web no tienen la certeza de que recibirán un producto funcional o conforme a lo pactado. Las contrataciones informales y la falta de evidencia sobre el cumplimiento generan desconfianza, pérdida de tiempo y dinero. Además, no existe un mecanismo claro para verificar el estado de entrega ni para contar con una prueba digital de que el servicio se ha realizado. Por ello, se plantea la necesidad de contar con un sistema que permita validar de forma automatizada el estado del servicio y que brinde al cliente una prueba irrefutable de que se cumplió lo acordado, reduciendo así el riesgo percibido y fomentando relaciones comerciales más seguras.
+
+**¿Cómo podemos ofrecer a los clientes una forma confiable y automatizada de validar la entrega de servicios web freelance y respaldar su cumplimiento mediante evidencia digital?**
+
+
+---
+
+#### 1.2.2.2. Lean UX Assumptions
+
+#### • Business Assumptions
+
+**Necesidad del mercado:**  
+Creemos que tanto los desarrolladores web como sus clientes enfrentan desafíos al momento de contratar y entregar servicios digitales de forma segura y transparente. Los desarrolladores buscan garantías de pago tras la entrega, mientras que los clientes desean recibir productos funcionales antes de liberar el dinero. Actualmente, la informalidad de estos acuerdos, sumada a la falta de evidencia de cumplimiento, genera desconfianza en ambas partes.
+
+**Solución integral:**  
+Suponemos que el problema de la falta de garantías en servicios freelance puede ser mitigado mediante una **plataforma basada en contratos inteligentes en Ethereum**, que actúe como intermediario automático e imparcial. Esta plataforma validará el cumplimiento del servicio y ejecutará el pago automáticamente cuando se cumplan las condiciones predefinidas. Adicionalmente, generará un **comprobante digital** como prueba de cumplimiento.
+
+**Clientes iniciales:**  
+Nuestros clientes estarán divididos en dos segmentos:
+
+- **Desarrolladores Web:** Profesionales que ofrecen servicios de desarrollo de landing pages o portafolios web y desean un sistema justo, transparente y automático para asegurar el pago.
+- **Profesionales que buscan crear un portafolio digital** Personas que necesitan un sitio web funcional y desean tener garantía de cumplimiento antes de pagar, sin depender de plataformas intermediarias costosas.
+
+**Propuesta de valor:**  
+El valor principal de SmartWebContracts radica en brindar una solución descentralizada y segura para contratar servicios de desarrollo. Los contratos inteligentes garantizan transparencia y cumplimiento, mientras que la generación de comprobantes digitales permite certificar el trabajo realizado. Los beneficios clave incluyen:
+
+- Protección automática para ambas partes durante la contratación.
+- Reducción de conflictos y riesgo de fraude.
+- Pago justo, liberado solo tras validación de cumplimiento.
+- Evidencia digital verificable como respaldo profesional.
+
+**Estrategia de adquisición:**  
+Captaremos usuarios a través de comunidades de freelancers, grupos de desarrolladores, plataformas educativas, foros de criptomonedas y redes sociales. Se realizarán campañas piloto y demos con estudiantes y profesionales del desarrollo web. Además, se impulsará la adopción del sistema mediante **tutoriales sobre contratos inteligentes y wallets** para facilitar el onboarding.
+
+**Principales riesgos:**
+- Baja adopción por desconocimiento del uso de wallets o blockchain.
+- Fallos en la validación automática del cumplimiento del servicio.
+- Rechazo por parte de usuarios tradicionales no familiarizados con Web3.
+
+**Mitigación de riesgos:**  
+Se mitigarán mediante educación en el uso de wallets y contratos inteligentes, diseño de interfaz amigable y desarrollo incremental de validaciones automatizadas. Se incluirán también mecanismos de reclamo o evaluación secundaria por parte del cliente en los primeros lanzamientos.
+
+
+#### •  User Assumptions
+
+**¿Quién es el usuario?**
+- **Desarrolladores web:** Jóvenes estudiantes, egresados o profesionales que ofrecen servicios de diseño web y buscan una forma segura y profesional de ser contratados y cobrar por sus servicios.
+- **Profesionales que buscan crear un portafolio digital:** Personas que requieren una presencia digital rápida y profesional, como landing pages o portafolios.
+
+**¿Dónde encaja nuestro producto?**
+- En la rutina profesional: como una herramienta que les asegura el pago de su trabajo al entregar el servicio según lo pactado.
+- En el proceso de contratación de clientes: como una garantía de que recibirán el producto antes de liberar el dinero.
+
+**Problemas identificados y soluciones propuestas:**
+- **Riesgo de impago al desarrollador web:**
+    - *Solución:* contrato inteligente que bloquea el pago y lo libera solo si el servicio es entregado correctamente.
+- **Dudas del cliente sobre la entrega del servicio:**
+    - *Solución:* validación automática del servicio y generación de comprobante digital en blockchain.
+
+**¿Cuándo y cómo se usa nuestro producto?**
+- **Desarrollador web:** activan un contrato inteligente al iniciar el proyecto, configuran las condiciones, y al concluir, validan la entrega para liberar el pago.
+- **Clientes:** depositan el pago en un contrato inteligente, reciben notificación cuando el servicio ha sido validado, y obtienen el acceso final + ticket digital del cumplimiento.
+
+**Características importantes:**
+- Contrato inteligente con condiciones personalizadas.
+- Validación automática (por sistema o cliente).
+- Liberación de pago vía blockchain (Ethereum, Trust Wallet).
+- Comprobante digital de cumplimiento.
+- Interfaz web accesible, clara y segura.
+
+**Aspecto y comportamiento del producto:**
+- **UI:** diseño moderno y minimalista compatible con navegadores y dispositivos móviles.
+- **UX:** intuitiva, con guía paso a paso para contratación, seguimiento y validación.
+- **Disponibilidad:** 24/7, sin necesidad de intervención de terceros.
+
+**Features principales:**
+- Registro y autenticación de clientes y desarrolladores web.
+- Creación de contratos inteligentes personalizados.
+- Integración con wallets Web3 (ej. Trust Wallet).
+- Validación automatizada de cumplimiento.
+- Emisión de ticket digital con hash en blockchain.
+- Historial de contratos y reputación de desarrolladores web.
+---
+
+
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+En relación con los segmentos objetivos definidos en SmartWebContracts, se presentan las siguientes hipótesis:
+
+#### • Hipótesis para Desarrolladores Web:
+
+Creemos que, al brindar a los desarrolladores una plataforma respaldada por contratos inteligentes que garantice el pago automático una vez validado el cumplimiento del servicio, se incrementará su seguridad, motivación y profesionalismo al momento de aceptar proyectos freelance.
+
+Sabremos que hemos tenido éxito cuando al menos el 80% de los desarrolladores manifiesten sentirse más seguros al usar el sistema y se observe una tasa de finalización de proyectos superior al 90%, verificado mediante análisis de uso y encuestas post-proyecto.
+
+#### • Hipótesis para Profesionales que buscan crear un portafolio digital:
+
+Creemos que, al ofrecer a los profesionales una solución automatizada para contratar desarrolladores con validación de entrega y generación de comprobante digital, se incrementará la confianza y disminuirá la incertidumbre al momento de solicitar un servicio a uno o a un grupo de desarrolladores web.
+
+Sabremos que hemos tenido éxito cuando más del 50% de los clientes contraten nuevamente a través de la plataforma y menos del 5% presenten reclamos o insatisfacción en la entrega, medido por métricas del sistema y encuestas de satisfacción.
+
+#### • Hipótesis de Integración Tecnológica (Blockchain + Validación):
+
+Creemos que, al integrar tecnología blockchain (Ethereum) con wallets Web3 y validaciones automáticas de cumplimiento, se logrará un proceso fluido y descentralizado que reduzca la necesidad de intervención humana o plataformas intermediarias.
+
+Sabremos que hemos tenido éxito cuando el 95% de los contratos ejecutados se completen sin intervención manual, y al menos el 85% de los usuarios puedan utilizar correctamente el sistema desde su primera experiencia, verificado mediante pruebas piloto y métricas de adopción.
+
+#### • Hipótesis de Viralidad y Reputación Profesional:
+
+Creemos que una experiencia positiva al usar la plataforma, sumada a la generación de comprobantes digitales verificables en blockchain, incentivará tanto a desarrolladores como a profesionales a compartir y recomendar el sistema.
+
+Sabremos que hemos tenido éxito cuando al menos el 30% de los nuevos usuarios provengan de referencias directas y más del 70% de los comprobantes digitales sean utilizados como evidencia profesional, medido por el sistema de tracking del ticket digital y portafolios públicos.
+
+#### 1.2.2.4. Lean UX Canvas
+
+| **Business Problem** | **Solutions** | **Business Outcomes** |
+|----------------------|---------------|------------------------|
+| • Alta desconfianza entre clientes y desarrolladores web debido a contratos informales y falta de garantías. <br> • Riesgo de impago para el desarrollador web una vez entregado el servicio. <br> • Imposibilidad del cliente de verificar si el servicio entregado cumple con lo pactado. | • Plataforma web con contratos inteligentes que gestionan el acuerdo y pago entre las partes. <br> • Validación automática del cumplimiento del servicio antes de liberar el pago. <br> • Generación de un comprobante digital en blockchain como evidencia del servicio completado. <br> • Integración con wallets como Trust Wallet para transferencias seguras en Ethereum. | • Aumento en la confianza y transparencia en los procesos de contratación freelance. <br> • Reducción de disputas entre cliente y desarrollador. <br> • Pagos automatizados y seguros sin necesidad de intermediarios. <br> • Fortalecimiento de la reputación profesional mediante tickets digitales verificables. |
+
+| **Users** | **User Outcomes & Benefits** |
+|-----------|------------------------------|
+| • Desarrolladores web que ofrecen servicios de creación de landing pages o portafolios. <br> • Profesionales que requieren una presencia digital rápida y profesional, como landing pages o portafolios. | • Mayor seguridad y confianza en el proceso de contratación. <br> • Reducción del riesgo de estafa o incumplimiento. <br> • Evidencia digital del trabajo realizado (comprobante). <br> • Interacción fluida mediante una interfaz web simple, accesible y descentralizada. |
+
+| **Hypotheses** | **What's the most important thing we need to learn first?** | **What's the least amount of work we need to do to learn the next most important thing?** |
+|----------------|-------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| • Creemos que ofrecer un sistema descentralizado de contratación mediante contratos inteligentes permitirá reducir el riesgo de fraude y aumentar la confianza. <br> • Creemos que automatizar el proceso de validación del cumplimiento antes del pago mejorará la experiencia tanto para el cliente como para el desarrollador web. | • Validar si los desarrolladores conocen o están dispuestos a aprender sobre el uso de wallets Web3 y contratos inteligentes. <br> • Entender qué tipo de evidencia consideran válida los clientes para aceptar un servicio como "cumplido". | • Realizar encuestas rápidas a desarrolladores web sobre medios de pago actuales y problemas al cobrar. <br> • Entrevistar a clientes que hayan contratado desarrolladores web y recopilar casos donde hubo disputas o incumplimientos. |
+
+---
+
 
 ### 1.3. Segmentos objetivo
 
