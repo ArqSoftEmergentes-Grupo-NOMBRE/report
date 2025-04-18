@@ -144,12 +144,34 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ---
 
-## Capítulo I: Introducción
 
-### 1.1. Startup Profile
-#### 1.1.1. Descripción de la Startup
+# Capítulo I: Introducción
 
-#### 1.1.2. Perfiles de integrantes del equipo
+## 1.1. Startup Profile
+
+
+### 1.1.1. Descripción de la Startup
+
+**SmartWebContracts** es una startup universitaria formada por estudiantes de tecnología con interés en aplicar **contratos inteligentes en entornos reales** para resolver problemas de confianza y transparencia en el desarrollo de sitios web. Nuestra propuesta central gira en torno a la creación de una **plataforma descentralizada** que permite automatizar acuerdos entre desarrolladores web y sus clientes mediante **blockchain**, garantizando así el cumplimiento del servicio, la seguridad del pago, y la generación de un comprobante digital como evidencia de ejecución.
+
+####  Misión:
+Desarrollar soluciones tecnológicas basadas en blockchain que automaticen los acuerdos de servicios digitales, promoviendo la **transparencia, confianza y equidad** en la contratación de profesionales independientes del desarrollo web.
+
+####  Visión:
+Ser reconocidos como una **startup innovadora** en el desarrollo de herramientas digitales seguras para freelancers, fomentando el uso de tecnologías descentralizadas como blockchain en Latinoamérica y más allá.
+
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+| Foto | Nombre completo          | Código | Carrera | Resumen |
+|------|--------------------------|--------|---------|---------|
+|  *(colocar foto aquí)* | **Name**                 | Código | Carrera | Resumen |
+|  *(colocar foto aquí)* | **Name**  | Código | Carrera | Resumen |
+|  *(colocar foto aquí)* | **Name** | Código | Carrera | Resumen |
+|  *(colocar foto aquí)* | **Name**  | Código | Carrera | Resumen |
+|  *(colocar foto aquí)* | **Name**  | Código | Carrera | Resumen |
+
+---
 
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática
@@ -164,6 +186,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ##### 1.2.2.4. Lean UX Canvas
 
 ### 1.3. Segmentos objetivo
+
+
 
 ---
 
