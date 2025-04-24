@@ -753,7 +753,12 @@ A continuación se presentan las historias de usuario agrupadas por épicas iden
 | US15 | Acceder al sitio web | Como cliente, deseo ver la información del proyecto antes de crear una cuenta.                                | **Escenario: Acceso a landing page**<br/>Given un visitante anónimo<br/>When ingresa al dominio<br/>Then visualiza las secciones públicas informativas | E8 |
 
 ### 3.3. Impact Mapping
+En esta sección, se plantearon metas de negocio utilizando los criterios SMART para elaborar el Impact Mapping en base a nuestras User Personas y User Stories.
 
+- Segmento 1: Desarrollador Web
+![Impact Mapping Desarrollador Freelance](assets/img/chapter-3/Impact_mapping_segmento1.png)
+- Segmento 2: Profesional que busca portafolio digital
+![Impact Mapping Profesional](assets/img/chapter-3/Impact_mapping_segmento-2.png)
 ### 3.4. Product Backlog
 
 | Orden | User Story ID | Título                         | Descripción                                                                                            | Story Points |
