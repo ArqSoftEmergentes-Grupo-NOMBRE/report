@@ -185,13 +185,63 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ### 2.3. Needfinding
 
+Usaremos las herramientas de User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-is Scenario Mapping para tener una visión general de las experiencias de nuestros usuarios.
+
 #### 2.3.1. User Personas
+
+##### User Persona Desarrollador Freelance
+
+![User Persona Freelance](assets/img/chapter-2/user-persona-developer.png)
+
+##### User Persona Dueño de PYME
+
+![User Persona Dueño](assets/img/chapter-2/user-persona-owner.png)
 
 #### 2.3.2. User Task Matrix
 
+A continuación mostramos la User Task Matrix, en la que podremos observar las tareas más importantes que realizan los segmentos objetivos en sus jornadas normales.
+
+| Task                                       | Desarrollador Freelance (Frecuencia/Importancia) | Dueño de la PYME (Frecuencia/Importancia) |
+|--------------------------------------------|-----------------------------------------------|----------------------------------------|
+| Búsqueda de nuevos proyectos               | Alta/Alta                                    | Baja/Baja                             |
+| Negociación con clientes                   | Alta/Alta                                    | Media/Media                           |
+| Gestión de proyectos                       | Alta/Alta                                    | Media/Alta                            |
+| Creación de landing pages                  | Alta/Alta                                    | Media/Alta                            |
+| Comunicación con clientes                  | Alta/Alta                                    | Media/Media                           |
+| Aprendizaje y mejora de habilidades        | Alta/Alta                                    | Baja/Baja                             |
+| Desarrollo de aplicaciones web             | Alta/Alta                                    | Baja/Media                            |
+| Gestión de pagos y presupuestos            | Media/Media                                  | Alta/Alta                             |
+| Planificación de tareas y plazos           | Alta/Alta                                    | Media/Alta                            |
+| Evaluación de la satisfacción del cliente  | Media/Media                                  | Alta/Alta                             |
+| Mejora de portafolio                       | Alta/Alta                                    | Baja/Baja                             |
+| Investigación de nuevas tecnologías        | Alta/Alta                                    | Baja/Baja                             |
+| Supervisión de la calidad del trabajo      | Alta/Alta                                    | Baja/Baja                             |
+| Asesoría técnica a clientes                | Media/Alta                                   | Baja/Baja                             |
+| Implementación de sistemas de gestión      | Baja/Baja                                    | Alta/Alta                             |
+
 #### 2.3.3. User Journey Mapping
 
+En esta sección se exponen los Journey Mappings, explicando las etapas principales del proceso de los segmentos objetivo:
+
+##### User Journey Mapping Desarrollador Freelance
+
+![User Journey Mapping Freelance](assets/img/chapter-2/user-journey-mapping-developer.png)
+
+##### User Journey Mapping Dueño de PYME
+
+![User Journey Mapping Dueño](assets/img/chapter-2/user-journey-mapping-owner.png)
+
 #### 2.3.4. Empathy Mapping
+
+En esta sección se exponen los Empathy Mappings, en los cuales intentamos comprender la situación. los problemas, las necesidades y los retos que enfrenta cada segmento objetivo:
+
+##### Empathy Mapping Desarrollador Freelance
+
+![Empathy Mapping Freelance](assets/img/chapter-2/empathy-mapping-developer.png)
+
+##### Empathy Mapping Dueño de PYME
+
+![Empathy Mapping Dueño](assets/img/chapter-2/empathy-mapping-owner.png)
 
 #### 2.3.5. As-is Scenario Mapping
 
