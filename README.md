@@ -704,7 +704,14 @@ A continuación, se presenta un glosario con los términos clave que forman part
 
 ## Capítulo III: Requirements Specification
 
-### 3.1. To-Be Scenario Mapping
+## 3.1. To-Be Scenario Mapping
+En esta sección se presentan los To-Be Scenario Mapping para cada segmento objetivo donde se reflejarán, a partir de los As-is Scenario Mapping, la experiencia de usuario ideal si se resuelven los puntos de dolor y necesidades. La herramienta empleada para su desarrollo ha sido Miro.
+
+**Segmento 1: Desarrollador Web**
+![To-Be Scenario Mapping Desarrollador Freelance](assets/img/chapter-3/ToBe-ScenarioMapping-Segmento1.jpg)
+
+**Segmento 2: Profesionales que buscan portafolio digital**
+![To-Be Scenario Mapping Profesional](assets/img/chapter-3/ToBe-ScenarioMapping-Segmento2.jpg)
 
 ## 3.2. User Stories
 
