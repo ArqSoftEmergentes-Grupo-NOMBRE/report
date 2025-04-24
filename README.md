@@ -792,23 +792,222 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
 
 ## Capítulo IV: Strategic-Level Software Design
 
-### 4.1. Strategic-Level Attribute-Driven Design
+### 4.1 Strategic-Level Attribute-Driven Design
 
-#### 4.1.1. Design Purpose
+El enfoque Attribute-Driven Design (ADD) a nivel estratégico se ha aplicado para estructurar la solución de SmartWebContracts como una plataforma de contratación descentralizada que responde a las necesidades clave de transformación digital en el contexto de los servicios freelance. Este proceso permite definir las decisiones arquitectónicas a partir de atributos de calidad y funcionalidades críticas, vinculadas directamente a los objetivos del negocio y las expectativas de los usuarios.
+
+---
+
+#### 4.1.1 Design Purpose
+
+El propósito del proceso de diseño arquitectónico en SmartWebContracts es definir una solución técnica y funcional que responda de manera efectiva a los problemas de confianza, informalidad y falta de garantías en la contratación de servicios de desarrollo web.
+
+A través del uso de **contratos inteligentes**, **validación automática**, y **comprobantes digitales**, la arquitectura busca:
+
+- Garantizar **transparencia y seguridad** para ambas partes (cliente y desarrollador).
+- Automatizar el cumplimiento del contrato mediante lógica descentralizada.
+- Brindar una experiencia confiable y accesible a usuarios no técnicos.
+- Permitir la **escalabilidad** del sistema a medida que se incrementa el número de contratos y usuarios.
+- Alinear los componentes tecnológicos con los **objetivos del negocio**, como la reducción de disputas, fidelización de usuarios y posicionamiento en el mercado Web3 de Latinoamérica.
+
+Este proceso de diseño se fundamenta en los principios de **Transformación Digital**, usando blockchain como habilitador tecnológico clave, y considerando los atributos de calidad como **usabilidad, rendimiento, seguridad, disponibilidad** y **mantenibilidad** como impulsores principales de la arquitectura.
+
+
 
 #### 4.1.2. Attribute-Driven Design Inputs
 
+El proceso de Attribute-Driven Design (ADD) requiere identificar los elementos clave que condicionan el diseño arquitectónico de la solución. Esta sección recopila los tres tipos principales de inputs: funcionalidades principales (Primary Functionality), escenarios de atributos de calidad (Quality Attribute Scenarios) y restricciones (Constraints), todos los cuales guían las decisiones estructurales de la arquitectura.
+
+---
+
 ##### 4.1.2.1. Primary Functionality (Primary User Stories)
 
-##### 4.1.2.2. Quality attribute Scenarios
+Las siguientes funcionalidades fueron seleccionadas por su impacto directo en el flujo principal de la solución y la experiencia de usuario para los segmentos clave.
+
+| Epic / User Story ID | Título                        | Descripción                                                                                          | Criterios de Aceptación                                                                                                                                                    | Relacionado con (Epic ID) |
+|----------------------|-------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| US1                  | Registro de desarrollador     | Permite a un desarrollador crear una cuenta con correo o wallet Web3.                               | Given un desarrollador con correo válido<br/>When completa el formulario<br/>Then se crea la cuenta y se confirma por correo<br/>                                               | E1                         |
+| US2                  | Registro de cliente           | El cliente puede registrarse para contratar servicios de desarrollo.                                | Given un nuevo cliente<br>When registra sus datos<br>Then accede a funcionalidades básicas de la plataforma.                                                              | E1                         |
+| US3                  | Crear contrato                | Formaliza la contratación mediante contrato inteligente.                                             | Given un cliente autenticado<br>When completa los datos<br>Then se genera el contrato en blockchain.                                                                       | E2                         |
+| US4                  | Validar contrato              | El desarrollador confirma un contrato antes de empezar.                                              | Given un contrato pendiente<br>When el desarrollador acepta<br>Then el contrato pasa a estado "activo".                                                                    | E2                         |
+| US5                  | Dejar reseña                  | El cliente evalúa al desarrollador tras finalizar el contrato.                                       | Given un contrato finalizado<br>When envía una reseña<br>Then se muestra en el perfil del desarrollador.                                                                   | E3                         |
+| US6                  | Ver reseñas                   | El cliente revisa la reputación del desarrollador antes de contratar.                                | Given un perfil público<br>When lo visualiza<br>Then accede a reseñas verificadas.                                                                                         | E3                         |
+| US13                 | Publicar enlace de proyecto   | El desarrollador publica un enlace a su portafolio o sitio entregado.                               | Given un desarrollador<br>When publica un enlace<br>Then este aparece en su perfil público.                                                                               | E7                         |
+| US14                 | Revisar proyecto              | El cliente visualiza el proyecto compartido por el desarrollador.                                   | Given un enlace compartido<br>When el cliente accede<br>Then puede revisar el proyecto entregado.                                                                          | E7                         |
+
+---
+
+##### 4.1.2.2. Quality Attribute Scenarios
+
+A continuación, se presentan los escenarios clave de atributos de calidad que afectan directamente a las decisiones arquitectónicas:
+
+| Atributo    | Fuente             | Estímulo                                      | Artefacto                        | Entorno                 | Respuesta                                                       | Medida                                |
+|-------------|--------------------|-----------------------------------------------|----------------------------------|--------------------------|------------------------------------------------------------------|----------------------------------------|
+| Usabilidad  | Usuario nuevo       | Accede por primera vez a la plataforma        | Interfaz web                    | Dispositivo móvil o PC   | Muestra instrucciones claras, formularios simples               | Completa el registro en < 5 minutos     |
+| Seguridad   | Actor externo       | Intenta modificar un contrato                 | Contrato inteligente            | Red pública              | Rechazo automático del intento                                  | Integridad del contrato inalterada     |
+| Disponibilidad | Usuario activo    | Envía un contrato o valida entrega            | Plataforma Web3                 | Alta concurrencia         | El sistema procesa la acción sin errores ni caídas              | Tiempo de respuesta < 2 segundos        |
+| Auditabilidad | Auditor o usuario | Solicita evidencia de cumplimiento            | Ticket digital en blockchain    | Fase post-entrega        | Muestra hash verificable del contrato y entrega                 | Evidencia consultable en 100% de casos |
+| Escalabilidad | Plataforma         | Aumento de contratos simultáneos              | Smart contract handler          | Escenario de crecimiento | Mantiene estabilidad sin degradar rendimiento                   | +1000 contratos/día sin caídas         |
+
+---
 
 ##### 4.1.2.3. Constraints
 
+En esta sección se presentan restricciones críticas que afectan la arquitectura. Estas constraints no son negociables y se han formulado como historias técnicas.
+
+| Technical Story ID | Título                            | Descripción                                                                                      | Criterios de Aceptación                                                                                     | Relacionado con (Epic ID) |
+|--------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------|
+| TS1                | Integración con wallets Web3      | La plataforma debe ser compatible con Metamask y Trust Wallet.                                  | Given un usuario<br>When conecta su wallet<br>Then puede autenticarse y firmar contratos.                     | E1                         |
+| TS2                | Uso de contratos inteligentes      | El sistema debe usar contratos desplegados en Ethereum u otra red EVM-compatible.               | Given un contrato generado<br>When se firma<br>Then se despliega en red blockchain y queda inmutable.         | E2                         |
+| TS3                | Cumplimiento de protección de datos | El sistema debe cumplir con normativas de privacidad (ej. GDPR/LPDP).                          | Given un usuario<br>When solicita eliminar sus datos<br>Then el sistema realiza el borrado correspondiente.   | E5                         |
+| TS4                | Plataforma disponible 24/7         | La plataforma debe estar activa todo el día sin caídas operativas.                              | Given usuarios activos<br>When acceden en cualquier horario<br>Then pueden operar sin errores o interrupciones.| E2, E6                     |
+
+---
+
+
+
 #### 4.1.3. Architectural Drivers Backlog
+
+El Architectural Drivers Backlog de SmartWebContracts reúne los principales impulsores que guían el diseño de la arquitectura. Estos drivers han sido identificados y priorizados tras el análisis de funcionalidades críticas, atributos de calidad y restricciones innegociables.
+
+Realizamos sesiones colaborativas y un Quality Attribute Workshop para evaluar los elementos de mayor valor para los stakeholders y mayor influencia en las decisiones técnicas. A continuación, se presentan los drivers más relevantes, priorizados desde los de **mayor impacto estratégico y técnico**.
+
+| Driver ID | Título de Driver                  | Descripción                                                                                             | Importancia para Stakeholders | Impacto en Architecture Technical Complexity |
+|-----------|-----------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------|----------------------------------------------|
+| D1        | Validación automática del cumplimiento | El sistema debe permitir validar la entrega de servicios sin intervención manual, usando reglas o hash. | High                          | High                                         |
+| D2        | Contratos inteligentes inmutables | Los contratos entre cliente y desarrollador deben registrarse y ejecutarse en blockchain.               | High                          | High                                         |
+| D3        | Interfaz simple para usuarios no técnicos | La experiencia debe ser comprensible para personas sin conocimiento Web3 (clientes y desarrolladores).  | High                          | Medium                                       |
+| D4        | Evidencia digital verificable     | Se debe generar un ticket o comprobante digital en blockchain como prueba del cumplimiento.             | Medium                        | High                                         |
+| D5        | Compatibilidad con wallets Web3   | Los usuarios deben poder autenticarse y operar con wallets como Metamask o Trust Wallet.                | Medium                        | Medium                                       |
+| D6        | Alta disponibilidad de plataforma | La solución debe estar operativa 24/7 para evitar bloqueos durante validaciones o cobros.               | High                          | Medium                                       |
+| D7        | Registro de contratos fallidos o disputados | El sistema debe permitir registrar y consultar incidentes o reclamos por incumplimiento.               | Medium                        | Medium                                       |
+| D8        | Protección de datos personales    | Toda la gestión de datos debe alinearse a normativas como GDPR o similares.                             | High                          | Low                                          |
 
 #### 4.1.4. Architectural Design Decisions
 
+Durante el proceso de Quality Attribute Workshop, el equipo de SmartWebContracts evaluó distintos patrones de arquitectura con base en los drivers priorizados en el backlog. Para cada driver se identificaron alternativas viables y se evaluaron sus ventajas y desventajas. Esta evaluación se realizó en función de los atributos de calidad definidos, las restricciones tecnológicas, y los objetivos estratégicos del negocio.
+
+A continuación, se presenta un resumen de las decisiones tomadas, asociadas a los principales drivers, junto con la matriz de evaluación de patrones arquitectónicos.
+
+---
+
+| Driver ID | Título de Driver                  | Pattern 1: Microservicios + API Gateway           | Pattern 2: Arquitectura Modular Monolítica        | Pattern 3: Event-Driven Architecture              |
+|-----------|-----------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| D1        | Validación automática del cumplimiento | **Pro**: Alta desacoplamiento, escalabilidad<br>**Con**: Alta complejidad inicial | **Pro**: Fácil de implementar y mantener<br>**Con**: Menos flexible ante cambios | **Pro**: Responde bien a acciones asincrónicas como validaciones<br>**Con**: Difícil trazabilidad si no se gestiona correctamente |
+| D2        | Contratos inteligentes inmutables | **Pro**: Total trazabilidad y cumplimiento autónomo<br>**Con**: Complejidad de debugging | **Pro**: Menor esfuerzo inicial en integración blockchain<br>**Con**: Mayor acoplamiento y menor automatización | **Pro**: Permite validaciones disparadas por eventos<br>**Con**: Alto esfuerzo de configuración inicial |
+| D3        | Interfaz simple para usuarios no técnicos | **Pro**: Se puede aislar frontend con experiencia guiada por pasos<br>**Con**: Requiere orquestación API más compleja | **Pro**: Facilidad de desarrollo de UI uniforme<br>**Con**: Dificulta escalabilidad modular | **Pro**: Permite flujos UI reactivos a eventos backend<br>**Con**: Menor control secuencial en UI tradicional |
+| D6        | Alta disponibilidad de plataforma | **Pro**: Escalabilidad horizontal fácil<br>**Con**: Necesita infraestructura cloud robusta | **Pro**: Sencillo para MVP<br>**Con**: No ideal para crecimiento intensivo | **Pro**: Aísla fallos de servicios<br>**Con**: Complejidad en el monitoreo y recuperación de errores |
+
+---
+
 #### 4.1.5. Quality Attribute Scenario Refinements
+En esta sección se documentan los escenarios priorizados que influenciaron las decisiones arquitectónicas del proyecto SmartWebContracts. Estos refinamientos surgen del análisis realizado en el Quality Attribute Workshop y tienen como propósito asegurar que la solución cumpla con los atributos de calidad establecidos.
+
+A continuación, se presenta el refinamiento de los escenarios más relevantes, considerando su impacto en los objetivos del negocio y la experiencia de usuario.
+
+**Scenario Refinement for Scenario 1**
+
+| Elemento                       | Detalle                                                                 |
+|-------------------------------|-------------------------------------------------------------------------|
+| **Scenario(s):**              | Validación de entrega automática y generación de comprobante digital   |
+| **Business Goals:**           | Asegurar cumplimiento verificable, reducir disputas y aumentar la confianza del cliente |
+| **Relevant Quality Attributes:** | Auditabilidad, Seguridad, Usabilidad                                  |
+| **Stimulus:**                 | El desarrollador marca el contrato como entregado                      |
+
+**Scenario Components**
+
+| Componente         | Detalle                                                                              |
+|--------------------|---------------------------------------------------------------------------------------|
+| **Stimulus Source:** | Desarrollador Web                                                                   |
+| **Environment:**     | Plataforma en ambiente productivo                                                   |
+| **Artifact (if Known):** | Contrato inteligente y ticket digital asociado                             |
+| **Response:**         | El sistema genera hash verificable como comprobante en blockchain                 |
+| **Response Measure:** | Evidencia disponible 100% del tiempo, hash consultable en menos de 2 segundos     |
+
+**Questions:**
+- ¿El cliente puede acceder fácilmente a la evidencia desde su interfaz?
+- ¿Qué ocurre si no valida manualmente?
+
+**Issues:**
+- Definir reglas de validación automática por timeout o entrega implícita.
+
+**Scenario Refinement for Scenario 2**
+
+| Elemento                       | Detalle                                                           |
+|-------------------------------|-------------------------------------------------------------------|
+| **Scenario(s):**              | Protección contra modificación de contratos firmados              |
+| **Business Goals:**           | Garantizar integridad de acuerdos y seguridad de operaciones       |
+| **Relevant Quality Attributes:** | Seguridad, Integridad, Disponibilidad                          |
+| **Stimulus:**                 | Actor externo intenta modificar un contrato inteligente firmado   |
+
+**Scenario Components**
+
+| Componente         | Detalle                                                                 |
+|--------------------|-------------------------------------------------------------------------|
+| **Stimulus Source:** | Actor externo (malicioso o accidental)                              |
+| **Environment:**     | Red pública blockchain (Ethereum)                                   |
+| **Artifact (if Known):** | Contrato inteligente firmado                                |
+| **Response:**         | Blockchain rechaza toda modificación posterior a la firma         |
+| **Response Measure:** | Tasa de modificación no permitida = 100%                          |
+
+**Questions:**
+- ¿Es necesario informar al usuario sobre el intento fallido?
+- ¿Los logs deben registrarse on-chain o off-chain?
+
+**Issues:**
+- Balancear auditoría con eficiencia técnica.
+
+**Scenario Refinement for Scenario 3**
+
+| Elemento                       | Detalle                                                                 |
+|-------------------------------|-------------------------------------------------------------------------|
+| **Scenario(s):**              | Registro e ingreso de usuarios no técnicos                              |
+| **Business Goals:**           | Aumentar adopción de la plataforma entre usuarios con bajo conocimiento digital |
+| **Relevant Quality Attributes:** | Usabilidad, Accesibilidad                                              |
+| **Stimulus:**                 | Un nuevo usuario accede por primera vez al sitio                        |
+
+**Scenario Components**
+
+| Componente         | Detalle                                                                               |
+|--------------------|----------------------------------------------------------------------------------------|
+| **Stimulus Source:** | Cliente potencial                                                                   |
+| **Environment:**     | Navegador web desde laptop o smartphone                                             |
+| **Artifact (if Known):** | Pantalla de registro / login                                                  |
+| **Response:**         | El sistema muestra opciones simples: registro por email o wallet, con mensajes claros |
+| **Response Measure:** | El usuario completa el registro en < 3 minutos; tasa de abandono < 15%             |
+
+**Questions:**
+- ¿Qué ayudas visuales o textos pueden mejorar la tasa de éxito del registro?
+- ¿Se requiere onboarding adicional tras el primer login?
+
+**Issues:**
+- Necesidad de simplificar sin comprometer la validación de identidad.
+
+**Scenario Refinement for Scenario 4**
+
+| Elemento                       | Detalle                                                                 |
+|-------------------------------|-------------------------------------------------------------------------|
+| **Scenario(s):**              | Operación ininterrumpida 24/7 de la plataforma                         |
+| **Business Goals:**           | Garantizar acceso constante, especialmente durante entregas y validaciones |
+| **Relevant Quality Attributes:** | Disponibilidad, Escalabilidad                                          |
+| **Stimulus:**                 | Un usuario intenta acceder o validar un contrato en cualquier horario    |
+
+**Scenario Components**
+
+| Componente         | Detalle                                                                             |
+|--------------------|--------------------------------------------------------------------------------------|
+| **Stimulus Source:** | Cliente o desarrollador                                                            |
+| **Environment:**     | Plataforma productiva con múltiples usuarios simultáneos                          |
+| **Artifact (if Known):** | Backend + sistema de contratos inteligentes + validadores                    |
+| **Response:**         | El sistema responde sin interrupciones ni caídas                                 |
+| **Response Measure:** | Disponibilidad ≥ 99.9% mensual; tiempos de respuesta < 2 segundos                |
+
+**Questions:**
+- ¿El sistema cuenta con monitoreo proactivo y alertas?
+- ¿Qué mecanismos se usarán para balancear carga?
+
+**Issues:**
+- Posible necesidad de infraestructura escalable en la nube o soluciones L2.
 
 ### 4.2. Strategic-Level Domain-Driven Design
 
