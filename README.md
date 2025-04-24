@@ -706,11 +706,77 @@ A continuación, se presenta un glosario con los términos clave que forman part
 
 ### 3.1. To-Be Scenario Mapping
 
-### 3.2. User Stories
+## 3.2. User Stories
+
+### User Stories
+
+A continuación se presentan las historias de usuario agrupadas por épicas identificadas en el proyecto. Cada historia se ha elaborado siguiendo las buenas prácticas de diseño de User Stories, asegurando trazabilidad con los bounded contexts y los segmentos objetivo definidos. Los criterios de aceptación se expresan en formato Gherkin (Given-When-Then), y se incluyen también historias técnicas necesarias para el backend.
+
+#### Epicas
+
+| Epic / User Story ID | Título | Descripción                                                                                                   |
+|----------------------|--------|---------------------------------------------------------------------------------------------------------------|
+| E1 | Autenticación inicial | Gestión de autenticación y registro de usuarios para iniciar el uso de la plataforma.                         |
+| E2 | Gestión contractual | Creación y seguimiento de contratos inteligentes entre cliente y desarrollador.                               |
+| E3 | Seguimiento de reputación | Permite a clientes dejar evaluaciones sobre los desarrolladores contratados.                                  |
+| E4 | Gestión de suscripciones | Acceso a funcionalidades avanzadas mediante planes de suscripción.                                            |
+| E5 | Gestión de perfiles | Mantenimiento de información personal según el tipo de cuenta.                                                |
+| E6 | Notificaciones de contrato | Alertas automáticas del estado de los contratos.                                                              |
+| E7 | Revisión de sitios web | Permitir publicar y consultar enlaces web de desarrolladores.                                                 |
+| E8 | Landing Page informativa | Visita informativa de la plataforma antes del registro.                                                       |
+
+#### Historias de usuario
+
+| User Story ID | Título | Descripción                                                                                                   | Criterios de Aceptación | Relacionado con (Epic ID) |
+|---------------|--------|---------------------------------------------------------------------------------------------------------------|--------------------------|----------------------------|
+| US1 | Registro de desarrollador | Como desarrollador web, deseo registrarme y autenticarme de forma segura, para comenzar a usar la plataforma. | **Escenario: Registro exitoso con correo**<br/>Given un desarrollador con correo válido<br/>When completa el formulario<br/>Then se crea la cuenta y se confirma por correo<br/><br/>**Escenario: Registro con wallet Web3**<br/>Given un desarrollador con wallet activa<br/>When se autentica<br/>Then se redirige al dashboard con acceso de desarrollador | E1 |
+| US2 | Registro de cliente | Como cliente, deseo crear una cuenta y acceder, para contratar desarrolladores de forma segura.               | **Escenario: Registro exitoso de cliente**<br/>Given un nuevo cliente<br/>When se registra con sus datos<br/>Then accede a la plataforma<br/><br/>**Escenario: Intento de inicio de sesión inválido**<br/>Given datos incorrectos<br/>When intenta iniciar sesión<br/>Then se muestra un mensaje de error | E1 |
+| US3 | Crear contrato | Como cliente, deseo crear un contrato inteligente para formalizar la contratación de un desarrollador.        | **Escenario: Contrato creado exitosamente**<br/>Given un cliente autenticado<br/>When registra términos y wallet del desarrollador<br/>Then se genera un contrato en la blockchain<br/><br/>**Escenario: Error por datos inválidos**<br/>Given campos vacíos o inválidos<br/>When se intenta crear contrato<br/>Then el sistema bloquea el envío | E2 |
+| US4 | Validar contrato | Como desarrollador web, deseo validar un contrato creado por el cliente, para comenzar a trabajar.            | **Escenario: Validación exitosa del contrato**<br/>Given un contrato pendiente<br/>When el desarrollador acepta desde su perfil<br/>Then el estado del contrato cambia a “activo” | E2 |
+| US5 | Dejar reseña | Como cliente, deseo dejar una calificación sobre el desarrollador al finalizar el contrato.                   | **Escenario: Reseña creada exitosamente**<br/>Given un contrato finalizado<br/>When se completa el formulario<br/>Then la reseña aparece en el perfil del desarrollador | E3 |
+| US6 | Ver reseñas | Como cliente, deseo ver reseñas previas de un desarrollador antes de contratarlo.                             | **Escenario: Visualización de reseñas**<br/>Given un perfil público<br/>When el cliente lo visita<br/>Then ve un listado de reseñas verificadas | E3 |
+| US7 | Suscribirse a plan | Como cliente, deseo suscribirme a un plan para acceder a funcionalidades premium.                             | **Escenario: Suscripción activa**<br/>Given datos de pago válidos<br/>When se confirma el pago<br/>Then se activa el plan premium | E4 |
+| US8 | Validar pago (técnico) | Como Developer, deseo validar pagos de suscripciones desde backend para autorizar servicios.                  | **Escenario: Pago confirmado vía API**<br/>Given un request de confirmación<br/>When la respuesta es válida<br/>Then se actualiza el estado de suscripción a “activa” | E4 |
+| US9 | Completar perfil desarrollador | Como desarrollador, deseo editar mis datos y añadir enlaces a proyectos.                                      | **Escenario: Perfil actualizado exitosamente**<br/>Given un desarrollador autenticado<br/>When edita sus datos y guarda<br/>Then se muestra el perfil actualizado | E5 |
+| US10 | Completar perfil cliente | Como cliente, deseo actualizar mis datos personales.                                                          | **Escenario: Actualización exitosa de cliente**<br/>Given un cliente autenticado<br/>When edita sus datos<br/>Then se confirma el cambio | E5 |
+| US11 | Notificación por contrato creado | Como desarrollador, deseo recibir una alerta cuando un cliente me envía un contrato.                          | **Escenario: Alerta generada**<br/>Given un contrato nuevo<br/>When el cliente lo envía<br/>Then se genera notificación automática al desarrollador | E6 |
+| US12 | Notificación de contrato finalizado | Como cliente, deseo recibir una notificación cuando un contrato finaliza.                                     | **Escenario: Notificación de fin de contrato**<br/>Given un contrato llega a su fin<br/>When se cumplen las condiciones<br/>Then el sistema notifica al cliente | E6 |
+| US13 | Publicar enlace de proyecto | Como desarrollador, deseo compartir un enlace web de mi portafolio.                                           | **Escenario: Enlace publicado exitosamente**<br/>Given un desarrollador autenticado<br/>When añade el enlace<br/>Then este se muestra en su perfil | E7 |
+| US14 | Revisar proyecto | Como cliente, deseo revisar el enlace web publicado por un desarrollador.                                     | **Escenario: Acceso exitoso al enlace**<br/>Given un cliente autenticado<br/>When da clic al enlace<br/>Then se abre en una nueva pestaña | E7 |
+| US15 | Acceder al sitio web | Como cliente, deseo ver la información del proyecto antes de crear una cuenta.                                | **Escenario: Acceso a landing page**<br/>Given un visitante anónimo<br/>When ingresa al dominio<br/>Then visualiza las secciones públicas informativas | E8 |
 
 ### 3.3. Impact Mapping
 
 ### 3.4. Product Backlog
+
+| Orden | User Story ID | Título                         | Descripción                                                                                            | Story Points |
+|-------|----------------|--------------------------------|--------------------------------------------------------------------------------------------------------|--------------|
+| 1     | US15           | Acceder al sitio web           | Como cliente, deseo ver la información de la startup antes de crear una cuenta.                         | 1            |
+| 2     | US13           | Publicar enlace de proyecto    | Como desarrollador, deseo compartir un enlace web de mi portafolio.                                    | 2            |
+| 3     | US14           | Revisar proyecto               | Como cliente, deseo revisar el enlace web publicado por un desarrollador.                              | 2            |
+| 4     | US3            | Crear contrato                 | Como cliente, deseo crear un contrato inteligente para formalizar la contratación de un desarrollador. | 5 |
+| 5     | US4            | Validar contrato               | Como desarrollador web, deseo validar un contrato creado por el cliente.                               | 3            |
+| 6     | US11           | Notificación por contrato creado | Como desarrollador, deseo recibir una alerta cuando un cliente me envía un contrato.                   | 2       |
+| 7     | US12           | Notificación de contrato finalizado | Como cliente, deseo recibir una notificación cuando un contrato finaliza.                              | 2     |
+| 8     | US5            | Dejar reseña                   | Como cliente, deseo dejar una calificación sobre el desarrollador al finalizar el contrato.            | 3       |
+| 9     | US6            | Ver reseñas                    | Como cliente, deseo ver reseñas previas de un desarrollador antes de contratarlo.                      | 2         |
+| 10    | US7            | Suscribirse a plan             | Como cliente, deseo suscribirme a un plan para acceder a funcionalidades premium.                      | 3           |
+| 11    | US8            | Validar pago (técnico)         | Como Developer, deseo validar pagos de suscripciones desde backend.                                    | 2            |
+| 12    | US9            | Completar perfil desarrollador | Como desarrollador, deseo editar mis datos y añadir enlaces a proyectos.                               | 2            |
+| 13    | US10           | Completar perfil cliente       | Como cliente, deseo actualizar mis datos personales.                                                   | 2            |
+| 14    | US1            | Registro de desarrollador      | Como desarrollador, deseo registrarme y autenticarme para comenzar a usar la plataforma.               | 3        |
+| 15    | US2            | Registro de cliente            | Como cliente, deseo crear una cuenta y acceder para contratar desarrolladores.                         | 3            |
+
+---
+
+### Captura del Product Backlog
+
+![Captura de Product Backlog en Pivotal Tracker]()
+
+### Enlace público al Product Backlog
+
+[🔗 Acceder al Product Backlog](https://ejemplo-herramienta.com/product-backlog-public-link)
+
 
 ## Capítulo IV: Strategic-Level Software Design
 
