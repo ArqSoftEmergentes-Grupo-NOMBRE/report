@@ -193,7 +193,7 @@ Usaremos las herramientas de User Persona, User Task Matrix, User Journey Mappin
 
 ![User Persona Freelance](assets/img/chapter-2/user-persona-developer.png)
 
-##### User Persona Dueño de PYME
+##### User Persona Profesional
 
 ![User Persona Dueño](assets/img/chapter-2/user-persona-owner.png)
 
@@ -201,7 +201,7 @@ Usaremos las herramientas de User Persona, User Task Matrix, User Journey Mappin
 
 A continuación mostramos la User Task Matrix, en la que podremos observar las tareas más importantes que realizan los segmentos objetivos en sus jornadas normales.
 
-| Task                                       | Desarrollador Freelance (Frecuencia/Importancia) | Dueño de la PYME (Frecuencia/Importancia) |
+| Task                                       | Desarrollador Freelance (Frecuencia/Importancia) | Profesionales que desea un portafolio digital (Frecuencia/Importancia) |
 |--------------------------------------------|-----------------------------------------------|----------------------------------------|
 | Búsqueda de nuevos proyectos               | Alta/Alta                                    | Baja/Baja                             |
 | Negociación con clientes                   | Alta/Alta                                    | Media/Media                           |
@@ -213,7 +213,7 @@ A continuación mostramos la User Task Matrix, en la que podremos observar las t
 | Gestión de pagos y presupuestos            | Media/Media                                  | Alta/Alta                             |
 | Planificación de tareas y plazos           | Alta/Alta                                    | Media/Alta                            |
 | Evaluación de la satisfacción del cliente  | Media/Media                                  | Alta/Alta                             |
-| Mejora de portafolio                       | Alta/Alta                                    | Baja/Baja                             |
+| Mejora de portafolio                       | Alta/Alta                                    | Alta/Alta                             |
 | Investigación de nuevas tecnologías        | Alta/Alta                                    | Baja/Baja                             |
 | Supervisión de la calidad del trabajo      | Alta/Alta                                    | Baja/Baja                             |
 | Asesoría técnica a clientes                | Media/Alta                                   | Baja/Baja                             |
@@ -227,7 +227,7 @@ En esta sección se exponen los Journey Mappings, explicando las etapas principa
 
 ![User Journey Mapping Freelance](assets/img/chapter-2/user-journey-mapping-developer.png)
 
-##### User Journey Mapping Dueño de PYME
+##### User Journey Mapping Profesional
 
 ![User Journey Mapping Dueño](assets/img/chapter-2/user-journey-mapping-owner.png)
 
@@ -239,7 +239,7 @@ En esta sección se exponen los Empathy Mappings, en los cuales intentamos compr
 
 ![Empathy Mapping Freelance](assets/img/chapter-2/empathy-mapping-developer.png)
 
-##### Empathy Mapping Dueño de PYME
+##### Empathy Mapping Profesional
 
 ![Empathy Mapping Dueño](assets/img/chapter-2/empathy-mapping-owner.png)
 
