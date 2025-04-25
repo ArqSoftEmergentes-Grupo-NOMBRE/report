@@ -1025,11 +1025,20 @@ A continuación, se presenta el refinamiento de los escenarios más relevantes, 
 
 #### 4.3.1. Software Architecture System Landscape Diagram
 
+![System Landscape Diagram](assets/img/chapter-4/System%20Landscape%20Diagram.png)
+
 #### 4.3.2. Software Architecture Context Level Diagrams
+
+![Context Diagram](assets/img/chapter-4/Context%20Diagram.png)
+
 
 #### 4.3.3. Software Architecture Container Level Diagrams
 
+![Container Diagram](assets/img/chapter-4/Container%20Diagram.png)
+
 #### 4.3.4. Software Architecture Deployment Diagrams
+
+![Deployment Diagram](assets/img/chapter-4/Deployment%20Diagram.png)
 
 ---
 
