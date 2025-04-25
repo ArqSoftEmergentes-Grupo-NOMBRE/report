@@ -1013,13 +1013,37 @@ A continuación, se presenta el refinamiento de los escenarios más relevantes, 
 
 #### 4.2.1. EventStorming
 
+![Event Storming](assets/img/chapter-3/event-storming-4.png)
+
 #### 4.2.2. Candidate Context Discovery
+
+**Paso 1: Collect Domain Events:** En el primer paso del Event Storming, iniciamos con una lluvia de ideas, intentando identificar todos los eventos que van a presentarse a lo largo del uso de la aplicación. Para ello, usamos la herramienta Miro y cada uno iba poniendo los eventos que se le ocurrían.  
+**Imagen del resultado:** 
+
+![Collect Domain Events](assets/img/chapter-3/event-storming-1.png)
+
+**Paso 2: Refine Domain Events:** En este segundo paso, organizamos los eventos, intentando agruparlos según el orden en el que suceden en el dominio. También agregamos nuevos eventos que no habíamos considerado en el paso 1 y los resaltamos para reconocerlos fácilmente. 
+**Imagen del resultado:**
+
+![Refine Domain Events](assets/img/chapter-3/event-storming-2.png)
+
+**Paso 3: Track Causes:** Para el tercer paso, relacionamos con flechas el orden de los eventos, creando una sucesión. Agregamos también las interacciones del usuario y los comandos que desencadenan eventos.
+**Imagen del resultado:**
+
+![Track Causes](assets/img/chapter-3/event-storming-3.png)
+
+**Paso 4: Find aggregates & re-sort them:** Para el último paso, identificamos Aggregates en los distintos eventos del dominio y agrupamos dichos eventos en Bounded Context. Luego los nombramos y relacionamos los contextos que lo requerían entre ellos.
+**Imagen del resultado:**
+
+![Find Aggregates](assets/img/chapter-3/event-storming-4.png)
 
 #### 4.2.3. Domain Message Flows Modeling
 
 #### 4.2.4. Bounded Context Canvases
 
 #### 4.2.5. Context Mapping
+
+![Context Mapping](assets/img/chapter-3/context-mapping.png)
 
 ### 4.3. Software Architecture
 
