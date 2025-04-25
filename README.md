@@ -10,9 +10,9 @@
 
 **Profesor: Rojas Malasquez, Royer Edelwer**
 
-**Startup: a**
+**Startup: Tarket**
 
-**Producto: a**
+**Producto: Tarket Contracts**
 
 ### Relación de integrantes:
 
