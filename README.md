@@ -163,13 +163,13 @@ Ser reconocidos como una **startup innovadora** en el desarrollo de herramientas
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto | Nombre completo          | Código | Carrera | Resumen |
-|------|--------------------------|--------|---------|---------|
-|  *(colocar foto aquí)* | **Name**                 | Código | Carrera | Resumen |
-|  *(colocar foto aquí)* | **Name**  | Código | Carrera | Resumen |
-|  *(colocar foto aquí)* | **Name** | Código | Carrera | Resumen |
-|  *(colocar foto aquí)* | **Name**  | Código | Carrera | Resumen |
-|  *(colocar foto aquí)* | **Name**  | Código | Carrera | Resumen |
+| Foto                                                      | Nombre completo                   | Código     | Carrera                | Resumen                                                                                                                                                                                                                                                                            |
+|-----------------------------------------------------------|-----------------------------------|------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Perfil X](assets/img/chapter-1/)                        | **César Antonio Castilla Pachas** | u202218735     | Carrera                | Resumen                                                                                                                                                                                                                                                                            |
+| ![Perfil Joaquin](assets/img/chapter-1/JoaquinPerfil.jpg) | **Joaquín Marcelo Cortés Casas**  | u202114545 | Ingeniería de Software | Me llamo Joaquín, cuento con amplia experiencia previa liderando múltiples equipos de trabajo, buscando un buen nivel de compromiso y enfoque en la calidad del producto final. Actualizo constantemente mis conocimientos de software probando distintas tecnologías innovadoras. |
+| ![Perfil X](assets/img/chapter-1/)                                     | **Fernando Josué Diaz Silva**     | u202112722     | Carrera                | Resumen                                                                                                                                                                                                                                                                            |
+| ![Perfil X](assets/img/chapter-1/)                                     | **Ramón Alejandro Jorge Arévalo**                          | u20221D126     | Carrera                | Resumen                                                                                                                                                                                                                                                                            |
+
 
 ---
 
