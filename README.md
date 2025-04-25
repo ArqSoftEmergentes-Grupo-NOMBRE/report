@@ -307,6 +307,24 @@ En esta sección se exponen los Empathy Mappings, en los cuales intentamos compr
 
 #### 4.2.3. Domain Message Flows Modeling
 
+![User Flow Modeling 1](assets/img/chapter-3/user-flow-modeling-1.png)
+
+![User Flow Modeling 2](assets/img/chapter-3/user-flow-modeling-2.png)
+
+![User Flow Modeling 3](assets/img/chapter-3/user-flow-modeling-3.png)
+
+![User Flow Modeling 4](assets/img/chapter-3/user-flow-modeling-4.png)
+
+![User Flow Modeling 5](assets/img/chapter-3/user-flow-modeling-5.png)
+
+![User Flow Modeling 6](assets/img/chapter-3/user-flow-modeling-6.png)
+
+![User Flow Modeling 7](assets/img/chapter-3/user-flow-modeling-7.png)
+
+![User Flow Modeling 8](assets/img/chapter-3/user-flow-modeling-8.png)
+
+![User Flow Modeling 9](assets/img/chapter-3/user-flow-modeling-9.png)
+
 #### 4.2.4. Bounded Context Canvases
 
 #### 4.2.5. Context Mapping
