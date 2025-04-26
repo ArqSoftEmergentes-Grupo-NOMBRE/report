@@ -41,7 +41,7 @@
 
 ## Project Report Collaboration Insights
 ### URL del repositorio en la organización GitHub
-[Enlace al repositorio del informe en GitHub](https://github.com/SolucionesIoT-Grupo-IoTInnovators/report/tree/develop)
+[Enlace al repositorio del informe en GitHub](https://github.com/ArqSoftEmergentes-Grupo-NOMBRE)
 
 ### Actividades de elaboración del informe
 #### TB1:
@@ -54,8 +54,11 @@
 
 **Evidencia de colaboración y commits en GitHub del reporte:**
 
-![Captura de analíticos de colaboración de GitHub - 1]()
-![Captura de commits de GitHub - 1]()
+### Commits realizados:
+![Captura de Commits - 1](assets/img/extra/CommitsTB1.png)
+
+### Línea de tiempo de commits realizados
+![Captura de Network Graph - 1](assets/img/extra/NetworkGraphTB1.png)
 
 ---
 
