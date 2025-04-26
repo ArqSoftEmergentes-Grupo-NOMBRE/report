@@ -730,11 +730,11 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
 
 ### Captura del Product Backlog
 
-![Captura de Product Backlog en Pivotal Tracker]()
+![Captura de Product Backlog en Pivotal Tracker](assets/img/chapter-3/PivotalTracker.png)
 
 ### Enlace público al Product Backlog
 
-[🔗 Acceder al Product Backlog](https://ejemplo-herramienta.com/product-backlog-public-link)
+[🔗 Acceder al Product Backlog](https://www.pivotaltracker.com/n/projects/2740948)
 
 
 ## Capítulo IV: Strategic-Level Software Design
