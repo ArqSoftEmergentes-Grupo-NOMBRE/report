@@ -1041,6 +1041,39 @@ A continuación, se presenta el refinamiento de los escenarios más relevantes, 
 
 #### 4.2.4. Bounded Context Canvases
 
+1. IAM
+
+![Canvas de Bounded Context - IAM](assets/img/chapter-4/IAM-BoundedContextCanvas.jpg)
+
+2. Profile
+
+![Canvas de Bounded Context - Profile](assets/img/chapter-4/Profile-BoundedContextCanvas.jpg)
+
+3. Reviews
+
+![Canvas de Bounded Context - Reviews](assets/img/chapter-4/Reviews-BoundedContextCanvas.jpg)
+
+4. Contracts
+
+![Canvas de Bounded Context - Contracts](assets/img/chapter-4/Contract-BoundedContextCanvas.jpg)
+
+5. Contract Validation
+
+![Canvas de Bounded Context - Contract Validation](assets/img/chapter-4/Contract%20Validation-BoundedContextCanvas.jpg)
+
+6. Website
+
+![Canvas de Bounded Context - Website](assets/img/chapter-4/Website-BoundedContextCanvas.jpg)
+
+7. Notification
+
+![Canvas de Bounded Context - Notification](assets/img/chapter-4/Notifications-BoundedContextCanvas.jpg)
+
+8. Subscription
+
+![Canvas de Bounded Context - Notification](assets/img/chapter-4/Subscriptions-BoundedContextCanvas.jpg)
+
+
 #### 4.2.5. Context Mapping
 
 ![Context Mapping](assets/img/chapter-3/context-mapping.png)
