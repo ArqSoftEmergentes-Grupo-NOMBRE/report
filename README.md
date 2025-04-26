@@ -44,10 +44,10 @@
 #### TB1:
 
 **Descripción de las actividades realizadas:**
-- **Castilla Pachas, César Antonio:** a
-- **Cortés Casas, Joaquin Marcelo:** a
-- **Diaz Silva, Fernando Josué:** a
-- **Jorge Arévalo, Ramón Alejandro:** a
+- **Castilla Pachas, César Antonio:** Creación del Startup Profile, Solution Profile, Segmentos objetivo, To-Be Scenario Mapping, Impact Mapping y Strategic-Level Attribute-Driven Design.
+- **Cortés Casas, Joaquin Marcelo:** Creación de User Stories, Product Backlog, Bounded Context Canvases y diagramas de Software Architecture.
+- **Diaz Silva, Fernando Josué:** Creación de tabla de competidores, Diseño de entrevistas, Ubiquitous Language y As-Is Scenario Mapping.
+- **Jorge Arévalo, Ramón Alejandro:** Creación de User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y la mayor parte de Strategic-Level Domain-Driven Design.
 
 **Evidencia de colaboración y commits en GitHub del reporte:**
 
