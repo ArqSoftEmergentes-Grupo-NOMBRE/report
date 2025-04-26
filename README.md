@@ -369,11 +369,11 @@ Los desarrolladores de este segmento valoran herramientas que les permitan forma
 
 A continuación se presentan tres competidores relevantes que ofrecen soluciones similares o complementarias al modelo de SmartWebContracts:
 
-| **Nombre del Competidor** | **Descripción** | **Enlace** |
-|----------------------------|-----------------|------------|
-| **Upwork** | Plataforma global para contratar freelancers, que actúa como intermediario en pagos y entregas. | [https://www.upwork.com](https://www.upwork.com) |
-| **Braintrust** | Red descentralizada para conectar freelancers con empresas mediante tecnología blockchain, sin comisiones. | [https://www.usebraintrust.com](https://www.usebraintrust.com) |
-| **LaborX** | Plataforma freelance basada en blockchain que conecta a freelancers con clientes mediante contratos inteligentes y pagos en criptomonedas. | [https://laborx.com](https://laborx.com) |
+| **Nombre del Competidor** | **Descripción** | **Enlace**                                                  |
+|----------------------------|-----------------|-------------------------------------------------------------|
+| **Upwork** | Plataforma global para contratar freelancers, que actúa como intermediario en pagos y entregas. | [Upwork logo](assets/img/chapter-2/upwork-Logo.png)         |
+| **Braintrust** | Red descentralizada para conectar freelancers con empresas mediante tecnología blockchain, sin comisiones. | [Braintrust logo](assets/img/chapter-2/Braintrust-Logo.png) |
+| **LaborX** | Plataforma freelance basada en blockchain que conecta a freelancers con clientes mediante contratos inteligentes y pagos en criptomonedas. | [LaborX logo](assets/img/chapter-2/laborX-Logo.png)         |
 
 ---
 
