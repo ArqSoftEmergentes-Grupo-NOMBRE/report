@@ -369,130 +369,71 @@ Los desarrolladores de este segmento valoran herramientas que les permitan forma
 
 A continuación se presentan tres competidores relevantes que ofrecen soluciones similares o complementarias al modelo de SmartWebContracts:
 
-| *Nombre del Competidor* | *Descripción*                                                                                                         | *Enlace*                                |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| *Upwork*                | Plataforma global para contratar freelancers, que actúa como intermediario en pagos y entregas.                         | [https://www.upwork.com](https://www.upwork.com) |
-| *Braintrust*            | Red descentralizada para conectar freelancers con empresas mediante tecnología blockchain, sin comisiones.             | [https://www.usebraintrust.com](https://www.usebraintrust.com) |
-| *LaborX*             | Plataforma freelance basada en blockchain que conecta a freelancers con clientes mediante contratos inteligentes y pagos en criptomonedas.              | [https://laborx.com](https://laborx.com) |
+| **Nombre del Competidor** | **Descripción** | **Enlace** |
+|----------------------------|-----------------|------------|
+| **Upwork** | Plataforma global para contratar freelancers, que actúa como intermediario en pagos y entregas. | [https://www.upwork.com](https://www.upwork.com) |
+| **Braintrust** | Red descentralizada para conectar freelancers con empresas mediante tecnología blockchain, sin comisiones. | [https://www.usebraintrust.com](https://www.usebraintrust.com) |
+| **LaborX** | Plataforma freelance basada en blockchain que conecta a freelancers con clientes mediante contratos inteligentes y pagos en criptomonedas. | [https://laborx.com](https://laborx.com) |
 
-#### 2.1.1. Análisis competitivo
+---
 
-<table border="1" cellspacing="0" cellpadding="6">
+## 2.1.1. Análisis competitivo
 
-<!-- Título -->
-<tr>
-  <th colspan="6" align="left">Competitive Analysis Landscape</th>
-</tr>
+### Propósito del análisis
 
-<!-- Propósito del análisis -->
-<tr>
-  <td rowspan="2"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
-  <td colspan="5">Para comprender cómo se posiciona SmartWebContracts frente a sus principales competidores, identificando fortalezas, debilidades, oportunidades y amenazas que guíen su estrategia de crecimiento.</td>
-</tr>
-<tr></tr>
+| | |
+|:--|:--|
+| **¿Por qué llevar a cabo este análisis?** | Para comprender cómo se posiciona SmartWebContracts frente a sus principales competidores, identificando fortalezas, debilidades, oportunidades y amenazas que guíen su estrategia de crecimiento. |
 
-<!-- Cabecera de competidores -->
-<tr>
-  <td colspan="2"><strong>Competidores</strong></td>
-  <td><img src="https://i.imgur.com/B8L5Fyd.png" width="80"><br><strong>SmartWebContracts</strong></td>
-  <td><img src="https://play-lh.googleusercontent.com/PgAl0V1pWvER7X9ViFrBaT9Pxye4pRH5Nr9JlD5RbKjNX0bcMRp007dQhd17b0Y28Rwv" width="80"><br><strong>Upwork</strong></td>
-  <td><img src="https://cdn-1.webcatalog.io/catalog/braintrust/braintrust-icon-filled-256.png?v=1714773455724" width="80"><br><strong>Braintrust</strong></td>
-  <td><img src="https://media.licdn.com/dms/image/v2/C510BAQFtd5XIGbRKNA/company-logo_200_200/company-logo_200_200/0/1630628219536/laborxnews_logo?e=2147483647&v=beta&t=rUd2fHDRcAVvXU4XgVSAUOsnb6pLzH5iJ-5Bhmv_NMM" width="80"><br><strong>LaborX</strong></td>
-</tr>
+---
 
-<!-- Overview -->
-<tr>
-  <td rowspan="1"><strong>Perfil</strong></td>
-  <td>Overview</td>
-  <td>Plataforma Web3 universitaria que automatiza acuerdos entre desarrolladores web y clientes mediante contratos inteligentes en blockchain.</td>
-  <td>Marketplace freelance global con comisiones por intermediación y reputación consolidada.</td>
-  <td>Plataforma descentralizada de trabajo freelance con gobernanza comunitaria y sin comisiones.</td>
-  <td>Plataforma de contratación freelance basada en blockchain que permite acuerdos mediante contratos inteligentes y pagos en cripto.</td>
-</tr>
+### Competidores
 
-<!-- Perfil de Marketing -->
-<tr>
-  <td rowspan="3"><strong>Perfil de Marketing</strong></td>
-  <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-  <td>Contratos inteligentes automáticos, validación en blockchain y comprobante digital como evidencia de cumplimiento.</td>
-  <td>Acceso a clientes internacionales, protección de pagos y reputación digital.</td>
-  <td>Modelo sin comisiones, autogestión vía DAO y enfoque transparente.</td>
-  <td>Pagos en cripto, sin intermediarios, libertad contractual entre partes.</td>
-</tr>
-<tr>
-  <td>Mercado objetivo</td>
-  <td>Freelancers web y profesionales que buscan presencia digital funcional y segura.</td>
-  <td>Freelancers de diversas áreas y empresas globales.</td>
-  <td>Empresas tecnológicas medianas y grandes que contratan talento remoto Web3.</td>
-  <td>Freelancers y clientes familiarizados con el ecosistema cripto y descentralizado.</td>
-</tr>
-<tr>
-  <td>Estrategias de marketing</td>
-  <td>Workshops, contenido educativo sobre Web3, alianzas en universidades y comunidades tech.</td>
-  <td>Publicidad pagada, posicionamiento en motores de búsqueda y reviews.</td>
-  <td>Promoción comunitaria mediante DAO y presencia en eventos cripto.</td>
-  <td>Alianzas con ecosistemas blockchain, recompensas por reputación y visibilidad Web3.</td>
-</tr>
+| | **SmartWebContracts** | **Upwork** | **Braintrust** | **LaborX** |
+|:--|:--|:--|:--|:--|
+| **Logo** | ![SmartWebContracts](https://i.imgur.com/B8L5Fyd.png) | ![Upwork](https://play-lh.googleusercontent.com/PgAl0V1pWvER7X9ViFrBaT9Pxye4pRH5Nr9JlD5RbKjNX0bcMRp007dQhd17b0Y28Rwv) | ![Braintrust](https://cdn-1.webcatalog.io/catalog/braintrust/braintrust-icon-filled-256.png?v=1714773455724) | ![LaborX](https://media.licdn.com/dms/image/v2/C510BAQFtd5XIGbRKNA/company-logo_200_200/company-logo_200_200/0/1630628219536/laborxnews_logo?e=2147483647&v=beta&t=rUd2fHDRcAVvXU4XgVSAUOsnb6pLzH5iJ-5Bhmv_NMM) |
 
-<!-- Perfil de Producto -->
-<tr>
-  <td rowspan="3"><strong>Perfil de Producto</strong></td>
-  <td>Productos & Servicios</td>
-  <td>Creación de contratos inteligentes personalizados, validación automatizada, emisión de comprobante digital.</td>
-  <td>Contratación freelance, resolución de disputas y gestión de proyectos.</td>
-  <td>Conexión descentralizada, reputación comunitaria, gobernanza abierta.</td>
-  <td>Mercado freelance Web3 con contratos inteligentes preconfigurados y pagos automatizados.</td>
-</tr>
-<tr>
-  <td>Precios & Costos</td>
-  <td>Comisión baja por contrato validado, sin intermediarios.</td>
-  <td>Comisión entre 5% y 20% por proyecto gestionado.</td>
-  <td>Sin comisiones, modelo basado en token.</td>
-  <td>Pagos en cripto, sin comisiones por intermediación.</td>
-</tr>
-<tr>
-  <td>Canales de distribución (Web y/o Móvil)</td>
-  <td>Web app con integración a Metamask, Trust Wallet y otras wallets Web3.</td>
-  <td>Web + App móvil, con sistema de notificaciones y mensajería.</td>
-  <td>Plataforma Web3 conectada a DAO y wallets.</td>
-  <td>Plataforma Web3 accesible desde navegador y mobile-friendly.</td>
-</tr>
+---
 
-<!-- Análisis SWOT -->
-<tr>
-  <td rowspan="5"><strong>Análisis SWOT</strong></td>
-  <td colspan="5">Fortalezas, debilidades, oportunidades y amenazas de la startup y sus competidores principales.</td>
-</tr>
-<tr>
-  <td>Fortalezas</td>
-  <td>Descentralización, seguridad, automatización, validez en blockchain, foco educativo.</td>
-  <td>Escalabilidad, reputación consolidada, herramientas robustas.</td>
-  <td>Modelo sin fees, participación comunitaria, escalabilidad DAO.</td>
-  <td>Libertad para establecer condiciones entre partes, visibilidad cripto, foco Web3.</td>
-</tr>
-<tr>
-  <td>Debilidades</td>
-  <td>Curva de aprendizaje blockchain, baja adopción inicial, barrera tecnológica.</td>
-  <td>Comisiones altas, modelo centralizado, dependencia de la plataforma.</td>
-  <td>Complejidad para usuarios nuevos, limitada difusión LATAM.</td>
-  <td>Baja adopción general fuera de la comunidad cripto.</td>
-</tr>
-<tr>
-  <td>Oportunidades</td>
-  <td>Educación Web3, expansión en LATAM, alianzas académicas.</td>
-  <td>Verticalización en nichos freelance.</td>
-  <td>Expansión hacia modelos de talento corporativo descentralizado.</td>
-  <td>Crecimiento del uso de criptomonedas y plataformas autónomas.</td>
-</tr>
-<tr>
-  <td>Amenazas</td>
-  <td>Desinformación tecnológica, resistencia a blockchain, regulación.</td>
-  <td>Competencia descentralizada emergente.</td>
-  <td>Regulación cripto, saturación de plataformas.</td>
-  <td>Volatilidad cripto, posibles bloqueos regulatorios en ciertos países.</td>
-</tr>
+### Perfil
 
-</table>
+| | **SmartWebContracts** | **Upwork** | **Braintrust** | **LaborX** |
+|:--|:--|:--|:--|:--|
+| **Overview** | Plataforma Web3 universitaria que automatiza acuerdos entre desarrolladores web y clientes mediante contratos inteligentes en blockchain. | Marketplace freelance global con comisiones por intermediación y reputación consolidada. | Plataforma descentralizada de trabajo freelance con gobernanza comunitaria y sin comisiones. | Plataforma de contratación freelance basada en blockchain que permite acuerdos mediante contratos inteligentes y pagos en cripto. |
+
+---
+
+### Perfil de Marketing
+
+| | **SmartWebContracts** | **Upwork** | **Braintrust** | **LaborX** |
+|:--|:--|:--|:--|:--|
+| **Ventaja competitiva** | Contratos inteligentes automáticos, validación en blockchain y comprobante digital como evidencia de cumplimiento. | Acceso a clientes internacionales, protección de pagos y reputación digital. | Modelo sin comisiones, autogestión vía DAO y enfoque transparente. | Pagos en cripto, sin intermediarios, libertad contractual entre partes. |
+| **Mercado objetivo** | Freelancers web y profesionales que buscan presencia digital funcional y segura. | Freelancers de diversas áreas y empresas globales. | Empresas tecnológicas medianas y grandes que contratan talento remoto Web3. | Freelancers y clientes familiarizados con el ecosistema cripto y descentralizado. |
+| **Estrategias de marketing** | Workshops, contenido educativo sobre Web3, alianzas en universidades y comunidades tech. | Publicidad pagada, posicionamiento en motores de búsqueda y reviews. | Promoción comunitaria mediante DAO y presencia en eventos cripto. | Alianzas con ecosistemas blockchain, recompensas por reputación y visibilidad Web3. |
+
+---
+
+### Perfil de Producto
+
+| | **SmartWebContracts** | **Upwork** | **Braintrust** | **LaborX** |
+|:--|:--|:--|:--|:--|
+| **Productos & Servicios** | Creación de contratos inteligentes personalizados, validación automatizada, emisión de comprobante digital. | Contratación freelance, resolución de disputas y gestión de proyectos. | Conexión descentralizada, reputación comunitaria, gobernanza abierta. | Mercado freelance Web3 con contratos inteligentes preconfigurados y pagos automatizados. |
+| **Precios & Costos** | Comisión baja por contrato validado, sin intermediarios. | Comisión entre 5% y 20% por proyecto gestionado. | Sin comisiones, modelo basado en token. | Pagos en cripto, sin comisiones por intermediación. |
+| **Canales de distribución** | Web app con integración a Metamask, Trust Wallet y otras wallets Web3. | Web + App móvil, con sistema de notificaciones y mensajería. | Plataforma Web3 conectada a DAO y wallets. | Plataforma Web3 accesible desde navegador y mobile-friendly. |
+
+---
+
+### Análisis SWOT
+
+| | **SmartWebContracts** | **Upwork** | **Braintrust** | **LaborX** |
+|:--|:--|:--|:--|:--|
+| **Fortalezas** | Descentralización, seguridad, automatización, validez en blockchain, foco educativo. | Escalabilidad, reputación consolidada, herramientas robustas. | Modelo sin fees, participación comunitaria, escalabilidad DAO. | Libertad para establecer condiciones entre partes, visibilidad cripto, foco Web3. |
+| **Debilidades** | Curva de aprendizaje blockchain, baja adopción inicial, barrera tecnológica. | Comisiones altas, modelo centralizado, dependencia de la plataforma. | Complejidad para usuarios nuevos, limitada difusión LATAM. | Baja adopción general fuera de la comunidad cripto. |
+| **Oportunidades** | Educación Web3, expansión en LATAM, alianzas académicas. | Verticalización en nichos freelance. | Expansión hacia modelos de talento corporativo descentralizado. | Crecimiento del uso de criptomonedas y plataformas autónomas. |
+| **Amenazas** | Desinformación tecnológica, resistencia a blockchain, regulación. | Competencia descentralizada emergente. | Regulación cripto, saturación de plataformas. | Volatilidad cripto, posibles bloqueos regulatorios en ciertos países. |
+
+---
+
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 Nuestras estrategias y tácticas frente a la competencia se enfocan en diferenciar nuestra propuesta mediante el uso de tecnología blockchain y en brindar una experiencia accesible, segura y descentralizada.
