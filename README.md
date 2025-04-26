@@ -29,10 +29,13 @@
 
 ## Registro de Versiones del Informe
 
-| **Versión** | **Fecha**  |           **Autor**            | **Descripción de Modificación**                                 |
-|-------------|------------|--------------------------------|-----------------------------------------------------------------|
-| 1.0         | 15/04/2025 | Cortés Casas, Joaquín Marcelo  | Creación del informe. Adición de carátula y tabla de contenidos |
-| ...         | ...        | ...                            | ...                                                             |
+| **Versión** | **Fecha**  | **Autor**                                                                                               | **Descripción de Modificación**                                                                                                                                                 |
+|-------------|------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0         | 15/04/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Creación del informe. Adición de carátula y tabla de contenidos.                                                                                                                |
+| 1.0         | 18/04/2025 | Castilla Pachas, César Antonio                                                                          | Adición del Startup Profile y Solution Profile.                                                                                                                                 |
+| 1.0         | 23/04/2025 | Diaz Silva, Fernando Josué <br/> Jorge Arévalo, Ramón Alejandro                                         | Adición del capítulo II.                                                                                                                                                        |
+| 1.0         | 24/04/2025 | Castilla Pachas, César Antonio <br/> Cortés Casas, Joaquin Marcelo <br/> Jorge Arévalo, Ramón Alejandro | Adición de User Stories, Product Backlog, To-Be Scenario Mapping, Impact Mapping, Strategic Level Atribute Driven Design, Event Storming, Context Mapping y User Flow Modeling. |
+| 1.0         | 25/04/2025 | Castilla Pachas, César Antonio <br/> Cortés Casas, Joaquin Marcelo <br/> Jorge Arévalo, Ramón Alejandro                                                                          | Adición de Domain Message Flow Modelings, Bounded context canvases y Software Architecture diagrams.                                                                            |
 
 ---
 
