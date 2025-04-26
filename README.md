@@ -1122,6 +1122,16 @@ A continuación, se presenta el refinamiento de los escenarios más relevantes, 
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
+#### Conclusiones
+- La plataforma Tarket proporciona una solución innovadora al automatizar contratos freelance mediante tecnología blockchain, mejorando la confianza entre clientes y desarrolladores.
+- La arquitectura basada en contenedores distribuidos y servicios externos especializados optimiza la escalabilidad y la robustez de la solución.
+- El desarrollo de User Stories centradas en los segmentos objetivo garantizó una alineación efectiva entre los requerimientos de negocio y las funcionalidades propuestas.
+- El proceso de EventStorming y Context Mapping resultó clave para identificar las dependencias entre los bounded contexts, evitando solapamientos y redundancias.
+
+#### Recomendaciones
+- Priorizar mejoras de usabilidad, especialmente para usuarios nuevos en entornos Web3, mediante tutoriales interactivos o asistentes de configuración inicial.
+- Expandir en el futuro la compatibilidad con más blockchains (no solo Ethereum) para reducir costos de transacción y llegar a una mayor base de usuarios.
+- Considerar la posibilidad de integrar funcionalidades de arbitraje o resolución de disputas como siguiente fase evolutiva del producto.
 
 ## Bibliografia
 
