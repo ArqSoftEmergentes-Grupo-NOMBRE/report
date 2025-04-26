@@ -2,7 +2,7 @@
 
 **Universidad Peruana de Ciencias Aplicadas**  
 **Ingenieria de Software**  
-**Ciclo 08**
+**Ciclo 8**
 
 **Código del curso: 1ASI0728**  
 **Curso: Arquitecturas De Software Emergentes**  
