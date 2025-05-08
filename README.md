@@ -41,7 +41,7 @@
 
 ## Project Report Collaboration Insights
 ### URL del repositorio en la organización GitHub
-[Enlace al repositorio del informe en GitHub](https://github.com/ArqSoftEmergentes-Grupo-NOMBRE)
+https://github.com/ArqSoftEmergentes-Grupo-NOMBRE
 
 ### Actividades de elaboración del informe
 #### TB1:
