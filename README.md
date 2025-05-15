@@ -1064,6 +1064,34 @@ A continuación, se presenta el refinamiento de los escenarios más relevantes, 
 
 ---
 
+## Capítulo V: Tactical-Level Software Design
+
+### 4.X. Bounded Context Software Architecture Component Level Diagrams
+
+![Context Mapping](assets/img/chapter-4/Profile-Component.png)
+
+![Context Mapping](assets/img/chapter-4/Review-Component.png)
+
+![Context Mapping](assets/img/chapter-4/Subscription-Component.png)
+
+![Context Mapping](assets/img/chapter-4/Validation-Component.png)
+
+![Context Mapping](assets/img/chapter-4/Contract-Component.png)
+
+![Context Mapping](assets/img/chapter-4/Notification-Component.png)
+
+![Context Mapping](assets/img/chapter-4/webService-Component.png)
+
+### 4.X. Bounded Context Software Architecture Code Level Diagrams
+
+#### 4.X.1. Bounded Context Domain Layer Class Diagram
+
+![Deployment Diagram](assets/img/chapter-4/class-diagram.png)
+
+#### 4.X.2. Bounded Context Database Design Class Diagram
+
+![Deployment Diagram](assets/img/chapter-4/database-diagram.png)
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
