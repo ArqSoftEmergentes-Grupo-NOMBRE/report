@@ -145,8 +145,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | **Criterio específico**                                                                                                                                                               | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Conclusiones** |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | Castilla Pachas, César Antonio<br/>TB1<br/>Durante el desarrollo del proyecto he podido comunicar mis ideas de fomra clara y objetiva, tanto en aspectos técnicos como funcionales, ademas he adaptado mi forma de explicar segun el publico, ya sea ante compañeros del proyecto o personas de cualquier otra parte, usando ejemplos y lenguaje sencillo cunado fuera necesario.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Durante el desarrollo del proyecto, comuniqué oralmente mis ideas de forma clara y estructurada a mi equipo, compuesto por estudiantes de distintas especialidades. Expliqué de manera objetiva el enfoque aplicado en la creación de User Stories, la organización del Product Backlog, la estructuración de los Bounded Context Canvases y el diseño de los Diagramas de Arquitectura de Software (Context, Container, Deployment y System Landscape). Esto permitió que todos los integrantes comprendieran los objetivos técnicos y funcionales independientemente de su nivel de conocimiento específico.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante los avances y resultados del proyecto logre comunicar de forma oral mis ideas de manera objetiva y estructurada. Me asegure de explicar tanto los conecptos tecnicos como los beneficios del proyecto, adaptando mi lenguaje para que fuera comprensible para cualquier persona.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, he desarrollado los puntos de User Personas, User Task Matrix, Journey Mappings y Empathy Mappings, lo que me ha permitido entender y explicar el perfil de los segmentos objetivo a la que va a ir dirigida la aplicación.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>      | Lorem ipsum dolor sit amet.               |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Castilla Pachas, César Antonio<br/>TB1<br/>A lo largo del proyecto he comunicado por escrito nuestras ideas y resultados de manera clara y objetiva, tambien he redactado documentos tecnicos y explicativos adaptados a publicos de distintas especialidades, desde informes de arquitectura hasta resumenes funcionales.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Redacté de manera precisa y comprensible la documentación técnica del proyecto, elaborando User Stories con criterios de aceptación estructurados en formato Gherkin, un Product Backlog priorizado, Bounded Context Canvases detallados para cada módulo, y Diagramas de Software Architecture utilizando C4 Model. Esta documentación permitió comunicar de manera escrita y objetiva los resultados del trabajo tanto a perfiles técnicos como a perfiles no técnicos involucrados en el proyecto.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante el proyecto redacte informes y entregables donde presente ideas y resultados de fomra clara, objetiva y organizada. Donde adapte el nivel de detalle y el lenguaje segun el publico, asegurandome de que tanto especialistas tecnicos como profesionales pudieran comprender el alcance de esta solución.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, desarrollé los puntos de Event Storming, Candidate Context Discovery, Domain Message Flow Modelings y Context Mapping, lo cual me ha permitido identificar las bases del diseño de la arquitectura de nuestra aplicación, con el enfoque de Domain-Driven Design.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/> | Lorem ipsum dolor sit amet.               |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | Castilla Pachas, César Antonio<br/>TB1<br/>Durante el desarrollo del proyecto he podido comunicar mis ideas de fomra clara y objetiva, tanto en aspectos técnicos como funcionales, ademas he adaptado mi forma de explicar segun el publico, ya sea ante compañeros del proyecto o personas de cualquier otra parte, usando ejemplos y lenguaje sencillo cunado fuera necesario.<br/>TP1<br/>En esta segunda etapa del proyecto, reforcé mi capacidad para comunicar oralmente los avances y resultados obtenidos, presentando información técnica de manera estructurada y comprensible para audiencias diversas. Durante exposiciones y coordinaciones, adapté mi discurso según el nivel de conocimiento del público, empleando un lenguaje claro, apoyos visuales y ejemplos prácticos para facilitar la comprensión, especialmente al explicar decisiones de diseño, arquitectura y pruebas funcionales del sistema.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Durante el desarrollo del proyecto, comuniqué oralmente mis ideas de forma clara y estructurada a mi equipo, compuesto por estudiantes de distintas especialidades. Expliqué de manera objetiva el enfoque aplicado en la creación de User Stories, la organización del Product Backlog, la estructuración de los Bounded Context Canvases y el diseño de los Diagramas de Arquitectura de Software (Context, Container, Deployment y System Landscape). Esto permitió que todos los integrantes comprendieran los objetivos técnicos y funcionales independientemente de su nivel de conocimiento específico.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante los avances y resultados del proyecto logre comunicar de forma oral mis ideas de manera objetiva y estructurada. Me asegure de explicar tanto los conecptos tecnicos como los beneficios del proyecto, adaptando mi lenguaje para que fuera comprensible para cualquier persona.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, he desarrollado los puntos de User Personas, User Task Matrix, Journey Mappings y Empathy Mappings, lo que me ha permitido entender y explicar el perfil de los segmentos objetivo a la que va a ir dirigida la aplicación.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>      | Lorem ipsum dolor sit amet.               |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Castilla Pachas, César Antonio<br/>TB1<br/>A lo largo del proyecto he comunicado por escrito nuestras ideas y resultados de manera clara y objetiva, tambien he redactado documentos tecnicos y explicativos adaptados a publicos de distintas especialidades, desde informes de arquitectura hasta resumenes funcionales.<br/>TP1<br/>Durante esta fase del proyecto, continué redactando documentación técnica y funcional con claridad y objetividad, considerando el perfil del público lector. Elaboré reportes que explican desde los componentes técnicos hasta el impacto funcional del sistema, cuidando el uso de un lenguaje preciso y accesible para diferentes niveles jerárquicos y especialidades. Además, participé en la revisión y mejora de entregables escritos para asegurar su coherencia y comprensión.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Redacté de manera precisa y comprensible la documentación técnica del proyecto, elaborando User Stories con criterios de aceptación estructurados en formato Gherkin, un Product Backlog priorizado, Bounded Context Canvases detallados para cada módulo, y Diagramas de Software Architecture utilizando C4 Model. Esta documentación permitió comunicar de manera escrita y objetiva los resultados del trabajo tanto a perfiles técnicos como a perfiles no técnicos involucrados en el proyecto.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante el proyecto redacte informes y entregables donde presente ideas y resultados de fomra clara, objetiva y organizada. Donde adapte el nivel de detalle y el lenguaje segun el publico, asegurandome de que tanto especialistas tecnicos como profesionales pudieran comprender el alcance de esta solución.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, desarrollé los puntos de Event Storming, Candidate Context Discovery, Domain Message Flow Modelings y Context Mapping, lo cual me ha permitido identificar las bases del diseño de la arquitectura de nuestra aplicación, con el enfoque de Domain-Driven Design.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/> | Lorem ipsum dolor sit amet.               |
 
 ---
 
@@ -1066,21 +1066,625 @@ A continuación, se presenta el refinamiento de los escenarios más relevantes, 
 
 ## Capítulo V: Tactical-Level Software Design
 
-### 4.X. Bounded Context Software Architecture Component Level Diagrams
 
-![Context Mapping](assets/img/chapter-4/Profile-Component.png)
+## 5.1. Bounded Context: Contracts
 
-![Context Mapping](assets/img/chapter-4/Review-Component.png)
+El **Bounded Context de Contratos** administra los acuerdos entre desarrolladores y clientes. Un contrato contiene detalles del servicio acordado, su estado, y es el punto de integración con validaciones y pagos. La entidad central es `Contrato`, respaldada por `Cliente`, `DesarrolladorWeb` y el `ServicioWeb` referenciado.
 
-![Context Mapping](assets/img/chapter-4/Subscription-Component.png)
+### 5.1.1. Domain Layer
 
-![Context Mapping](assets/img/chapter-4/Validation-Component.png)
+####  Aggregate: `Contrato`
 
-![Context Mapping](assets/img/chapter-4/Contract-Component.png)
+**Descripción:** Representa el acuerdo digital entre un cliente y un desarrollador. Su ciclo de vida incluye la creación, firma, seguimiento y finalización del contrato.
 
-![Context Mapping](assets/img/chapter-4/Notification-Component.png)
+| **Atributo**         | **Descripción**                                | **Tipo**   |
+|----------------------|------------------------------------------------|------------|
+| id                   | Identificador del contrato                     | UUID       |
+| fechaInicio          | Fecha en que se inicia el contrato             | Date       |
+| estado               | Estado del contrato (CREADO, EN_PROCESO, etc.) | String     |
+| smartContractHash    | Hash registrado en blockchain                  | String     |
 
-![Context Mapping](assets/img/chapter-4/webService-Component.png)
+**Métodos del agregado:**
+
+| **Método**             | **Descripción**                                       |
+|------------------------|-------------------------------------------------------|
+| firmarContrato()       | Firma el contrato e inicia su validez legal           |
+| finalizarContrato()    | Finaliza el contrato al completarse las entregas      |
+
+#### Relación con otras entidades:
+- **Cliente** (1) `contrata` (0..*) **Contrato**
+- **DesarrolladorWeb** (1) `desarrolla` (0..*) **Contrato**
+- **ServicioWeb** (1) `refiere` (1) **Contrato**
+- **Contrato** (1) `tiene` (0..*) **Avance**
+- **Contrato** (1) `validaciones` (0..*) **ValidacionContrato**
+- **Contrato** (1) `libera` (0..*) **Pago**
+
+---
+
+### 5.1.2. Interface Layer
+
+####  Controlador `ContratoController`
+
+| **Método**                      | **Descripción**                                | **HTTP**                    | **Respuesta**             |
+|---------------------------------|------------------------------------------------|-----------------------------|---------------------------|
+| crearContrato(req)              | Crea un nuevo contrato                         | POST `/contratos`          | Contrato creado           |
+| firmarContrato(id)              | Firma digitalmente un contrato                 | POST `/contratos/{id}/firmar` | Hash generado        |
+| finalizarContrato(id)           | Marca el contrato como finalizado              | POST `/contratos/{id}/finalizar` | Estado actualizado  |
+
+---
+
+### 5.1.3. Application Layer
+
+#### Clase `ContratoCommandServiceImpl`
+
+| **Método**                              | **Descripción**                              |
+|-----------------------------------------|----------------------------------------------|
+| handle(CrearContratoCommand)            | Orquesta la creación del contrato            |
+| handle(FirmarContratoCommand)           | Ejecuta firma y validación                   |
+| handle(FinalizarContratoCommand)        | Cierra el contrato y libera pago             |
+
+#### Clase `ContratoQueryServiceImpl`
+
+| **Método**                              | **Descripción**                              |
+|-----------------------------------------|----------------------------------------------|
+| handle(GetContratoByIdQuery)            | Consulta los detalles de un contrato         |
+| handle(GetContratosActivosPorUsuarioQuery) | Lista contratos activos del usuario       |
+
+---
+
+### 5.1.4. Infrastructure Layer
+
+#### Repositorio: `ContratoRepository`
+
+| **Método**                           | **Descripción**                                   |
+|--------------------------------------|---------------------------------------------------|
+| save(Contrato contrato)              | Persiste el contrato                              |
+| findById(UUID id)                    | Recupera contrato por ID                          |
+| findByClienteId(UUID clienteId)      | Lista contratos por cliente                       |
+| findByDesarrolladorId(UUID devId)    | Lista contratos por desarrollador                 |
+
+### 5.1.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Contracts](assets/img/chapter-4/Contract-Component.png)
+
+### 5.1.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.1.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Contracts](assets/img/chapter-5/Contract-Class.png)
+
+#### 5.1.6.2 Bounded Context Database Design Diagram.
+
+![Contracts](assets/img/chapter-5/Contract-Database.png)
+
+
+## 5.2. Bounded Context: Contract Validation
+
+El **Bounded Context de Validación de Contratos** se encarga del control de calidad y aceptación de entregas parciales (avances) realizadas por el desarrollador. También es responsable de la validación formal del contrato mediante blockchain.
+
+### 5.2.1. Domain Layer
+
+####  Aggregate: `Avance`
+
+**Descripción:** Representa una entrega parcial dentro del proceso de desarrollo del servicio contratado. Es la base para que el cliente valide si se avanza conforme al acuerdo.
+
+| **Atributo**       | **Descripción**                                      | **Tipo**   |
+|--------------------|------------------------------------------------------|------------|
+| id                 | Identificador del avance                             | UUID       |
+| fechaEntrega       | Fecha de la entrega del avance                       | Date       |
+| contenido          | Información o archivo del avance entregado           | String     |
+| estado             | Estado del avance (PENDIENTE, ACEPTADO, RECHAZADO)   | String     |
+
+**Métodos del agregado:**
+
+| **Método**             | **Descripción**                                          |
+|------------------------|----------------------------------------------------------|
+| verificarAvance()      | Evalúa si el avance es aceptado o requiere revisión      |
+
+---
+
+####  Entity: `ValidacionContrato`
+
+**Descripción:** Representa la verificación del contrato en blockchain para garantizar su autenticidad, validez y registro descentralizado.
+
+| **Atributo**       | **Descripción**                                      | **Tipo**   |
+|--------------------|------------------------------------------------------|------------|
+| id                 | Identificador de la validación                       | UUID       |
+| fechaValidacion    | Fecha en que se realizó la validación                | Date       |
+| esValido           | Resultado booleano de la validación                  | Boolean    |
+| hashBlockchain     | Código único generado en blockchain                  | String     |
+
+**Método del agregado:**
+
+| **Método**           | **Descripción**                                        |
+|----------------------|--------------------------------------------------------|
+| validarContrato()    | Registra y valida el contrato en el sistema blockchain |
+
+---
+
+### 5.2.2. Interface Layer
+
+####  Controlador `AvanceController`
+
+| **Método**                            | **Descripción**                                         | **HTTP**                          | **Respuesta**               |
+|---------------------------------------|---------------------------------------------------------|-----------------------------------|-----------------------------|
+| entregarAvance(req)                  | Crea un nuevo avance asociado a un contrato             | POST `/avances`                   | Avance registrado           |
+| verificarAvance(int id)             | Cambia el estado del avance tras revisión del cliente   | POST `/avances/{id}/verificar`    | Estado actualizado          |
+
+#### 🔹 Controlador `ValidacionContratoController`
+
+| **Método**                            | **Descripción**                                         | **HTTP**                          | **Respuesta**               |
+|---------------------------------------|---------------------------------------------------------|-----------------------------------|-----------------------------|
+| validarContrato(int contratoId)       | Ejecuta validación del contrato y lo registra en blockchain | POST `/validaciones/{contratoId}` | Hash generado              |
+
+---
+
+### 5.2.3. Application Layer
+
+#### Clase `AvanceCommandServiceImpl`
+
+| **Método**                            | **Descripción**                                   |
+|---------------------------------------|---------------------------------------------------|
+| handle(EntregarAvanceCommand)         | Procesa y registra un nuevo avance                |
+| handle(VerificarAvanceCommand)        | Cambia el estado del avance tras revisión         |
+
+#### Clase `ValidacionContratoCommandServiceImpl`
+
+| **Método**                            | **Descripción**                                     |
+|---------------------------------------|-----------------------------------------------------|
+| handle(ValidarContratoCommand)        | Registra contrato en blockchain y actualiza estado |
+
+---
+
+### 5.2.4. Infrastructure Layer
+
+#### Repositorio: `AvanceRepository`
+
+| **Método**                   | **Descripción**                          |
+|------------------------------|------------------------------------------|
+| save(Avance avance)          | Persiste o actualiza un avance           |
+| findByContratoId(UUID id)    | Lista avances de un contrato             |
+
+#### Repositorio: `ValidacionContratoRepository`
+
+| **Método**                          | **Descripción**                                        |
+|-------------------------------------|--------------------------------------------------------|
+| save(ValidacionContrato validacion) | Guarda o actualiza la validación de contrato           |
+| findByContratoId(UUID contratoId)   | Recupera la validación de un contrato específico       |
+
+### 5.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Validation](assets/img/chapter-4/Validation-Component.png)
+
+### 5.2.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.2.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Validation](assets/img/chapter-5/Validation-Class.png)
+
+#### 5.2.6.2 Bounded Context Database Design Diagram.
+
+![Validation](assets/img/chapter-5/Validation-Database.png)
+
+## 5.3. Bounded Context: Notifications
+
+El **Bounded Context de Notificaciones** tiene como objetivo mantener informados a los usuarios sobre eventos importantes como la firma de contratos, aceptación de avances, validaciones, pagos realizados, entre otros. Opera de forma asincrónica y desacoplada del flujo principal de negocio.
+
+### 5.3.1. Domain Layer
+
+####  Aggregate: `Notificacion`
+
+**Descripción:** Representa un mensaje dirigido a un usuario del sistema con el fin de notificarle un evento o cambio importante.
+
+| **Atributo**   | **Descripción**                                  | **Tipo**   |
+|----------------|--------------------------------------------------|------------|
+| id             | Identificador único de la notificación           | UUID       |
+| mensaje        | Contenido del mensaje enviado al usuario         | String     |
+| tipo           | Tipo de notificación (`INFO`, `ALERTA`, `SISTEMA`) | String     |
+| leida          | Indicador de si el mensaje ya fue leído          | Boolean    |
+
+**Métodos del agregado:**
+
+| **Método**               | **Descripción**                               |
+|--------------------------|-----------------------------------------------|
+| obtenerMensajesUsuario() | Devuelve las notificaciones pendientes        |
+| escribirMensaje()        | Genera una nueva notificación para el usuario |
+
+---
+
+### 5.3.2. Interface Layer
+
+####  Controlador `NotificacionController`
+
+| **Método**                            | **Descripción**                                      | **HTTP**                        | **Respuesta**                  |
+|---------------------------------------|------------------------------------------------------|---------------------------------|--------------------------------|
+| listarNotificaciones(int usuarioId)   | Lista notificaciones del usuario                     | GET `/notificaciones/{usuarioId}` | Lista de notificaciones     |
+| marcarComoLeida(UUID notificacionId) | Marca una notificación como leída                    | POST `/notificaciones/{id}/leida` | Estado actualizado           |
+
+---
+
+### 5.3.3. Application Layer
+
+#### Clase `NotificacionCommandServiceImpl`
+
+| **Método**                             | **Descripción**                                      |
+|----------------------------------------|------------------------------------------------------|
+| handle(EscribirMensajeCommand)         | Crea y envía una nueva notificación al usuario       |
+| handle(MarcarLeidaCommand)             | Cambia el estado de la notificación a "leída"        |
+
+#### Clase `NotificacionQueryServiceImpl`
+
+| **Método**                                 | **Descripción**                                      |
+|--------------------------------------------|------------------------------------------------------|
+| handle(GetNotificacionesByUsuarioQuery)    | Lista todas las notificaciones de un usuario         |
+| handle(GetNotificacionByIdQuery)           | Devuelve los detalles de una notificación específica |
+
+---
+
+### 5.3.4. Infrastructure Layer
+
+#### Repositorio: `NotificacionRepository`
+
+| **Método**                       | **Descripción**                                 |
+|----------------------------------|-------------------------------------------------|
+| save(Notificacion notificacion) | Guarda o actualiza una notificación             |
+| findByUsuarioId(UUID usuarioId) | Lista notificaciones por usuario                |
+| findById(UUID id)               | Busca notificación por ID                       |
+
+### 5.3.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Notifications](assets/img/chapter-4/Notification-Component.png)
+
+### 5.3.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.3.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Notifications](assets/img/chapter-5/Notification-Class.png)
+
+#### 5.3.6.2 Bounded Context Database Design Diagram.
+
+![Notifications](assets/img/chapter-5/Notification-Database.png)
+
+## 5.4. Bounded Context: Web Service
+
+El **Bounded Context de Servicio Web** permite a los desarrolladores publicar, actualizar y eliminar servicios que ofrecen a los clientes. Estos servicios representan las capacidades o paquetes de trabajo disponibles para contratar a través de contratos inteligentes.
+
+### 5.4.1. Domain Layer
+
+####  Aggregate: `ServicioWeb`
+
+**Descripción:** Representa una oferta o producto publicado por un desarrollador para ser contratado por un cliente.
+
+| **Atributo**   | **Descripción**                                 | **Tipo**   |
+|----------------|--------------------------------------------------|------------|
+| id             | Identificador del servicio                      | UUID       |
+| titulo         | Título del servicio ofrecido                    | String     |
+| descripcion    | Descripción detallada del servicio              | String     |
+| precio         | Precio del servicio                             | Double     |
+| enlace         | URL o recurso relacionado con el servicio       | String     |
+
+**Métodos del agregado:**
+
+| **Método**         | **Descripción**                                           |
+|--------------------|-----------------------------------------------------------|
+| obtenerEnlace()    | Devuelve la URL asociada al servicio                      |
+
+#### Relación:
+- Un **DesarrolladorWeb** `publica` múltiples **ServicioWeb**
+- Un **Contrato** `refiere` a un único **ServicioWeb**
+
+---
+
+### 5.4.2. Interface Layer
+
+####  Controlador `ServicioWebController`
+
+| **Método**                         | **Descripción**                                    | **HTTP**              | **Respuesta**                |
+|------------------------------------|----------------------------------------------------|------------------------|------------------------------|
+| crearServicio(req)                | Crea y publica un nuevo servicio web               | POST `/servicios`     | Servicio creado              |
+| actualizarServicio(UUID id, req)  | Edita la información de un servicio existente      | PUT `/servicios/{id}` | Servicio actualizado         |
+| eliminarServicio(UUID id)         | Elimina (lógicamente) un servicio                  | DELETE `/servicios/{id}` | Confirmación               |
+| listarServicios()                 | Lista todos los servicios activos                  | GET `/servicios`      | Lista de servicios           |
+| obtenerServicioPorId(UUID id)     | Obtiene los detalles de un servicio específico     | GET `/servicios/{id}` | Detalle del servicio         |
+
+---
+
+### 5.4.3. Application Layer
+
+#### Clase `ServicioWebCommandServiceImpl`
+
+| **Método**                              | **Descripción**                                 |
+|-----------------------------------------|-------------------------------------------------|
+| handle(CrearServicioWebCommand)         | Publica un nuevo servicio                       |
+| handle(ActualizarServicioWebCommand)    | Modifica detalles de un servicio existente      |
+| handle(EliminarServicioWebCommand)      | Elimina o desactiva un servicio web             |
+
+#### Clase `ServicioWebQueryServiceImpl`
+
+| **Método**                                 | **Descripción**                                |
+|--------------------------------------------|------------------------------------------------|
+| handle(GetServiciosDisponiblesQuery)       | Lista todos los servicios activos              |
+| handle(GetServicioByIdQuery)               | Obtiene un servicio por su ID                  |
+| handle(GetServiciosByDesarrolladorQuery)   | Lista servicios publicados por un desarrollador|
+
+---
+
+### 5.4.4. Infrastructure Layer
+
+#### Repositorio: `ServicioWebRepository`
+
+| **Método**                             | **Descripción**                                 |
+|----------------------------------------|-------------------------------------------------|
+| save(ServicioWeb servicio)            | Guarda o actualiza un servicio                  |
+| findById(UUID id)                     | Busca un servicio por ID                        |
+| findByDesarrolladorId(UUID devId)     | Lista servicios por desarrollador               |
+| findAllActivos()                      | Devuelve todos los servicios disponibles        |
+
+### 5.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Web Services](assets/img/chapter-4/webService-Component.png)
+
+### 5.4.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.4.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Web Services](assets/img/chapter-5/webService-Class.png)
+
+#### 5.4.6.2 Bounded Context Database Design Diagram.
+
+![Web Services](assets/img/chapter-5/webService-Database.png)
+
+## 5.5. Bounded Context: Profiles
+
+El **Bounded Context de Perfiles** se encarga de gestionar los datos públicos y personales editables de los usuarios dentro de la plataforma. Incluye funcionalidades para ver, crear o modificar la información personal como nombre, correo, portafolio y tipo de usuario.
+
+### 5.5.1. Domain Layer
+
+####  Aggregate: `Usuario`
+
+**Descripción:** Entidad raíz que representa a un usuario autenticado de la plataforma. Puede ser tanto un cliente como un desarrollador. En este contexto, se usa como perfil editable.
+
+| **Atributo**   | **Descripción**                               | **Tipo**   |
+|----------------|------------------------------------------------|------------|
+| id             | Identificador único del usuario                | UUID       |
+| nombre         | Nombre completo                                | String     |
+| correo         | Dirección de correo electrónico                | String     |
+| contraseña     | Contraseña cifrada                             | String     |
+
+**Subclases:**
+- `Cliente` → `metodoDePago : String`
+- `DesarrolladorWeb` → `portafolio : String`
+
+**Métodos relevantes en el contexto de perfil:**
+
+| **Método**              | **Descripción**                                 |
+|-------------------------|-------------------------------------------------|
+| crearUsuario()          | Registra un nuevo usuario en el sistema         |
+| iniciarSesion()         | Inicia sesión con sus credenciales              |
+| cerrarSesion()          | Termina la sesión activa del usuario            |
+
+---
+
+### 5.5.2. Interface Layer
+
+#### Controlador `PerfilController`
+
+| **Método**                         | **Descripción**                                     | **HTTP**                   | **Respuesta**                  |
+|------------------------------------|-----------------------------------------------------|-----------------------------|--------------------------------|
+| obtenerPerfil(UUID usuarioId)     | Devuelve el perfil público de un usuario           | GET `/perfiles/{id}`       | Datos del perfil               |
+| actualizarPerfil(UUID usuarioId)  | Permite editar nombre, correo o portafolio         | PUT `/perfiles/{id}`       | Perfil actualizado             |
+| cambiarContraseña(UUID usuarioId) | Actualiza la contraseña del usuario                 | PUT `/perfiles/{id}/clave` | Confirmación de cambio         |
+
+---
+
+### 5.5.3. Application Layer
+
+#### Clase `PerfilCommandServiceImpl`
+
+| **Método**                              | **Descripción**                                     |
+|-----------------------------------------|-----------------------------------------------------|
+| handle(ActualizarPerfilCommand)         | Actualiza los datos del perfil                      |
+| handle(CambiarContrasenaCommand)        | Cambia la contraseña de un usuario                  |
+
+#### Clase `PerfilQueryServiceImpl`
+
+| **Método**                               | **Descripción**                                     |
+|------------------------------------------|-----------------------------------------------------|
+| handle(GetPerfilByIdQuery)               | Devuelve los datos públicos de un usuario           |
+| handle(GetPerfilCompletoQuery)           | Devuelve toda la información editable de un perfil  |
+
+---
+
+### 5.5.4. Infrastructure Layer
+
+#### Repositorio: `UsuarioRepository`
+
+| **Método**                           | **Descripción**                                 |
+|--------------------------------------|-------------------------------------------------|
+| save(Usuario usuario)               | Guarda o actualiza los datos de perfil          |
+| findById(UUID id)                   | Busca un perfil de usuario por ID               |
+| existsByCorreo(String correo)       | Verifica si un correo ya está registrado        |
+
+### 5.5.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Profiles](assets/img/chapter-4/Profile-Component.png)
+
+### 5.5.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.5.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Profiles](assets/img/chapter-5/Profile-Class.png)
+
+#### 5.5.6.2 Bounded Context Database Design Diagram.
+
+![Profiles](assets/img/chapter-5/Profile-Database.png)
+
+## 5.6. Bounded Context: Suscriptions
+
+El **Bounded Context de Suscripciones** permite gestionar los planes de acceso a funcionalidades de la plataforma. Define los beneficios que un usuario obtiene según su tipo de suscripción, como visibilidad, prioridad o límites funcionales. Cada usuario puede tener una única suscripción activa.
+
+### 5.6.1. Domain Layer
+
+####  Aggregate: `Suscripcion`
+
+**Descripción:** Representa el plan de suscripción activo de un usuario, con información sobre su tipo, vigencia y duración.
+
+| **Atributo**       | **Descripción**                                     | **Tipo**   |
+|--------------------|-----------------------------------------------------|------------|
+| id                 | Identificador único de la suscripción               | UUID       |
+| tipo               | Tipo de suscripción (`GRATIS`, `BASICA`, `PREMIUM`) | String     |
+| fechaInicio        | Fecha de inicio de la suscripción                   | Date       |
+| fechaFin           | Fecha de expiración del plan                        | Date       |
+
+**Métodos del agregado:**
+
+| **Método**              | **Descripción**                                            |
+|-------------------------|------------------------------------------------------------|
+| renovar(fechaFin)       | Extiende la suscripción hasta la nueva fecha               |
+| cambiarTipo(tipoNuevo)  | Cambia el plan actual del usuario                          |
+| esActiva()              | Determina si la suscripción está vigente                   |
+
+---
+
+### 5.6.2. Interface Layer
+
+####  Controlador `SuscripcionController`
+
+| **Método**                             | **Descripción**                                         | **HTTP**                           | **Respuesta**                   |
+|----------------------------------------|---------------------------------------------------------|------------------------------------|---------------------------------|
+| obtenerSuscripcion(UUID usuarioId)    | Devuelve la suscripción activa de un usuario           | GET `/suscripciones/{usuarioId}`  | Detalles del plan actual        |
+| cambiarPlan(UUID usuarioId, req)      | Cambia el tipo de suscripción del usuario              | PUT `/suscripciones/{usuarioId}`  | Suscripción actualizada         |
+| renovarSuscripcion(UUID usuarioId)    | Extiende la vigencia de la suscripción                 | POST `/suscripciones/{usuarioId}/renovar` | Nueva fecha establecida |
+
+---
+
+### 5.6.3. Application Layer
+
+#### Clase `SuscripcionCommandServiceImpl`
+
+| **Método**                              | **Descripción**                                      |
+|-----------------------------------------|------------------------------------------------------|
+| handle(CambiarTipoSuscripcionCommand)   | Cambia el plan actual del usuario                    |
+| handle(RenovarSuscripcionCommand)       | Renueva la suscripción extendiendo su duración       |
+
+#### Clase `SuscripcionQueryServiceImpl`
+
+| **Método**                               | **Descripción**                                        |
+|------------------------------------------|--------------------------------------------------------|
+| handle(GetSuscripcionByUsuarioQuery)     | Devuelve la suscripción actual de un usuario           |
+
+---
+
+### 5.6.4. Infrastructure Layer
+
+#### Repositorio: `SuscripcionRepository`
+
+| **Método**                           | **Descripción**                                      |
+|--------------------------------------|------------------------------------------------------|
+| save(Suscripcion suscripcion)       | Guarda o actualiza una suscripción                   |
+| findByUsuarioId(UUID usuarioId)     | Recupera la suscripción activa de un usuario         |
+
+### 5.6.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Subscriptions](assets/img/chapter-4/Subscription-Component.png)
+
+### 5.6.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.6.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Subscriptions](assets/img/chapter-5/Subscription-Class.png)
+
+#### 5.6.6.2 Bounded Context Database Design Diagram.
+
+![Subscriptions](assets/img/chapter-5/Subscription-Database.png)
+
+## 5.7. Bounded Context: Reviews
+
+El **Bounded Context de Reseñas** permite a los usuarios calificar y dejar comentarios sobre su experiencia en contratos completados. Es fundamental para fomentar la reputación y confianza dentro de la plataforma entre desarrolladores y clientes.
+
+### 5.7.1. Domain Layer
+
+####  Aggregate: `Reseña`
+
+**Descripción:** Representa una evaluación emitida por un usuario hacia otro, basada en un contrato finalizado. Contiene calificación numérica y un comentario textual.
+
+| **Atributo**     | **Descripción**                                  | **Tipo**   |
+|------------------|--------------------------------------------------|------------|
+| id               | Identificador único de la reseña                 | UUID       |
+| comentario       | Texto libre con observaciones o feedback         | String     |
+| calificacion     | Valor numérico (1 a 5) de la experiencia         | int        |
+
+**Relaciones clave:**
+- `Usuario` (emisor) escribe muchas `Reseñas`
+- `Usuario` (receptor) recibe muchas `Reseñas`
+
+**Métodos del agregado:**
+
+| **Método**                   | **Descripción**                                               |
+|------------------------------|---------------------------------------------------------------|
+| editarComentario()           | Permite modificar el comentario emitido                      |
+| actualizarCalificacion()     | Actualiza el valor numérico de la calificación               |
+| validarCalificacion()        | Asegura que la puntuación se mantenga entre 1 y 5            |
+
+---
+
+### 5.7.2. Interface Layer
+
+#### Controlador `ReseñaController`
+
+| **Método**                                 | **Descripción**                                      | **HTTP**                        | **Respuesta**                 |
+|--------------------------------------------|------------------------------------------------------|---------------------------------|-------------------------------|
+| crearReseña(req)                           | Registra una nueva reseña                            | POST `/resenas`                 | Reseña creada                 |
+| obtenerResenasRecibidas(UUID usuarioId)    | Lista reseñas que ha recibido un usuario             | GET `/resenas/usuario/{id}`     | Lista de reseñas recibidas   |
+| obtenerResenasEmitidas(UUID usuarioId)     | Lista reseñas emitidas por un usuario                | GET `/resenas/emisor/{id}`      | Lista de reseñas emitidas    |
+
+---
+
+### 5.7.3. Application Layer
+
+#### Clase `ReseñaCommandServiceImpl`
+
+| **Método**                           | **Descripción**                                        |
+|--------------------------------------|--------------------------------------------------------|
+| handle(CrearResenaCommand)          | Registra una reseña al finalizar un contrato          |
+| handle(EditarComentarioCommand)     | Permite modificar el texto del comentario             |
+| handle(ActualizarCalificacionCommand) | Modifica el valor de calificación numérica           |
+
+#### Clase `ReseñaQueryServiceImpl`
+
+| **Método**                                   | **Descripción**                                      |
+|----------------------------------------------|------------------------------------------------------|
+| handle(GetResenasPorUsuarioQuery)            | Obtiene todas las reseñas recibidas por un usuario  |
+| handle(GetResenasEmitidasPorUsuarioQuery)    | Obtiene todas las reseñas hechas por un usuario     |
+| handle(GetResenaByIdQuery)                   | Devuelve una reseña específica                      |
+
+---
+
+### 5.7.4. Infrastructure Layer
+
+#### Repositorio: `ReseñaRepository`
+
+| **Método**                           | **Descripción**                                       |
+|--------------------------------------|-------------------------------------------------------|
+| save(Reseña reseña)                  | Guarda o actualiza una reseña                         |
+| findById(UUID id)                    | Busca una reseña por su ID                            |
+| findByUsuarioId(UUID usuarioId)      | Lista reseñas hechas por el usuario                   |
+| findByReceptorId(UUID receptorId)    | Lista reseñas recibidas por el usuario evaluado       |
+
+### 5.7.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Reviews](assets/img/chapter-4/Review-Component.png)
+
+### 5.7.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.7.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Reviews](assets/img/chapter-5/Review-Class.png)
+
+#### 5.7.6.2 Bounded Context Database Design Diagram.
+
+![Reviews](assets/img/chapter-5/Review-Database.png)
+
 
 ### 4.X. Bounded Context Software Architecture Code Level Diagrams
 
