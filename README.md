@@ -1686,13 +1686,15 @@ El **Bounded Context de Reseñas** permite a los usuarios calificar y dejar come
 ![Reviews](assets/img/chapter-5/Review-Database.png)
 
 
-### 4.X. Bounded Context Software Architecture Code Level Diagrams
+### 5.8. Global Domain Model References
 
-#### 4.X.1. Bounded Context Domain Layer Class Diagram
+Para facilitar la comprensión completa del sistema y sus interacciones entre bounded contexts, se incluyen a continuación los diagramas globales del sistema:
+
+#### 5.8.1. Bounded Context Domain Layer Class Diagram
 
 ![Deployment Diagram](assets/img/chapter-4/class-diagram.png)
 
-#### 4.X.2. Bounded Context Database Design Class Diagram
+#### 5.8.2. Bounded Context Database Design Class Diagram
 
 ![Deployment Diagram](assets/img/chapter-4/database-diagram.png)
 
