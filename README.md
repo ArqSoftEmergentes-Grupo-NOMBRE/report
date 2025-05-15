@@ -1758,7 +1758,88 @@ Versión completa del logotipo, con el ícono seguido del texto “TARKET CONTRA
 
 - Fondo oscuro (modo dark)
 
-![Logo black applications](assets/img/chapter-6/Logo-Applications.png)
+![Logo black applications](assets/img/chapter-6/Logo-Application.png)
+
+---
+
+**Typography**
+
+Se utiliza la fuente Poppins por su claridad, modernidad y alta legibilidad en entornos digitales. Su estilo sans serif con geometría uniforme permite una jerarquía visual efectiva y adaptable a distintas plataformas.
+
+| Elemento UI | Tamaño (px) | Uso principal                     |
+|-------------|-------------|-----------------------------------|
+| Título H1   | 32          | Encabezados principales           |
+| Título H2   | 24          | Subtítulos y secciones internas   |
+| Texto base  | 16          | Contenido general y formularios   |
+| Botones     | 14–16       | Acciones primarias o secundarias  |
+
+---
+
+**Colors**
+
+La paleta combina azul (#0059DC) y naranja (#F06915), elegidos por su contraste complementario y significado emocional. El azul comunica confianza, tecnología y profesionalismo. El naranja aporta dinamismo, innovación y visibilidad. Se cumplen criterios de contraste (WCAG AA) para garantizar accesibilidad visual.
+
+| Rol           | Color       | Código Hex | Uso principal                           |
+|---------------|-------------|------------|-----------------------------------------|
+| Primario      | Azul oscuro | #0059DC    | Botones, títulos, texto institucional   |
+| Secundario    | Naranja     | #F06915    | Íconos, acentos, elementos interactivos |
+| Fondo claro   | Blanco      | #FFFFFF    | Base general para interfaces            |
+| Fondo oscuro  | Negro       | #000000    | Alternativa en modo dark                |
+| Texto         | Negro       | #2F2F2F    | Párrafos y descripciones                |
+| Texto alterno | Blanco      | #B0B0B0    | Alternativa en modo dark                        |
+
+---
+
+**Spacing**
+
+Se utiliza una escala basada en múltiplos de 8 px para priorizar la consistencia en el diseño de componentes.
+
+| Tamaño   | Aplicación principal                        |
+|----------|---------------------------------------------|
+| 8 px     | Separación mínima entre ítems pequeños      |
+| 16 px    | Inputs, campos de formulario, listas        |
+| 24 px    | Padding interno de tarjetas y secciones     |
+| 32–64 px | Separación entre bloques principales     |
+| 48 px    | Altura mínima de elementos táctiles móviles |
+
+---
+
+**Tono de Comunicación y Lenguaje**
+
+El tono adoptado es profesional, claro y empático. Se prioriza una comunicación accesible y evita la jerga técnica innecesaria.
+
+| Dimensión        | Estilo definido     |
+|------------------|---------------------|
+| Formal/Casual    | Funcional, sin rigidez |
+| Respetuoso/Ironía| Respetuoso           |
+| Entusiasta/Sereno| Sereno y enfocado    |
+
+---
+
+**Design System**
+
+Tarket Contracts se apoya en Material Design 3 como base del sistema de diseño, adaptado a la identidad visual del proyecto. Las personalizaciones incluyen:
+
+- Paleta propia de colores
+- Fuente Poppins en reemplazo de Roboto
+- Espaciado estructurado con escala 8 px
+- Componentes visuales personalizados (íconos, botones, cards)
+
+---
+
+**Sustento de principios y elementos de diseño**
+
+Las decisiones visuales adoptadas en el diseño de Tarket Contracts se fundamentan en principios clave de diseño de interfaces, experiencia de usuario y consistencia visual. 
+
+Cada componente del estilo ha sido definido bajo criterios funcionales y de usabilidad para garantizar una identidad visual sólida, clara y profesional.
+
+Principios aplicados:
+
+- **Consistencia visual:** Se establecieron jerarquías tipográficas, paleta de colores funcional y reglas de espaciado para mantener coherencia en todos los entornos digitales.
+- **Accesibilidad:** Se respetaron criterios de contraste (WCAG AA), tamaño mínimo de fuente y zonas táctiles para asegurar la legibilidad y operabilidad por parte de todo tipo de usuario.
+- **Simplicidad funcional:** El diseño es limpio, sin sobrecarga visual. Se reducen elementos distractores y se priorizan las acciones clave, en línea con los principios de diseño minimalista.
+- **Escalabilidad visual:** La implementación de una escala de 8 px, el uso de Poppins como fuente uniforme y la integración con Material Design 3 aseguran una arquitectura de diseño fácilmente extensible.
+- **Adaptabilidad multiplataforma:** Cada componente visual se diseñó para funcionar correctamente tanto en interfaces web como móviles, adaptándose a modos claro y oscuro, sin perder identidad ni legibilidad.
 
 ---
 
