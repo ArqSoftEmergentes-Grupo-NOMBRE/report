@@ -1845,6 +1845,31 @@ Principios aplicados:
 
 #### 6.1.2. Web, Mobile & Devices Style Guidelines
 
+Esta sección describe los estándares visuales y de interacción aplicados en las interfaces web responsivas y aplicaciones móviles nativas de Tarket Contracts. El objetivo es garantizar una experiencia coherente, accesible y eficiente en todos los dispositivos.
+
+**Responsive Web Interfaces**
+
+- Diseño adaptable a múltiples resoluciones (mobile, tablet, desktop).
+- Layout modular con navegación superior fija y contenido jerarquizado en columnas.
+- Tipografía Poppins en jerarquías claras: títulos (32–24 px), cuerpo (16 px).
+- Spacing basado en escala de 8 px para mantener estructura visual.
+- Colores consistentes con la identidad (azul #0059DC, naranja #F06915).
+- Composición visual optimizada para pantallas anchas sin perder legibilidad.
+- Uso de componentes reusables: cards, tablas, formularios responsivos.
+- Interacción mediante clic o scroll, con feedback visual (hover, estados).
+
+**Native Mobile Interfaces**
+
+- Diseño vertical con navegación inferior (bottom navigation).
+- Elementos táctiles con dimensiones mínimas de 48 px.
+- Jerarquía de texto simplificada: títulos (20–24 px), texto base (16 px), etiquetas (14 px).
+- Cards simplificadas con acciones directas (reservar, validar).
+- Compatibilidad con gestos nativos (scroll, tap, back).
+- Adaptación a orientaciones vertical/horizontal y notch-safe zones.
+- Animaciones suaves para transiciones entre vistas.
+
+---
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
