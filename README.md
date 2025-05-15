@@ -1720,11 +1720,11 @@ Versión mínima del logo, compuesta solo por el ícono gráfico del contrato in
 **Versiones:**
 - Fondo claro (principal)
 
-![ ](assets/img/chapter-6/Logo-Inverted.png)
+![Logo white](assets/img/chapter-6/Logo-Inverted.png)
 
 - Fondo oscuro (modo dark)
 
-![ ](assets/img/chapter-6/Logo.png)
+![Logo black](assets/img/chapter-6/Logo.png)
 
 **2. Landing Page Icon**
 
@@ -1737,11 +1737,11 @@ Esta versión incluye el ícono más la palabra “TARKET” en formato horizont
 **Versiones:**
 - Fondo claro (principal)
 
-![Logo](assets/img/chapter-6/Logo-Landing-Inverted.png)
+![Logo white landing](assets/img/chapter-6/Logo-Landing-Inverted.png)
 
 - Fondo oscuro (modo nocturno)
 
-![Logo fondo oscuro](assets/img/chapter-6/Logo-Landing.png)
+![Logo black landing](assets/img/chapter-6/Logo-Landing.png)
 
 **3. Web / Mobile Applications Icon**
 
@@ -1754,11 +1754,11 @@ Versión completa del logotipo, con el ícono seguido del texto “TARKET CONTRA
 **Versiones:**
 - Fondo claro (principal)
 
-![ ](assets/img/chapter-6/Logo-Application-Inverted.png)
+![Logo white applications](assets/img/chapter-6/Logo-Application-Inverted.png)
 
 - Fondo oscuro (modo dark)
 
-![ ](assets/img/chapter-6/Logo-Applications.png)
+![Logo black applications](assets/img/chapter-6/Logo-Applications.png)
 
 ---
 
