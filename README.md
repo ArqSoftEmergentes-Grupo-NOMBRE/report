@@ -1696,6 +1696,74 @@ El **Bounded Context de Reseñas** permite a los usuarios calificar y dejar come
 
 ![Deployment Diagram](assets/img/chapter-4/database-diagram.png)
 
+## Capítulo VI: Solution UX Design
+
+### 6.1. Style Guidelines
+
+#### 6.1.1. General Style Guidelines
+
+**Branding**
+
+El logotipo de Tarket Contracts representa un contrato digital conectado por nodos, simbolizando su integración con tecnologías descentralizadas como blockchain. El diseño proyecta seguridad, tecnología confiable y transparencia operativa, y ha sido concebido con una estética limpia para su correcta visualización en todos los entornos digitales del startup.
+
+Se contemplan tres variantes principales del logotipo, diseñadas para adaptarse a distintos puntos de interacción con el usuario:
+
+**1. Icon (Isotipo)**
+
+Versión mínima del logo, compuesta solo por el ícono gráfico del contrato interconectado. Su función es representar visualmente la marca cuando no es necesario mostrar el texto o cuando el espacio es limitado.
+
+**Usos principales:**
+- Íconos de app móvil o web
+- Favicon (32x32 px, 64x64 px)
+- Splash screen o loading screen
+
+**Versiones:**
+- Fondo claro (principal)
+
+![ ](assets/img/chapter-6/Logo-Inverted.png)
+
+- Fondo oscuro (modo dark)
+
+![ ](assets/img/chapter-6/Logo.png)
+
+**2. Landing Page Icon**
+
+Esta versión incluye el ícono más la palabra “TARKET” en formato horizontal. Es la identidad visual utilizada en la landing page y sitios públicos, priorizando la recordación del nombre comercial de forma simple y directa.
+
+**Usos principales:**
+- Cabecera de la landing page
+- Firmas visuales institucionales
+
+**Versiones:**
+- Fondo claro (principal)
+
+![Logo](assets/img/chapter-6/Logo-Landing-Inverted.png)
+
+- Fondo oscuro (modo nocturno)
+
+![Logo fondo oscuro](assets/img/chapter-6/Logo-Landing.png)
+
+**3. Web / Mobile Applications Icon**
+
+Versión completa del logotipo, con el ícono seguido del texto “TARKET CONTRACTS”. Esta variante es la más formal y detallada, y se utiliza dentro de los productos digitales (aplicaciones web y móviles) para reforzar el nombre completo de la solución.
+
+**Usos recomendados:**
+- Header de la aplicación web
+- Pantallas internas de la app móvil
+
+**Versiones:**
+- Fondo claro (principal)
+
+![ ](assets/img/chapter-6/Logo-Application-Inverted.png)
+
+- Fondo oscuro (modo dark)
+
+![ ](assets/img/chapter-6/Logo-Application.png)
+
+---
+
+#### 6.1.2. Web, Mobile & Devices Style Guidelines
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
