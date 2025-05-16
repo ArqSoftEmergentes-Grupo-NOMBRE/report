@@ -2,7 +2,7 @@
 
 **Universidad Peruana de Ciencias Aplicadas**  
 **Ingenieria de Software**  
-**Ciclo 8**
+**Ciclo 08**
 
 **Código del curso: 1ASI0728**  
 **Curso: Arquitecturas De Software Emergentes**  
@@ -36,8 +36,16 @@
 | 1.2         | 23/04/2025 | Diaz Silva, Fernando Josué <br/> Jorge Arévalo, Ramón Alejandro                                         | Adición del capítulo II.                                                                                                                                                        |
 | 1.3         | 24/04/2025 | Castilla Pachas, César Antonio <br/> Cortés Casas, Joaquin Marcelo <br/> Jorge Arévalo, Ramón Alejandro | Adición de User Stories, Product Backlog, To-Be Scenario Mapping, Impact Mapping, Strategic Level Atribute Driven Design, Event Storming, Context Mapping y User Flow Modeling. |
 | 1.4         | 25/04/2025 | Castilla Pachas, César Antonio <br/> Cortés Casas, Joaquin Marcelo <br/> Jorge Arévalo, Ramón Alejandro                                                                          | Adición de Domain Message Flow Modelings, Bounded context canvases y Software Architecture diagrams.                                                                            |
+| 2.0         | 14/04/2025  | Castilla Pachas, César Antonio   |Adición de Bounded Context Domain Layer, Interface Layer, Application Layer & Infrastructure Layer.        |
+| 2.0.1       | 14/04/2025  | Jorge Arévalo, Ramón Alejandro   |Adición de Bounded Context Domain Layer Class Diagram.        |
+| 2.1.0       | 15/05/2025  | Cortés Casas, Joaquín Marcelo   | Adición de General Style Guidelines.        |
+| 2.1.1       | 15/05/2025  | Cortés Casas, Joaquín Marcelo   | Adición del Web & Mobile Style Guidelines.        |
+| 2.2.0       | 16/05/2025  | Cortés Casas, Joaquín Marcelo   | Adición de Landing Page Wireframes & Mock-up        |
+| 2.3.0       | 16/05/2025  | Diaz Silva, Fernando Josué   | Adición de Web Applications Wireframes.        |
+| 2.3.1       | 16/05/2025  | Cortés Casas, Joaquín Marcelo   | Adición de Mobile Applications Wireframes.        |
+| 2.4.0       | 16/05/2025  | Cortés Casas, Joaquín Marcelo   | Adición de Application Wireflow Diagrams.        |
 
----
+11---
 
 ## Project Report Collaboration Insights
 ### URL del repositorio en la organización GitHub
