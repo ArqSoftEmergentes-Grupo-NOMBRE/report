@@ -2114,23 +2114,67 @@ Esta sección describe los estándares visuales y de interacción aplicados en l
 
 ### 6.3. Landing Page UI Design
 
-
-
 #### 6.3.1. Landing Page Wirefrake
 
+![Hero Interface](assets/img/chapter-6/Wireframes-Landing-DesktopHero1.png)
 
+![About Us Interface](assets/img/chapter-6/Wireframes-Landing-DesktopAboutus2.png)
+
+![Professional Interface](assets/img/chapter-6/Wireframes-Landing-DesktopProfessionals4.png)
+
+![Developer Interface](assets/img/chapter-6/Wireframes-Landing-DesktopDevelopers3.png)
+
+![About the Team Interface](assets/img/chapter-6/Wireframes-Landing-DesktopAbouttheTeam5.png)
 
 #### 6.3.2. Landing Page Mock-up
 
+![Hero Interface](assets/img/chapter-6/Mockups-Landing-DesktopHero1.png)
 
+![About Us Interface](assets/img/chapter-6/Mockups-Landing-DesktopAboutus2.png)
+
+![Professional Interface](assets/img/chapter-6/Mockups-Landing-DesktopProfessionals3.png)
+
+![Developer Interface](assets/img/chapter-6/Mockups-Landing-DesktopDevelopers4.png)
+
+![About the Team Interface](assets/img/chapter-6/Mockups-Landing-DesktopAbouttheTeam5.png)
 
 ---
 
 ### 6.4. Application UX/UI Design
 
-
-
 #### 6.4.1. Application Wireframes
+
+**Web Application**
+
+![Sign In Interface](assets/img/chapter-6/Wireframes-Web-SignIn.png)
+
+![Sign Up Interface](assets/img/chapter-6/Wireframes-Web-SingUp.png)
+
+![Perfil Cliente Interface](assets/img/chapter-6/Wireframes-Web-PerfilCliente.png)
+
+![Perfil Desarrollador Interface](assets/img/chapter-6/Wireframes-Web-PerfilDesarrollador.png)
+
+![Dashboard Cliente Interface](assets/img/chapter-6/Wireframes-Web-DashboardCliente.png)
+
+![Dashboard Desarrollador Interface](assets/img/chapter-6/Wireframes-Web-DashboardDesarrolladorweb.png)
+
+![Revisar Entrega Interface](assets/img/chapter-6/Wireframes-Web-Revisarentrega.png)
+
+![Enviar Entrega Interface](assets/img/chapter-6/Wireframes-Web-Enviarentrega.png)
+
+![Detalles de Contrato Interface](assets/img/chapter-6/Wireframes-Web-Detallesdecontrato.png)
+
+![Nuevo Contrato Interface 1](assets/img/chapter-6/Wireframes-Web-Nuevocontrato.png)
+
+![Nuevo Contrato Interface 2](assets/img/chapter-6/Wireframes-Web-Nuevocontrato2.png)
+
+![Nuevo Contrato Interface 3](assets/img/chapter-6/Wireframes-Web-Nuevocontrato3.png)
+
+![Nuevo Contrato Interface 4](assets/img/chapter-6/Wireframes-Web-Nuevocontrato4.png)
+
+![Aceptar Contrato Interface](assets/img/chapter-6/Wireframes-Web-Aceptarcontrato.png)
+
+**Mobile Application**
 
 
 
@@ -2156,3 +2200,28 @@ Esta sección describe los estándares visuales y de interacción aplicados en l
 ## Bibliografia
 
 ## Anexos
+A continuación se presentan los videos generados como parte del desarrollo del proyecto.
+
+**Exposición TB1**
+Nomenclatura: `upc-pre-202510-1asi0572-2971-IoT_Innovators-expo-tb1`  
+Formato: `.mp4`  
+Duración: 25:54  
+**Enlace:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/ERo-O22A_dhImQOjz1_IJGcBYOLw72Usu-j62BXeEkcrhA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RZCVOE |
+
+**Exposición TP1**
+Nomenclatura: `upc-pre-202510-1asi0572-2971-IoT_Innovators-expo-tp1`  
+Formato: `.mp4`  
+Duración: 24:22  
+**Enlace:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EWDAl67_TdpAoBiAHa1OQxUB5fevLpptE56nZ_-F3GZtJQ?e=IMD3Yo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Needfinding Interviews**
+Nomenclatura: `upc-pre-202510-1asi0572-2971-IoT_Innovators-needfinding-tb1`  
+Formato: `.mp4`  
+Duración: 46:26  
+**Enlace:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EQ4rQ34NYHlGvEzueV9hB50B6zzVIOKni-ge9qzX-2w_0Q?e=rL8DY8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
