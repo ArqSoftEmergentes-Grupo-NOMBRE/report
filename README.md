@@ -515,6 +515,116 @@ Este diseño permitirá obtener tanto información *cuantitativa básica* (demog
 
 #### 2.2.2. Registro de entrevistas
 
+Se realizaron entrevistas a 6 personas, 3 de cada segmento objetivo. A continuación se presentan los datos demográficos y un resumen de las respuestas más relevantes:
+
+### **Segmento 1 - Desarrolladores Web**
+
+----------
+
+#### Entrevista 1
+
+**Nombre:** Lizet Antonia Pachas Torres
+
+**Edad:** 42 años
+
+**Distrito:** Arequipa
+
+> Lizet representa un perfil típico de desarrolladora freelance con experiencia sólida (11 años, 6 como independiente). Trabaja en una ciudad fuera de Lima (Arequipa), lo cual sugiere un entorno descentralizado de oferta de servicios web. Su trayectoria le ha permitido construir una red de contactos y obtener clientes a través de canales informales (Facebook, recomendaciones), y en menor medida por plataformas formales como Upwork.
+
+>Establece acuerdos de forma manual: envía propuestas por WhatsApp o correo, define porcentajes de adelanto y solicita el pago final al terminar. A pesar de ello, menciona problemas frecuentes como retrasos y evasión de pagos.
+
+> Utiliza herramientas estándar del entorno freelance como Figma, WordPress, Trello y GitHub. Maneja bien la documentación de avances y pruebas de cumplimiento (capturas, correos), pero eso no evita los conflictos con clientes.
+
+> Aunque Lizet ha escuchado sobre blockchain y contratos inteligentes, nunca los ha usado. Sin embargo, muestra alta disposición a adoptar herramientas automatizadas que garanticen los pagos y validen el cumplimiento de entregas.
+
+> La entrevista revela un pain point claro: el riesgo de impagos en entornos freelance informales. Lizet sería una usuaria ideal para una solución que automatice contratos, valide entregas y libere pagos de manera transparente. Aunque no tiene experiencia en Web3, su disposición a usar nuevas herramientas está condicionada a la confianza, facilidad y seguridad que estas puedan brindarle.
+
+  
+
+![Entrevista 1](./assets/img/chapter-2/Segmento1-Interview1.png)
+
+**Tiempo en el video:** 00:00
+
+
+----------
+
+
+#### Entrevista 2
+
+**Nombre:**
+
+**Edad:**
+
+**Distrito:**
+
+>
+
+
+**Tiempo en el video:** 00:00
+
+----------
+
+#### Entrevista 3
+
+**Nombre:**
+
+**Edad:**
+
+**Distrito:**
+
+>
+
+**Tiempo en el video:** 00:00
+
+----------
+
+### **Segmento 2 - Profesionales que buscan portafolio digital**
+
+----------
+
+#### Entrevista 1
+
+**Nombre:**
+
+**Edad:**
+
+**Distrito:**
+
+>
+
+**Tiempo en el video:** 00:00
+
+----------
+
+#### Entrevista 2
+
+**Nombre:**
+
+**Edad:**
+
+**Distrito:**
+
+>
+
+**Tiempo en el video:** 00:00
+
+----------
+
+#### Entrevista 3
+
+**Nombre:**
+
+**Edad:**
+
+**Distrito:**
+
+>
+
+**Tiempo en el video:** 00:00
+
+----------
+
+
 #### 2.2.3. Análisis de entrevistas
 
 ### 2.3. Needfinding
