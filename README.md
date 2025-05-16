@@ -690,13 +690,21 @@ Se realizaron entrevistas a 6 personas, 3 de cada segmento objetivo. A continuac
 
 #### Entrevista 1
 
-**Nombre:**
+**Nombre:** Alessandro Rey Contreras
 
-**Edad:**
+**Edad:** 24
 
-**Distrito:**
+**Distrito:** Jesús María
 
->
+> Alessandro representa el perfil de una persona introduciéndose al mundo laboral. Se encuentra ante una gran competencia y comenta que le resultaría útil poder manejar una página web de presentación o portafolio virtual para destacarse de entre los demás.
+
+> Su mayor temor al contratar los servicios freelance por Internet es la poca seguridad que siente respecto a la calidad del trabajo que le entregarán. Le gustaría poder tener una garantía de que el desarrollador cumplirá satisfactoriamente con su trabajo.
+
+> Comenta que le haría sentir más seguridad la posibilidad de conocer trabajos previos del desarollador que confirmen la calidad de sus proyectos, además de una garantía respecto a que no dejará el proyecto a medias una vez reciba su pago.
+
+> Ha escuchado conceptos de Blockchain y contratos inteligentes, pero nunca investigó de qué trataban exactamente. Al explicarle e indicarle la posibilidad de desarrollar una aplicación que le permita contratar con total seguridad un desarrollador para realizar un portafolio digital usando estas tecnologías, se mostró bastante interesado y comentó que definitivamente usaría un servicio como ese.
+
+![Entrevista 3](./assets/img/chapter-2/interview-profesional-1.png)
 
 **Tiempo en el video:** 00:00
 
