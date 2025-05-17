@@ -2256,25 +2256,21 @@ Interfaz que contiene formulario donde el usuario puede editar la información a
 A continuación se presentan los videos generados como parte del desarrollo del proyecto.
 
 **Exposición TB1**
-Nomenclatura: `upc-pre-202510-1asi0572-2971-IoT_Innovators-expo-tb1`  
+Nomenclatura: ``  
 Formato: `.mp4`  
-Duración: 25:54  
+Duración: 
 **Enlace:**
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/ERo-O22A_dhImQOjz1_IJGcBYOLw72Usu-j62BXeEkcrhA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RZCVOE |
 
 **Exposición TP1**
-Nomenclatura: `upc-pre-202510-1asi0572-2971-IoT_Innovators-expo-tp1`  
+Nomenclatura: ``  
 Formato: `.mp4`  
-Duración: 24:22  
+Duración:  
 **Enlace:**
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EWDAl67_TdpAoBiAHa1OQxUB5fevLpptE56nZ_-F3GZtJQ?e=IMD3Yo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Needfinding Interviews**
-Nomenclatura: `upc-pre-202510-1asi0572-2971-IoT_Innovators-needfinding-tb1`  
+Nomenclatura: ``  
 Formato: `.mp4`  
-Duración: 46:26  
+Duración:   
 **Enlace:**
-
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EQ4rQ34NYHlGvEzueV9hB50B6zzVIOKni-ge9qzX-2w_0Q?e=rL8DY8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
