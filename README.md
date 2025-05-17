@@ -649,7 +649,7 @@ Se realizaron entrevistas a 6 personas, 3 de cada segmento objetivo. A continuac
 
 ![Entrevista 1](./assets/img/chapter-2/Segmento1-Interview1.png)
 
-**Tiempo en el video:** 00:00
+**Tiempo en el video:** 00:05
 
 ----------
 
@@ -705,7 +705,7 @@ Se realizaron entrevistas a 6 personas, 3 de cada segmento objetivo. A continuac
 
 ![Entrevista 3](./assets/img/chapter-2/interview-profesional-1.png)
 
-**Tiempo en el video:** 00:00
+**Tiempo en el video:** 04:22
 
 ----------
 
@@ -2441,20 +2441,38 @@ A continuación se presentan los videos generados como parte del desarrollo del 
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tb1`  
 Formato: `.mp4`  
 Duración: 26:02
-**Enlace:**
 
-https://upcedupe-my.sharepoint.com/personal/u202114545_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114545%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0572%2D4281%2DTarket%2Dexpo%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb7760109%2D827d%2D4ecf%2Db04a%2D000fc0cd55ab
+**Enlace acortado:**
+
+https://tinyurl.com/zkr9dy5j
+
+**Enlace original:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EdjD6he784hLofLmw9_0wDoBA2R2jA77_NI9HUOyrPyxOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ESfXa2
+
+---
 
 **Exposición TP1**
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tp1`  
 Formato: `.mp4`  
-Duración: 16:12 
-**Enlace:**
+Duración: 16:12
+
+**Enlace acortado:**
+
+https://tinyurl.com/38p345ww
+
+**Enlace original:**
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EbYnJUAiU-ZOpY6DJYByW5IBwrhwKMyWqqHoCfxoTvg9Cg?e=hmwDco&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Needfinding Interviews**
-Nomenclatura: ``  
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-needfinding`  
 Formato: `.mp4`  
-Duración:   
-**Enlace:**
+Duración: 7:50  
+**Enlace acortado:**
+
+https://tinyurl.com/4ybcxh74
+
+**Enlace original:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EWlQI3MlZYJMu0Hq5ohT9fIBF2Vj7Y8hBtckt2Ej-YFVRg?e=rizqXz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
