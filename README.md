@@ -645,12 +645,9 @@ Se realizaron entrevistas a 6 personas, 3 de cada segmento objetivo. A continuac
 
 > La entrevista revela un pain point claro: el riesgo de impagos en entornos freelance informales. Lizet sería una usuaria ideal para una solución que automatice contratos, valide entregas y libere pagos de manera transparente. Aunque no tiene experiencia en Web3, su disposición a usar nuevas herramientas está condicionada a la confianza, facilidad y seguridad que estas puedan brindarle.
 
-  
-
 ![Entrevista 1](./assets/img/chapter-2/Segmento1-Interview1.png)
 
 **Tiempo en el video:** 00:00
-
 
 ----------
 
@@ -2184,11 +2181,59 @@ Esta sección describe los estándares visuales y de interacción aplicados en l
 
 **Mobile Application**
 
+Interfaz donde el usuario puede ingresar sus credenciales para ingresar a la aplicación. También puede presionar un texto que lo redirige a la interfaz de creación de cuenta.
 
+![Login Interface](assets/img/chapter-6/Wireframes-Mobile-clientLogIn.png)
+
+Interfaz la cual permite a los usuarios crear cuentas ingresando nombre completo, correo electrónico y contraseña. También puede presionar un texto que lo redirige a la interfaz de inicio de sesión.
+
+![SignIn Interface](assets/img/chapter-6/Wireframes-Mobile-clientSignIn.png)
+
+Interfaz home, donde el usuario puede revisar el estado de sus contratos recientes, pendientes y activos. También puede crear nuevos contratos presionando el ícono "+".
+
+![Dashboard Interface](assets/img/chapter-6/Wireframes-Mobile-clientDashboard.png)
+
+El usuario inicia la creación del contrato antes eligiendo a un desarrollador. Puede usar la barra de búsqueda y presionar la caja que contenga cada individuo para proceder.
+
+![Create Contract Interface](assets/img/chapter-6/Wireframes-Mobile-clientCreateContract.png)
+
+Interfaz que aparece cuando un usuario realiza la búsqueda de un desarrollador específico. Puede presionar el ícono "x" para cancelar la búsqueda realizada.
+
+![Search Developer Contract Interface](assets/img/chapter-6/Wireframes-Mobile-clientCreateContractSearch.png)
+
+En esta interfaz, el usuario puede detallar diferentes aspectos del contrato a solicitar, como el título del proyecto, su descripción y archivos de referencia de manera opcional.
+
+![Contract Details Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractDetails.png)
+
+Se definen los detalles de pago por hito en esta interfaz, el usuario puede definir el número de hitos por el cual quiere coordinar la entrega del proyecto software y definir que se hace en cada hito, la fecha límite de entrega y el costo por hito finalizado, concluyendo en un monto total por un contrato completo.
+
+![Contract Payment Details Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractPayments.png)
+
+Interfaz que contiene los detalles que resumen el contrato generado y contiene un checkbox que el usuario debe marcar para así mandar la solicitud del contrato creado.
+
+![Contract Confirmation Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractConfirmation.png)
+
+Interfaz de confirmación de contrato creado, el cual hace saber que el desarrollador ya debe poder visualizar la petición para así decidir si lo acepta o rechaza.
+
+![Contract Check Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractCheck.png)
+
+Contiene los detalles de un contrato entregado, específicamente los datos del desarrollador y los hitos realizados. Contiene un botón para visualizar la firma del contrato.
+
+![Contract Delivered Detailes Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractDelivered.png)
+
+Aquí el usuario puede visualizar la firma generada del contrato, que incluye detalles del usuario y desarrollador, aparte de 
+
+![Contract Signature Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractSignature.png)
+
+Permite esta interfaz revisar el estado actual del hito de un contracto generado.
+
+![Contract Status Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractStatus.png)
+
+Interfaz que contiene formulario donde el usuario puede editar la información asociada a su cuenta.
+
+![User Account Interface](assets/img/chapter-6/Wireframes-Mobile-clientAccount.png)
 
 #### 6.4.2. Application Wireflow Diagrams
-
-
 
 ---
 
