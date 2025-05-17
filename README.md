@@ -2291,11 +2291,12 @@ Interfaz que contiene formulario donde el usuario puede editar la información a
 A continuación se presentan los videos generados como parte del desarrollo del proyecto.
 
 **Exposición TB1**
-Nomenclatura: ``  
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tb1`  
 Formato: `.mp4`  
-Duración: 
+Duración: 26:02
 **Enlace:**
 
+https://upcedupe-my.sharepoint.com/personal/u202114545_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114545%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0572%2D4281%2DTarket%2Dexpo%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb7760109%2D827d%2D4ecf%2Db04a%2D000fc0cd55ab
 
 **Exposición TP1**
 Nomenclatura: ``  
