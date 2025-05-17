@@ -2227,7 +2227,7 @@ Aquí el usuario puede visualizar la firma generada del contrato, que incluye de
 
 Permite esta interfaz revisar el estado actual del hito de un contracto generado.
 
-![Contract Status Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractStatus.png)
+![Contract Status Interface](assets/img/chapter-6/Wireframes-Web-clientContractStatus-fix.png)
 
 Interfaz que contiene formulario donde el usuario puede editar la información asociada a su cuenta.
 
