@@ -740,6 +740,20 @@ Se realizaron entrevistas a 6 personas, 3 de cada segmento objetivo. A continuac
 
 #### 2.2.3. Análisis de entrevistas
 
+**Segmento 1 – Desarrolladores Web**
+
+Del total de entrevistados en este segmento (3), el **100% manifestó haber tenido problemas con retrasos o impagos** al trabajar con clientes, lo que evidencia una alta vulnerabilidad en la gestión de pagos. Asimismo, el **67% indicó que realiza acuerdos de forma manual**, sin soporte legal o digital, lo que incrementa el riesgo de conflictos. El **100% utiliza herramientas digitales estándar como Figma, Trello o GitHub**, pero no cuentan con medios automatizados para validar entregas o asegurar pagos.
+
+Respecto a Web3, aunque solo el **33% ha usado o explorado blockchain**, el **100% se mostró dispuesto a adoptar una herramienta que automatice contratos y pagos**, siempre que sea segura y confiable. La principal necesidad detectada es la **automatización de acuerdos con validación objetiva de entregables**, alineada al temor recurrente: **falta de garantía de cobro por cumplimiento de trabajo**.
+
+**Segmento 2 – Profesionales que buscan portafolio digital**
+
+En este segmento, el **100% de los entrevistados expresó desconfianza al contratar freelancers por canales digitales**, siendo el mayor temor la **falta de cumplimiento y la imposibilidad de asegurar la calidad**. Además, el **100% indicó que le generaría más confianza un sistema que libere el pago solo si el trabajo se entrega correctamente**, y el **67% valoraría ver trabajos previos o reputación verificable del desarrollador**.
+
+Pese a que solo el **33% ha escuchado sobre blockchain o contratos inteligentes**, todos expresaron interés en una herramienta que les brinde mayor control y seguridad
+
+---
+
 ### 2.3. Needfinding
 
 Usaremos las herramientas de User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-is Scenario Mapping para tener una visión general de las experiencias de nuestros usuarios.
