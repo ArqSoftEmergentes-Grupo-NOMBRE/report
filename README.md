@@ -2438,6 +2438,7 @@ Desde su dashboard, el desarrollador accede a su perfil tocando el ícono corres
 A continuación se presentan los videos generados como parte del desarrollo del proyecto.
 
 **Exposición TB1**
+
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tb1`  
 Formato: `.mp4`  
 Duración: 26:02
@@ -2453,6 +2454,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EdjD6he7
 ---
 
 **Exposición TP1**
+
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tp1`  
 Formato: `.mp4`  
 Duración: 16:12
@@ -2465,7 +2467,10 @@ https://tinyurl.com/38p345ww
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EbYnJUAiU-ZOpY6DJYByW5IBwrhwKMyWqqHoCfxoTvg9Cg?e=hmwDco&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+---
+
 **Needfinding Interviews**
+
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-needfinding`  
 Formato: `.mp4`  
 Duración: 7:50  
