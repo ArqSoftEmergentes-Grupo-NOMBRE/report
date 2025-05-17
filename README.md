@@ -74,7 +74,7 @@ https://github.com/ArqSoftEmergentes-Grupo-NOMBRE
 **Descripción de las actividades realizadas:**
 - **Castilla Pachas, César Antonio:** X
 - **Cortés Casas, Joaquin Marcelo:** X
-- **Diaz Silva, Fernando Josué:** X
+-  **Diaz Silva, Fernando Josué:** Creacion de los wireframes de la aplicacion web en figma y documentacion de los wireframes en el reporte.
 - **Jorge Arévalo, Ramón Alejandro:** Creación de los Diagramas de Componentes, Diagramas de Base de Datos y Diagramas de Clases de los Bounded Context.
 
 **Evidencia de colaboración y commits en GitHub del reporte:**
@@ -251,8 +251,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | **Criterio específico**                                                                                                                                                               | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Conclusiones** |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | Castilla Pachas, César Antonio<br/>TB1<br/>Durante el desarrollo del proyecto he podido comunicar mis ideas de fomra clara y objetiva, tanto en aspectos técnicos como funcionales, ademas he adaptado mi forma de explicar segun el publico, ya sea ante compañeros del proyecto o personas de cualquier otra parte, usando ejemplos y lenguaje sencillo cunado fuera necesario.<br/>TP1<br/>En esta segunda etapa del proyecto, reforcé mi capacidad para comunicar oralmente los avances y resultados obtenidos, presentando información técnica de manera estructurada y comprensible para audiencias diversas. Durante exposiciones y coordinaciones, adapté mi discurso según el nivel de conocimiento del público, empleando un lenguaje claro, apoyos visuales y ejemplos prácticos para facilitar la comprensión, especialmente al explicar decisiones de diseño, arquitectura y pruebas funcionales del sistema.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Durante el desarrollo del proyecto, comuniqué oralmente mis ideas de forma clara y estructurada a mi equipo, compuesto por estudiantes de distintas especialidades. Expliqué de manera objetiva el enfoque aplicado en la creación de User Stories, la organización del Product Backlog, la estructuración de los Bounded Context Canvases y el diseño de los Diagramas de Arquitectura de Software (Context, Container, Deployment y System Landscape). Esto permitió que todos los integrantes comprendieran los objetivos técnicos y funcionales independientemente de su nivel de conocimiento específico.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante los avances y resultados del proyecto logre comunicar de forma oral mis ideas de manera objetiva y estructurada. Me asegure de explicar tanto los conecptos tecnicos como los beneficios del proyecto, adaptando mi lenguaje para que fuera comprensible para cualquier persona.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, he desarrollado los puntos de User Personas, User Task Matrix, Journey Mappings y Empathy Mappings, lo que me ha permitido entender y explicar el perfil de los segmentos objetivo a la que va a ir dirigida la aplicación.<br/>TP1<br/>Para esta entrega, he desarrollado los diagramas de base de datos y de clases de los distintos Bounded Context de nuestro proyecto, para poder tener una idea general de cómo empezar a desarrollar la aplicación.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>      | Lorem ipsum dolor sit amet.               |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Castilla Pachas, César Antonio<br/>TB1<br/>A lo largo del proyecto he comunicado por escrito nuestras ideas y resultados de manera clara y objetiva, tambien he redactado documentos tecnicos y explicativos adaptados a publicos de distintas especialidades, desde informes de arquitectura hasta resumenes funcionales.<br/>TP1<br/>Durante esta fase del proyecto, continué redactando documentación técnica y funcional con claridad y objetividad, considerando el perfil del público lector. Elaboré reportes que explican desde los componentes técnicos hasta el impacto funcional del sistema, cuidando el uso de un lenguaje preciso y accesible para diferentes niveles jerárquicos y especialidades. Además, participé en la revisión y mejora de entregables escritos para asegurar su coherencia y comprensión.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Redacté de manera precisa y comprensible la documentación técnica del proyecto, elaborando User Stories con criterios de aceptación estructurados en formato Gherkin, un Product Backlog priorizado, Bounded Context Canvases detallados para cada módulo, y Diagramas de Software Architecture utilizando C4 Model. Esta documentación permitió comunicar de manera escrita y objetiva los resultados del trabajo tanto a perfiles técnicos como a perfiles no técnicos involucrados en el proyecto.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante el proyecto redacte informes y entregables donde presente ideas y resultados de fomra clara, objetiva y organizada. Donde adapte el nivel de detalle y el lenguaje segun el publico, asegurandome de que tanto especialistas tecnicos como profesionales pudieran comprender el alcance de esta solución.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, desarrollé los puntos de Event Storming, Candidate Context Discovery, Domain Message Flow Modelings y Context Mapping, lo cual me ha permitido identificar las bases del diseño de la arquitectura de nuestra aplicación, con el enfoque de Domain-Driven Design.<br/>TP1<br/>En esta entrega, he desarrollado los diagramas de componentes de cada uno de los Bounded Context del proyecto, definiendo las funcionalidades que van a contemplar dichos contextos en la aplicación que desarrollaremos.<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/> | Lorem ipsum dolor sit amet.               |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | Castilla Pachas, César Antonio<br/>TB1<br/>Durante el desarrollo del proyecto he podido comunicar mis ideas de fomra clara y objetiva, tanto en aspectos técnicos como funcionales, ademas he adaptado mi forma de explicar segun el publico, ya sea ante compañeros del proyecto o personas de cualquier otra parte, usando ejemplos y lenguaje sencillo cunado fuera necesario.<br/>TP1<br/>En esta segunda etapa del proyecto, reforcé mi capacidad para comunicar oralmente los avances y resultados obtenidos, presentando información técnica de manera estructurada y comprensible para audiencias diversas. Durante exposiciones y coordinaciones, adapté mi discurso según el nivel de conocimiento del público, empleando un lenguaje claro, apoyos visuales y ejemplos prácticos para facilitar la comprensión, especialmente al explicar decisiones de diseño, arquitectura y pruebas funcionales del sistema.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Durante el desarrollo del proyecto, comuniqué oralmente mis ideas de forma clara y estructurada a mi equipo, compuesto por estudiantes de distintas especialidades. Expliqué de manera objetiva el enfoque aplicado en la creación de User Stories, la organización del Product Backlog, la estructuración de los Bounded Context Canvases y el diseño de los Diagramas de Arquitectura de Software (Context, Container, Deployment y System Landscape). Esto permitió que todos los integrantes comprendieran los objetivos técnicos y funcionales independientemente de su nivel de conocimiento específico.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante los avances y resultados del proyecto logre comunicar de forma oral mis ideas de manera objetiva y estructurada. Me asegure de explicar tanto los conecptos tecnicos como los beneficios del proyecto, adaptando mi lenguaje para que fuera comprensible para cualquier persona.<br/>TP1<br/>Durante la presentación del proyecto, expuse con claridad y objetividad los resultados alcanzados, detallando tanto aspectos técnicos como su aplicabilidad en el contexto real. Me enfoqué en adaptar el lenguaje y el nivel de detalle según el público presente, lo que permitió una mejor comprensión del impacto y funcionamiento del sistema desarrollado, sin perder precisión en los conceptos clave.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, he desarrollado los puntos de User Personas, User Task Matrix, Journey Mappings y Empathy Mappings, lo que me ha permitido entender y explicar el perfil de los segmentos objetivo a la que va a ir dirigida la aplicación.<br/>TP1<br/>Para esta entrega, he desarrollado los diagramas de base de datos y de clases de los distintos Bounded Context de nuestro proyecto, para poder tener una idea general de cómo empezar a desarrollar la aplicación.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>      | Lorem ipsum dolor sit amet.               |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Castilla Pachas, César Antonio<br/>TB1<br/>A lo largo del proyecto he comunicado por escrito nuestras ideas y resultados de manera clara y objetiva, tambien he redactado documentos tecnicos y explicativos adaptados a publicos de distintas especialidades, desde informes de arquitectura hasta resumenes funcionales.<br/>TP1<br/>Durante esta fase del proyecto, continué redactando documentación técnica y funcional con claridad y objetividad, considerando el perfil del público lector. Elaboré reportes que explican desde los componentes técnicos hasta el impacto funcional del sistema, cuidando el uso de un lenguaje preciso y accesible para diferentes niveles jerárquicos y especialidades. Además, participé en la revisión y mejora de entregables escritos para asegurar su coherencia y comprensión.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Redacté de manera precisa y comprensible la documentación técnica del proyecto, elaborando User Stories con criterios de aceptación estructurados en formato Gherkin, un Product Backlog priorizado, Bounded Context Canvases detallados para cada módulo, y Diagramas de Software Architecture utilizando C4 Model. Esta documentación permitió comunicar de manera escrita y objetiva los resultados del trabajo tanto a perfiles técnicos como a perfiles no técnicos involucrados en el proyecto.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante el proyecto redacte informes y entregables donde presente ideas y resultados de fomra clara, objetiva y organizada. Donde adapte el nivel de detalle y el lenguaje segun el publico, asegurandome de que tanto especialistas tecnicos como profesionales pudieran comprender el alcance de esta solución.<br/>TP1<br/>Durante la entrega del proyecto documenté de forma clara y objetiva los avances y resultados obtenidos, utilizando un lenguaje adecuado para distintos públicos. Elaboré informes técnicos y explicativos que permitieron transmitir tanto los aspectos funcionales como los beneficios del sistema, asegurando la comprensión de lectores con diferentes niveles de especialización.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, desarrollé los puntos de Event Storming, Candidate Context Discovery, Domain Message Flow Modelings y Context Mapping, lo cual me ha permitido identificar las bases del diseño de la arquitectura de nuestra aplicación, con el enfoque de Domain-Driven Design.<br/>TP1<br/>En esta entrega, he desarrollado los diagramas de componentes de cada uno de los Bounded Context del proyecto, definiendo las funcionalidades que van a contemplar dichos contextos en la aplicación que desarrollaremos.<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/> | Lorem ipsum dolor sit amet.               |
 
 ---
 
@@ -2182,37 +2182,114 @@ En la mobile app, se emplean menús superiores e inferiores, y navegación progr
 
 ### 6.4. Application UX/UI Design
 
+
 #### 6.4.1. Application Wireframes
+
+  
 
 **Web Application**
 
+  
+
+**Sign In:** Interfaz donde el usuario puede ingresar sus credenciales para ingresar a la aplicación.
+
+  
+  
+
 ![Sign In Interface](assets/img/chapter-6/Wireframes-Web-SignIn.png)
+
+  
+
+**Sign Up:** Interfaz la cual permite a los usuarios crear cuentas ingresando nombre completo, correo electrónico, contraseña y rol.
+
+  
 
 ![Sign Up Interface](assets/img/chapter-6/Wireframes-Web-SingUp.png)
 
+  
+
+**Perfil Cliente:** Interfaz donde el usuario puede editar su información personal, como nombre, correo, telefono, metodo de pago y enlace a linkedin.
+
+  
+
 ![Perfil Cliente Interface](assets/img/chapter-6/Wireframes-Web-PerfilCliente.png)
+
+  
+
+**Perfil Desarrollador:** Interfaz donde el usuario puede editar su información personal, como nombre, correo, telefono, especialización, teconologias y enlace a portafolio.
+
+  
 
 ![Perfil Desarrollador Interface](assets/img/chapter-6/Wireframes-Web-PerfilDesarrollador.png)
 
+  
+
+**Dashboard Cliente:** Interfaz donde el usuario puede revisar el estado de sus contratos recientes, pendientes y activos. También puede crear nuevos contratos presionando el ícono "+".
+
+  
+
 ![Dashboard Cliente Interface](assets/img/chapter-6/Wireframes-Web-DashboardCliente.png)
+
+  
+
+**Dashboard Desarrollador:** Interfaz donde el usuario puede revisar el estado de sus contratos recientes, pendientes y activos. También puede aceptar nuevos contratos presionando el ícono "+".
+
+  
 
 ![Dashboard Desarrollador Interface](assets/img/chapter-6/Wireframes-Web-DashboardDesarrolladorweb.png)
 
+  
+
+**Revisar Entrega:** Interfaz donde el cliente puede revisar la entrega de un hito, con la opción de aceptar o rechazar la entrega.
+
+  
+
 ![Revisar Entrega Interface](assets/img/chapter-6/Wireframes-Web-Revisarentrega.png)
+
+  
+
+**Enviar Entrega:** Interfaz donde el desarrollador puede enviar la entrega de un hito, con la opción de agregar comentarios y archivos adjuntos.
+
+  
 
 ![Enviar Entrega Interface](assets/img/chapter-6/Wireframes-Web-Enviarentrega.png)
 
+  
+
+**Detalles de Contrato:** Interfaz donde el usuario puede ver los detalles de un contrato específico, incluyendo información del desarrollador y los hitos realizados.
+
+  
+
 ![Detalles de Contrato Interface](assets/img/chapter-6/Wireframes-Web-Detallesdecontrato.png)
+
+  
+
+**Crear Contrato:** Interfaz donde el usuario puede iniciar la creación de un contrato, eligiendo a un desarrollador y definiendo los detalles del proyecto, hitos y pagos.
+
+  
 
 ![Nuevo Contrato Interface 1](assets/img/chapter-6/Wireframes-Web-Nuevocontrato.png)
 
+  
+
 ![Nuevo Contrato Interface 2](assets/img/chapter-6/Wireframes-Web-Nuevocontrato2.png)
+
+  
 
 ![Nuevo Contrato Interface 3](assets/img/chapter-6/Wireframes-Web-Nuevocontrato3.png)
 
+  
+
 ![Nuevo Contrato Interface 4](assets/img/chapter-6/Wireframes-Web-Nuevocontrato4.png)
 
+  
+
+**Aceptar Contrato:** Interfaz donde el desarrollador puede aceptar o rechazar un contrato propuesto por un cliente. Incluye un boton para ver detalles del contrato para aceptar o rechazar la respuesta.
+
+  
+
 ![Aceptar Contrato Interface](assets/img/chapter-6/Wireframes-Web-Aceptarcontrato.png)
+
 
 **Mobile Application**
 
