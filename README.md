@@ -73,8 +73,8 @@ https://github.com/ArqSoftEmergentes-Grupo-NOMBRE
 #### TP1:
 
 **Descripción de las actividades realizadas:**
-- **Castilla Pachas, César Antonio:** X
-- **Cortés Casas, Joaquin Marcelo:** X
+- **Castilla Pachas, César Antonio:** Desarrollar el Domain Layer, Interface Layer, Application Layer e Infrastructure Layer por cada bounded context.
+- **Cortés Casas, Joaquin Marcelo:** Definir los general style guidelines, web and mobile style guidelines, information architecture, landing page wireframes and mockups, mobile application wireframes y application wireflow diagrams.
 -  **Diaz Silva, Fernando Josué:** Creacion de los wireframes de la aplicacion web en figma y documentacion de los wireframes en el reporte.
 - **Jorge Arévalo, Ramón Alejandro:** Creación de los Diagramas de Componentes, Diagramas de Base de Datos y Diagramas de Clases de los Bounded Context.
 
