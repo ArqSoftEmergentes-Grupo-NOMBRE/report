@@ -2,7 +2,7 @@
 
 **Universidad Peruana de Ciencias Aplicadas**  
 **Ingenieria de Software**  
-**Ciclo 08**
+**Ciclo 8**
 
 **Código del curso: 1ASI0728**  
 **Curso: Arquitecturas De Software Emergentes**  
@@ -29,22 +29,23 @@
 
 ## Registro de Versiones del Informe
 
-| **Versión**  | **Fecha**  | **Autor**                                                                                               | **Descripción de Modificación**                                                                                                                                                 |
-|--------------|------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0          | 15/04/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Creación del informe. Adición de carátula y tabla de contenidos.                                                                                                                |
-| 1.1          | 18/04/2025 | Castilla Pachas, César Antonio                                                                          | Adición del Startup Profile y Solution Profile.                                                                                                                                 |
-| 1.2          | 23/04/2025 | Diaz Silva, Fernando Josué <br/> Jorge Arévalo, Ramón Alejandro                                         | Adición del capítulo II.                                                                                                                                                        |
-| 1.3          | 24/04/2025 | Castilla Pachas, César Antonio <br/> Cortés Casas, Joaquin Marcelo <br/> Jorge Arévalo, Ramón Alejandro | Adición de User Stories, Product Backlog, To-Be Scenario Mapping, Impact Mapping, Strategic Level Atribute Driven Design, Event Storming, Context Mapping y User Flow Modeling. |
-| 1.4          | 25/04/2025 | Castilla Pachas, César Antonio <br/> Cortés Casas, Joaquin Marcelo <br/> Jorge Arévalo, Ramón Alejandro | Adición de Domain Message Flow Modelings, Bounded context canvases y Software Architecture diagrams.                                                                            |
-| 2.0          | 14/04/2025 | Castilla Pachas, César Antonio                                                                          | Adición de Bounded Context Domain Layer, Interface Layer, Application Layer & Infrastructure Layer.                                                                             |
-| 2.0.1        | 14/04/2025 | Jorge Arévalo, Ramón Alejandro                                                                          | Adición de Bounded Context Domain Layer Class Diagram.                                                                                                                          |
-| 2.1.0        | 15/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de General Style Guidelines.                                                                                                                                            |
-| 2.1.1        | 15/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición del Web & Mobile Style Guidelines.                                                                                                                                      |
-| 2.2.0        | 16/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de Landing Page Wireframes & Mock-up                                                                                                                                    |
-| 2.3.0        | 16/05/2025 | Diaz Silva, Fernando Josué                                                                              | Adición de Web Applications Wireframes.                                                                                                                                         |
-| 2.3.1        | 16/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de Mobile Applications Wireframes.                                                                                                                                      |
-| 2.4.0        | 16/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de Application Wireflow Diagrams.                                                                                                                                       |
-| 3.0          | X          | X                                                                                                       | X                                                                                                                                                                               |
+| **Versión** | **Fecha**  | **Autor**                                                                                               | **Descripción de Modificación**                                                                                                                                                 |
+|-------------|------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0         | 15/04/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Creación del informe. Adición de carátula y tabla de contenidos.                                                                                                                |
+| 1.1         | 18/04/2025 | Castilla Pachas, César Antonio                                                                          | Adición del Startup Profile y Solution Profile.                                                                                                                                 |
+| 1.2         | 23/04/2025 | Diaz Silva, Fernando Josué <br/> Jorge Arévalo, Ramón Alejandro                                         | Adición del capítulo II.                                                                                                                                                        |
+| 1.3         | 24/04/2025 | Castilla Pachas, César Antonio <br/> Cortés Casas, Joaquin Marcelo <br/> Jorge Arévalo, Ramón Alejandro | Adición de User Stories, Product Backlog, To-Be Scenario Mapping, Impact Mapping, Strategic Level Atribute Driven Design, Event Storming, Context Mapping y User Flow Modeling. |
+| 1.4         | 25/04/2025 | Castilla Pachas, César Antonio <br/> Cortés Casas, Joaquin Marcelo <br/> Jorge Arévalo, Ramón Alejandro | Adición de Domain Message Flow Modelings, Bounded context canvases y Software Architecture diagrams.                                                                            |
+| 2.0         | 14/04/2025 | Castilla Pachas, César Antonio                                                                          | Adición de Bounded Context Domain Layer, Interface Layer, Application Layer & Infrastructure Layer.                                                                             |
+| 2.0.1       | 14/04/2025 | Jorge Arévalo, Ramón Alejandro                                                                          | Adición de Bounded Context Domain Layer Class Diagram.                                                                                                                          |
+| 2.1.0       | 15/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de General Style Guidelines.                                                                                                                                            |
+| 2.1.1       | 15/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición del Web & Mobile Style Guidelines.                                                                                                                                      |
+| 2.1.2       | 16/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de Information Architecture.                                                                                                                                            |
+| 2.2.0       | 16/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de Landing Page Wireframes & Mock-up                                                                                                                                    |
+| 2.3.0       | 16/05/2025 | Diaz Silva, Fernando Josué                                                                              | Adición de Web Applications Wireframes.                                                                                                                                         |
+| 2.3.1       | 16/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de Mobile Applications Wireframes.                                                                                                                                      |
+| 2.4.0       | 16/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de Application Wireflow Diagrams.                                                                                                                                       |
+| 3.0         | X          | X                                                                                                       | X                                                                                                                                                                               |
 
 ---
 
@@ -72,10 +73,10 @@ https://github.com/ArqSoftEmergentes-Grupo-NOMBRE
 #### TP1:
 
 **Descripción de las actividades realizadas:**
-- **Castilla Pachas, César Antonio:** X
-- **Cortés Casas, Joaquin Marcelo:** X
-- **Diaz Silva, Fernando Josué:** X
-- **Jorge Arévalo, Ramón Alejandro:** X
+- **Castilla Pachas, César Antonio:** Desarrollar el Domain Layer, Interface Layer, Application Layer e Infrastructure Layer por cada bounded context.
+- **Cortés Casas, Joaquin Marcelo:** Definir los general style guidelines, web and mobile style guidelines, information architecture, landing page wireframes and mockups, mobile application wireframes y application wireflow diagrams.
+-  **Diaz Silva, Fernando Josué:** Creacion de los wireframes de la aplicacion web en figma y documentacion de los wireframes en el reporte.
+- **Jorge Arévalo, Ramón Alejandro:** Creación de los Diagramas de Componentes, Diagramas de Base de Datos y Diagramas de Clases de los Bounded Context.
 
 **Evidencia de colaboración y commits en GitHub del reporte:**
 
@@ -150,6 +151,88 @@ https://github.com/ArqSoftEmergentes-Grupo-NOMBRE
         - [4.3.3. Software Architecture Container Level Diagrams](#433-software-architecture-container-level-diagrams)
         - [4.3.4. Software Architecture Deployment Diagrams](#434-software-architecture-deployment-diagrams)
 
+- [Capítulo V: Tactical-Level Software Design](#capítulo-v-tactical-level-software-design)
+    - [5.1. Bounded Context: Contracts](#51-bounded-context-contracts)
+        - [5.1.1. Domain Layer](#511-domain-layer)
+        - [5.1.2. Interface Layer](#512-interface-layer)
+        - [5.1.3. Application Layer](#513-application-layer)
+        - [5.1.4. Infrastructure Layer](#514-infrastructure-layer)
+        - [5.1.5. Bounded Context Software Architecture Component Level Diagrams](#515-bounded-context-software-architecture-component-level-diagrams)
+        - [5.1.6. Bounded Context Software Architecture Code Level Diagrams](#516-bounded-context-software-architecture-code-level-diagrams)
+            - [5.1.6.1 Bounded Context Domain Layer Class Diagrams](#5161-bounded-context-domain-layer-class-diagrams)
+            - [5.1.6.2 Bounded Context Database Design Diagram](#5162-bounded-context-database-design-diagram)
+    - [5.2. Bounded Context: Contract Validation](#52-bounded-context-contract-validation)
+        - [5.2.1. Domain Layer](#521-domain-layer)
+        - [5.2.2. Interface Layer](#522-interface-layer)
+        - [5.2.3. Application Layer](#523-application-layer)
+        - [5.2.4. Infrastructure Layer](#524-infrastructure-layer)
+        - [5.2.5. Bounded Context Software Architecture Component Level Diagrams](#525-bounded-context-software-architecture-component-level-diagrams)
+        - [5.2.6. Bounded Context Software Architecture Code Level Diagrams](#526-bounded-context-software-architecture-code-level-diagrams)
+            - [5.2.6.1 Bounded Context Domain Layer Class Diagrams](#526)
+            - [5.2.6.2 Bounded Context Database Design Diagram](#526)
+    - [5.3. Bounded Context: Notifications](#53-bounded-context-notifications)
+        - [5.3.1. Domain Layer](#531-domain-layer)
+        - [5.3.2. Interface Layer](#532-interface-layer)
+        - [5.3.3. Application Layer](#533-application-layer)
+        - [5.3.4. Infrastructure Layer](#534-infrastructure-layer)
+        - [5.3.5. Bounded Context Software Architecture Component Level Diagrams](#535-bounded-context-software-architecture-component-level-diagrams)
+        - [5.3.6. Bounded Context Software Architecture Code Level Diagrams](#536-bounded-context-software-architecture-code-level-diagrams)
+            - [5.3.6.1 Bounded Context Domain Layer Class Diagrams](#536)
+            - [5.3.6.2 Bounded Context Database Design Diagram](#536)
+    - [5.4. Bounded Context: Web Service](#54-bounded-context-web-service)
+        - [5.4.1. Domain Layer](#541-domain-layer)
+        - [5.4.2. Interface Layer](#542-interface-layer)
+        - [5.4.3. Application Layer](#543-application-layer)
+        - [5.4.4. Infrastructure Layer](#544-infrastructure-layer)
+        - [5.4.5. Bounded Context Software Architecture Component Level Diagrams](#545-bounded-context-software-architecture-component-level-diagrams)
+        - [5.4.6. Bounded Context Software Architecture Code Level Diagrams](#546-bounded-context-software-architecture-code-level-diagrams)
+            - [5.4.6.1 Bounded Context Domain Layer Class Diagrams](#546)
+            - [5.4.6.2 Bounded Context Database Design Diagram](#546)
+    - [5.5. Bounded Context: Profiles](#55-bounded-context-profiles)
+        - [5.5.1. Domain Layer](#551-domain-layer)
+        - [5.5.2. Interface Layer](#552-interface-layer)
+        - [5.5.3. Application Layer](#553-application-layer)
+        - [5.5.4. Infrastructure Layer](#554-infrastructure-layer)
+        - [5.5.5. Bounded Context Software Architecture Component Level Diagrams](#555-bounded-context-software-architecture-component-level-diagrams)
+        - [5.5.6. Bounded Context Software Architecture Code Level Diagrams](#556-bounded-context-software-architecture-code-level-diagrams)
+            - [5.5.6.1 Bounded Context Domain Layer Class Diagrams](#556)
+            - [5.5.6.2 Bounded Context Database Design Diagram](#556)
+    - [5.6. Bounded Context: Suscriptions](#56-bounded-context-suscriptions)
+        - [5.6.1. Domain Layer](#561-domain-layer)
+        - [5.6.2. Interface Layer](#562-interface-layer)
+        - [5.6.3. Application Layer](#563-application-layer)
+        - [5.6.4. Infrastructure Layer](#564-infrastructure-layer)
+        - [5.6.5. Bounded Context Software Architecture Component Level Diagrams](#565-bounded-context-software-architecture-component-level-diagrams)
+        - [5.6.6. Bounded Context Software Architecture Code Level Diagrams](#566-bounded-context-software-architecture-code-level-diagrams)
+            - [5.6.6.1 Bounded Context Domain Layer Class Diagrams](#566)
+            - [5.6.6.2 Bounded Context Database Design Diagram](#566)
+    - [5.7. Bounded Context: Reviews](#57-bounded-context-reviews)
+        - [5.7.1. Domain Layer](#571-domain-layer)
+        - [5.7.2. Interface Layer](#572-interface-layer)
+        - [5.7.3. Application Layer](#573-application-layer)
+        - [5.7.4. Infrastructure Layer](#574-infrastructure-layer)
+        - [5.7.5. Bounded Context Software Architecture Component Level Diagrams](#575-bounded-context-software-architecture-component-level-diagrams)
+        - [5.7.6. Bounded Context Software Architecture Code Level Diagrams](#576-bounded-context-software-architecture-code-level-diagrams)
+            - [5.7.6.1 Bounded Context Domain Layer Class Diagrams](#5761-bounded-context-domain-layer-class-diagrams)
+            - [5.7.6.2 Bounded Context Database Design Diagram](#5762-bounded-context-database-design-diagram)
+
+- [Capítulo VI: Solution UX Design](#capítulo-vi-solution-ux-design)
+    - [6.1. Style Guidelines](#61-style-guidelines)
+        - [6.1.1. General Style Guidelines](#611-general-style-guidelines)
+        - [6.1.2. Web, Mobile & Devices Style Guidelines](#612-web-mobile--devices-style-guidelines)
+    - [6.2. Information Architecture](#62-information-architecture)
+        - [6.2.1. Organization Systems](#621-organization-systems)
+        - [6.2.2. Labeling Systems](#622-labeling-systems)
+        - [6.2.3. Searching Systems](#623-searching-systems)
+        - [6.2.4. SEO Tags and Meta Tags](#624-seo-tags-and-meta-tags)
+        - [6.2.5. Navigation Systems](#625-navigation-systems)
+    - [6.3. Landing Page UI Design](#63-landing-page-ui-design)
+        - [6.3.1. Landing Page Wirefrake](#631-landing-page-wirefrake)
+        - [6.3.2. Landing Page Mock-up](#632-landing-page-mock-up)
+    - [6.4. Application UX/UI Design](#64-application-uxui-design)
+        - [6.4.1. Application Wireframes](#641-application-wireframes)
+        - [6.4.2. Application Wireflow Diagrams](#642-application-wireflow-diagrams)
+
 - [Conclusiones](#conclusiones)
     - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
@@ -168,10 +251,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| **Criterio específico**                                                                                                                                                               | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Conclusiones** |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | Castilla Pachas, César Antonio<br/>TB1<br/>Durante el desarrollo del proyecto he podido comunicar mis ideas de fomra clara y objetiva, tanto en aspectos técnicos como funcionales, ademas he adaptado mi forma de explicar segun el publico, ya sea ante compañeros del proyecto o personas de cualquier otra parte, usando ejemplos y lenguaje sencillo cunado fuera necesario.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Durante el desarrollo del proyecto, comuniqué oralmente mis ideas de forma clara y estructurada a mi equipo, compuesto por estudiantes de distintas especialidades. Expliqué de manera objetiva el enfoque aplicado en la creación de User Stories, la organización del Product Backlog, la estructuración de los Bounded Context Canvases y el diseño de los Diagramas de Arquitectura de Software (Context, Container, Deployment y System Landscape). Esto permitió que todos los integrantes comprendieran los objetivos técnicos y funcionales independientemente de su nivel de conocimiento específico.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante los avances y resultados del proyecto logre comunicar de forma oral mis ideas de manera objetiva y estructurada. Me asegure de explicar tanto los conecptos tecnicos como los beneficios del proyecto, adaptando mi lenguaje para que fuera comprensible para cualquier persona.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, he desarrollado los puntos de User Personas, User Task Matrix, Journey Mappings y Empathy Mappings, lo que me ha permitido entender y explicar el perfil de los segmentos objetivo a la que va a ir dirigida la aplicación.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>      | Lorem ipsum dolor sit amet.               |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Castilla Pachas, César Antonio<br/>TB1<br/>A lo largo del proyecto he comunicado por escrito nuestras ideas y resultados de manera clara y objetiva, tambien he redactado documentos tecnicos y explicativos adaptados a publicos de distintas especialidades, desde informes de arquitectura hasta resumenes funcionales.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Redacté de manera precisa y comprensible la documentación técnica del proyecto, elaborando User Stories con criterios de aceptación estructurados en formato Gherkin, un Product Backlog priorizado, Bounded Context Canvases detallados para cada módulo, y Diagramas de Software Architecture utilizando C4 Model. Esta documentación permitió comunicar de manera escrita y objetiva los resultados del trabajo tanto a perfiles técnicos como a perfiles no técnicos involucrados en el proyecto.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante el proyecto redacte informes y entregables donde presente ideas y resultados de fomra clara, objetiva y organizada. Donde adapte el nivel de detalle y el lenguaje segun el publico, asegurandome de que tanto especialistas tecnicos como profesionales pudieran comprender el alcance de esta solución.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, desarrollé los puntos de Event Storming, Candidate Context Discovery, Domain Message Flow Modelings y Context Mapping, lo cual me ha permitido identificar las bases del diseño de la arquitectura de nuestra aplicación, con el enfoque de Domain-Driven Design.<br/>TP1<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/> | Lorem ipsum dolor sit amet.               |
+| **Criterio específico**                                                                                                                                                               | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Conclusiones**                                                                                                                                                 |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | Castilla Pachas, César Antonio<br/>TB1<br/>Durante el desarrollo del proyecto he podido comunicar mis ideas de fomra clara y objetiva, tanto en aspectos técnicos como funcionales, ademas he adaptado mi forma de explicar segun el publico, ya sea ante compañeros del proyecto o personas de cualquier otra parte, usando ejemplos y lenguaje sencillo cunado fuera necesario.<br/>TP1<br/>En esta segunda etapa del proyecto, reforcé mi capacidad para comunicar oralmente los avances y resultados obtenidos, presentando información técnica de manera estructurada y comprensible para audiencias diversas. Durante exposiciones y coordinaciones, adapté mi discurso según el nivel de conocimiento del público, empleando un lenguaje claro, apoyos visuales y ejemplos prácticos para facilitar la comprensión, especialmente al explicar decisiones de diseño, arquitectura y pruebas funcionales del sistema.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Durante el desarrollo del proyecto, comuniqué oralmente mis ideas de forma clara y estructurada a mi equipo, compuesto por estudiantes de distintas especialidades. Expliqué de manera objetiva el enfoque aplicado en la creación de User Stories, la organización del Product Backlog, la estructuración de los Bounded Context Canvases y el diseño de los Diagramas de Arquitectura de Software (Context, Container, Deployment y System Landscape). Esto permitió que todos los integrantes comprendieran los objetivos técnicos y funcionales independientemente de su nivel de conocimiento específico.<br/>TP1<br/>Durante la exposición de avances, expliqué la lógica detrás de la estructura de arquitectura de información, la estandarización visual (Style Guidelines) y los wireframes diseñados para plataformas web y móviles. Utilicé términos técnicos comprensibles y ejemplos visuales para asegurar que el equipo entendiera tanto la coherencia visual como la usabilidad planteada para cada interfaz, según el segmento objetivo.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante los avances y resultados del proyecto logre comunicar de forma oral mis ideas de manera objetiva y estructurada. Me asegure de explicar tanto los conecptos tecnicos como los beneficios del proyecto, adaptando mi lenguaje para que fuera comprensible para cualquier persona.<br/>TP1<br/>Durante la presentación del proyecto, expuse con claridad y objetividad los resultados alcanzados, detallando tanto aspectos técnicos como su aplicabilidad en el contexto real. Me enfoqué en adaptar el lenguaje y el nivel de detalle según el público presente, lo que permitió una mejor comprensión del impacto y funcionamiento del sistema desarrollado, sin perder precisión en los conceptos clave.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, he desarrollado los puntos de User Personas, User Task Matrix, Journey Mappings y Empathy Mappings, lo que me ha permitido entender y explicar el perfil de los segmentos objetivo a la que va a ir dirigida la aplicación.<br/>TP1<br/>Para esta entrega, he desarrollado los diagramas de base de datos y de clases de los distintos Bounded Context de nuestro proyecto, para poder tener una idea general de cómo empezar a desarrollar la aplicación.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>     | TB1<br/>Durante la TB1, todos los integrantes del equipo demostraron su capacidad para comunicar oralmente ideas y resultados del proyecto de manera clara, estructurada y adaptada a distintos perfiles de audiencia. Las exposiciones incluyeron desde explicaciones conceptuales hasta la justificación técnica de decisiones de diseño y arquitectura, utilizando lenguaje accesible, ejemplos visuales y enfoques comprensibles para estudiantes de diversas especialidades. Esta habilidad permitió que todos los miembros comprendieran los lineamientos técnicos del proyecto y participaran activamente en las decisiones de desarrollo.<br/>TP1<br/>En la etapa TP1 se consolidó la capacidad del equipo para comunicar los avances técnicos del sistema de forma efectiva ante diferentes niveles jerárquicos y perfiles técnicos. Se emplearon explicaciones orales con apoyo de wireframes, diagramas y lineamientos de diseño (como Style Guidelines y Arquitectura de Información), priorizando claridad, objetividad y adecuación del lenguaje al público. Esto favoreció la comprensión transversal de las soluciones propuestas y garantizó la coherencia del trabajo en equipo frente a objetivos técnicos compartidos.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/> |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Castilla Pachas, César Antonio<br/>TB1<br/>A lo largo del proyecto he comunicado por escrito nuestras ideas y resultados de manera clara y objetiva, tambien he redactado documentos tecnicos y explicativos adaptados a publicos de distintas especialidades, desde informes de arquitectura hasta resumenes funcionales.<br/>TP1<br/>Durante esta fase del proyecto, continué redactando documentación técnica y funcional con claridad y objetividad, considerando el perfil del público lector. Elaboré reportes que explican desde los componentes técnicos hasta el impacto funcional del sistema, cuidando el uso de un lenguaje preciso y accesible para diferentes niveles jerárquicos y especialidades. Además, participé en la revisión y mejora de entregables escritos para asegurar su coherencia y comprensión.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Redacté de manera precisa y comprensible la documentación técnica del proyecto, elaborando User Stories con criterios de aceptación estructurados en formato Gherkin, un Product Backlog priorizado, Bounded Context Canvases detallados para cada módulo, y Diagramas de Software Architecture utilizando C4 Model. Esta documentación permitió comunicar de manera escrita y objetiva los resultados del trabajo tanto a perfiles técnicos como a perfiles no técnicos involucrados en el proyecto.<br/>TP1<br/>Documenté de forma estructurada y clara las guías de estilo generales y específicas para web y móvil, definiendo principios de diseño consistentes. Asimismo, redacté la arquitectura de información de la plataforma y elaboré wireframes con anotaciones que justifican las decisiones de diseño. Esta documentación permitió comunicar tanto a diseñadores como a desarrolladores los lineamientos visuales y funcionales del sistema.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante el proyecto redacte informes y entregables donde presente ideas y resultados de fomra clara, objetiva y organizada. Donde adapte el nivel de detalle y el lenguaje segun el publico, asegurandome de que tanto especialistas tecnicos como profesionales pudieran comprender el alcance de esta solución.<br/>TP1<br/>Durante la entrega del proyecto documenté de forma clara y objetiva los avances y resultados obtenidos, utilizando un lenguaje adecuado para distintos públicos. Elaboré informes técnicos y explicativos que permitieron transmitir tanto los aspectos funcionales como los beneficios del sistema, asegurando la comprensión de lectores con diferentes niveles de especialización.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, desarrollé los puntos de Event Storming, Candidate Context Discovery, Domain Message Flow Modelings y Context Mapping, lo cual me ha permitido identificar las bases del diseño de la arquitectura de nuestra aplicación, con el enfoque de Domain-Driven Design.<br/>TP1<br/>En esta entrega, he desarrollado los diagramas de componentes de cada uno de los Bounded Context del proyecto, definiendo las funcionalidades que van a contemplar dichos contextos en la aplicación que desarrollaremos.<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/> | TB1<br/>Durante la TB1, todos los integrantes demostraron competencia en la redacción de documentos técnicos y funcionales dirigidos a públicos diversos, desde especialistas en desarrollo hasta stakeholders no técnicos. La documentación incluyó User Stories con criterios de aceptación, guías de estilo, lineamientos de diseño y estructuras arquitectónicas con el modelo C4. Cada entregable fue escrito con precisión, claridad y adecuación al perfil del lector, lo que garantizó una comunicación efectiva y comprensible de los avances y decisiones clave del proyecto.<br/>TP1<br/>En la etapa TP1, la documentación escrita consolidó la visión técnica y funcional del sistema desarrollado. Se elaboraron reportes estructurados que incluyeron guías de diseño visual, arquitectura de información, wireframes anotados y justificaciones de decisiones tomadas. Estos documentos facilitaron la comprensión del sistema tanto para perfiles técnicos como para perfiles organizacionales, asegurando consistencia, coherencia visual y alineamiento con los objetivos del proyecto. La redacción fue objetiva, técnica y orientada a facilitar la toma de decisiones en equipo.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/>                                                                                                                                    |
 
 ---
 
@@ -540,7 +623,136 @@ Este diseño permitirá obtener tanto información *cuantitativa básica* (demog
 
 #### 2.2.2. Registro de entrevistas
 
+Se realizaron entrevistas a 6 personas, 3 de cada segmento objetivo. A continuación se presentan los datos demográficos y un resumen de las respuestas más relevantes:
+
+### **Segmento 1 - Desarrolladores Web**
+
+----------
+
+#### Entrevista 1
+
+**Nombre:** Lizet Antonia Pachas Torres
+
+**Edad:** 42 años
+
+**Distrito:** Arequipa
+
+> Lizet representa un perfil típico de desarrolladora freelance con experiencia sólida (11 años, 6 como independiente). Trabaja en una ciudad fuera de Lima (Arequipa), lo cual sugiere un entorno descentralizado de oferta de servicios web. Su trayectoria le ha permitido construir una red de contactos y obtener clientes a través de canales informales (Facebook, recomendaciones), y en menor medida por plataformas formales como Upwork.
+
+>Establece acuerdos de forma manual: envía propuestas por WhatsApp o correo, define porcentajes de adelanto y solicita el pago final al terminar. A pesar de ello, menciona problemas frecuentes como retrasos y evasión de pagos.
+
+> Utiliza herramientas estándar del entorno freelance como Figma, WordPress, Trello y GitHub. Maneja bien la documentación de avances y pruebas de cumplimiento (capturas, correos), pero eso no evita los conflictos con clientes.
+
+> Aunque Lizet ha escuchado sobre blockchain y contratos inteligentes, nunca los ha usado. Sin embargo, muestra alta disposición a adoptar herramientas automatizadas que garanticen los pagos y validen el cumplimiento de entregas.
+
+> La entrevista revela un pain point claro: el riesgo de impagos en entornos freelance informales. Lizet sería una usuaria ideal para una solución que automatice contratos, valide entregas y libere pagos de manera transparente. Aunque no tiene experiencia en Web3, su disposición a usar nuevas herramientas está condicionada a la confianza, facilidad y seguridad que estas puedan brindarle.
+
+![Entrevista 1](./assets/img/chapter-2/Segmento1-Interview1.png)
+
+**Tiempo en el video:** 00:05
+
+----------
+
+
+#### Entrevista 2
+
+**Nombre:**
+
+**Edad:**
+
+**Distrito:**
+
+>
+
+
+**Tiempo en el video:** 00:00
+
+----------
+
+#### Entrevista 3
+
+**Nombre:**
+
+**Edad:**
+
+**Distrito:**
+
+>
+
+**Tiempo en el video:** 00:00
+
+----------
+
+### **Segmento 2 - Profesionales que buscan portafolio digital**
+
+----------
+
+#### Entrevista 1
+
+**Nombre:** Alessandro Rey Contreras
+
+**Edad:** 24
+
+**Distrito:** Jesús María
+
+> Alessandro representa el perfil de una persona introduciéndose al mundo laboral. Se encuentra ante una gran competencia y comenta que le resultaría útil poder manejar una página web de presentación o portafolio virtual para destacarse de entre los demás.
+
+> Su mayor temor al contratar los servicios freelance por Internet es la poca seguridad que siente respecto a la calidad del trabajo que le entregarán. Le gustaría poder tener una garantía de que el desarrollador cumplirá satisfactoriamente con su trabajo.
+
+> Comenta que le haría sentir más seguridad la posibilidad de conocer trabajos previos del desarollador que confirmen la calidad de sus proyectos, además de una garantía respecto a que no dejará el proyecto a medias una vez reciba su pago.
+
+> Ha escuchado conceptos de Blockchain y contratos inteligentes, pero nunca investigó de qué trataban exactamente. Al explicarle e indicarle la posibilidad de desarrollar una aplicación que le permita contratar con total seguridad un desarrollador para realizar un portafolio digital usando estas tecnologías, se mostró bastante interesado y comentó que definitivamente usaría un servicio como ese.
+
+![Entrevista 3](./assets/img/chapter-2/interview-profesional-1.png)
+
+**Tiempo en el video:** 04:22
+
+----------
+
+#### Entrevista 2
+
+**Nombre:**
+
+**Edad:**
+
+**Distrito:**
+
+>
+
+**Tiempo en el video:** 00:00
+
+----------
+
+#### Entrevista 3
+
+**Nombre:**
+
+**Edad:**
+
+**Distrito:**
+
+>
+
+**Tiempo en el video:** 00:00
+
+----------
+
+
 #### 2.2.3. Análisis de entrevistas
+
+**Segmento 1 – Desarrolladores Web**
+
+Del total de entrevistados en este segmento (3), el **100% manifestó haber tenido problemas con retrasos o impagos** al trabajar con clientes, lo que evidencia una alta vulnerabilidad en la gestión de pagos. Asimismo, el **67% indicó que realiza acuerdos de forma manual**, sin soporte legal o digital, lo que incrementa el riesgo de conflictos. El **100% utiliza herramientas digitales estándar como Figma, Trello o GitHub**, pero no cuentan con medios automatizados para validar entregas o asegurar pagos.
+
+Respecto a Web3, aunque solo el **33% ha usado o explorado blockchain**, el **100% se mostró dispuesto a adoptar una herramienta que automatice contratos y pagos**, siempre que sea segura y confiable. La principal necesidad detectada es la **automatización de acuerdos con validación objetiva de entregables**, alineada al temor recurrente: **falta de garantía de cobro por cumplimiento de trabajo**.
+
+**Segmento 2 – Profesionales que buscan portafolio digital**
+
+En este segmento, el **100% de los entrevistados expresó desconfianza al contratar freelancers por canales digitales**, siendo el mayor temor la **falta de cumplimiento y la imposibilidad de asegurar la calidad**. Además, el **100% indicó que le generaría más confianza un sistema que libere el pago solo si el trabajo se entrega correctamente**, y el **67% valoraría ver trabajos previos o reputación verificable del desarrollador**.
+
+Pese a que solo el **33% ha escuchado sobre blockchain o contratos inteligentes**, todos expresaron interés en una herramienta que les brinde mayor control y seguridad
+
+---
 
 ### 2.3. Needfinding
 
@@ -755,11 +967,11 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
 
 ### Captura del Product Backlog
 
-![Captura de Product Backlog en Pivotal Tracker](assets/img/chapter-3/PivotalTracker.png)
+![Captura de Product Backlog en Pivotal Tracker]()
 
 ### Enlace público al Product Backlog
 
-[🔗 Acceder al Product Backlog](https://www.pivotaltracker.com/n/projects/2740948)
+[🔗 Acceder al Product Backlog](https://ejemplo-herramienta.com/product-backlog-public-link)
 
 
 ## Capítulo IV: Strategic-Level Software Design
@@ -1011,23 +1223,23 @@ A continuación, se presenta el refinamiento de los escenarios más relevantes, 
 
 #### 4.2.3. Domain Message Flows Modeling
 
-![User Flow Modeling 1](assets/img/chapter-4/user-flow-modeling-1.png)
+![User Flow Modeling 1](assets/img/chapter-3/user-flow-modeling-1.png)
 
-![User Flow Modeling 2](assets/img/chapter-4/user-flow-modeling-2.png)
+![User Flow Modeling 2](assets/img/chapter-3/user-flow-modeling-2.png)
 
-![User Flow Modeling 3](assets/img/chapter-4/user-flow-modeling-3.png)
+![User Flow Modeling 3](assets/img/chapter-3/user-flow-modeling-3.png)
 
-![User Flow Modeling 4](assets/img/chapter-4/user-flow-modeling-4.png)
+![User Flow Modeling 4](assets/img/chapter-3/user-flow-modeling-4.png)
 
-![User Flow Modeling 5](assets/img/chapter-4/user-flow-modeling-5.png)
+![User Flow Modeling 5](assets/img/chapter-3/user-flow-modeling-5.png)
 
-![User Flow Modeling 6](assets/img/chapter-4/user-flow-modeling-6.png)
+![User Flow Modeling 6](assets/img/chapter-3/user-flow-modeling-6.png)
 
-![User Flow Modeling 7](assets/img/chapter-4/user-flow-modeling-7.png)
+![User Flow Modeling 7](assets/img/chapter-3/user-flow-modeling-7.png)
 
-![User Flow Modeling 8](assets/img/chapter-4/user-flow-modeling-8.png)
+![User Flow Modeling 8](assets/img/chapter-3/user-flow-modeling-8.png)
 
-![User Flow Modeling 9](assets/img/chapter-4/user-flow-modeling-9.png)
+![User Flow Modeling 9](assets/img/chapter-3/user-flow-modeling-9.png)
 
 #### 4.2.4. Bounded Context Canvases
 
@@ -1089,6 +1301,1124 @@ A continuación, se presenta el refinamiento de los escenarios más relevantes, 
 
 ---
 
+## Capítulo V: Tactical-Level Software Design
+
+
+## 5.1. Bounded Context: Contracts
+
+El **Bounded Context de Contratos** administra los acuerdos entre desarrolladores y clientes. Un contrato contiene detalles del servicio acordado, su estado, y es el punto de integración con validaciones y pagos. La entidad central es `Contrato`, respaldada por `Cliente`, `DesarrolladorWeb` y el `ServicioWeb` referenciado.
+
+### 5.1.1. Domain Layer
+
+####  Aggregate: `Contrato`
+
+**Descripción:** Representa el acuerdo digital entre un cliente y un desarrollador. Su ciclo de vida incluye la creación, firma, seguimiento y finalización del contrato.
+
+| **Atributo**         | **Descripción**                                | **Tipo**   |
+|----------------------|------------------------------------------------|------------|
+| id                   | Identificador del contrato                     | UUID       |
+| fechaInicio          | Fecha en que se inicia el contrato             | Date       |
+| estado               | Estado del contrato (CREADO, EN_PROCESO, etc.) | String     |
+| smartContractHash    | Hash registrado en blockchain                  | String     |
+
+**Métodos del agregado:**
+
+| **Método**             | **Descripción**                                       |
+|------------------------|-------------------------------------------------------|
+| firmarContrato()       | Firma el contrato e inicia su validez legal           |
+| finalizarContrato()    | Finaliza el contrato al completarse las entregas      |
+
+#### Relación con otras entidades:
+- **Cliente** (1) `contrata` (0..*) **Contrato**
+- **DesarrolladorWeb** (1) `desarrolla` (0..*) **Contrato**
+- **ServicioWeb** (1) `refiere` (1) **Contrato**
+- **Contrato** (1) `tiene` (0..*) **Avance**
+- **Contrato** (1) `validaciones` (0..*) **ValidacionContrato**
+- **Contrato** (1) `libera` (0..*) **Pago**
+
+---
+
+### 5.1.2. Interface Layer
+
+####  Controlador `ContratoController`
+
+| **Método**                      | **Descripción**                                | **HTTP**                    | **Respuesta**             |
+|---------------------------------|------------------------------------------------|-----------------------------|---------------------------|
+| crearContrato(req)              | Crea un nuevo contrato                         | POST `/contratos`          | Contrato creado           |
+| firmarContrato(id)              | Firma digitalmente un contrato                 | POST `/contratos/{id}/firmar` | Hash generado        |
+| finalizarContrato(id)           | Marca el contrato como finalizado              | POST `/contratos/{id}/finalizar` | Estado actualizado  |
+
+---
+
+### 5.1.3. Application Layer
+
+#### Clase `ContratoCommandServiceImpl`
+
+| **Método**                              | **Descripción**                              |
+|-----------------------------------------|----------------------------------------------|
+| handle(CrearContratoCommand)            | Orquesta la creación del contrato            |
+| handle(FirmarContratoCommand)           | Ejecuta firma y validación                   |
+| handle(FinalizarContratoCommand)        | Cierra el contrato y libera pago             |
+
+#### Clase `ContratoQueryServiceImpl`
+
+| **Método**                              | **Descripción**                              |
+|-----------------------------------------|----------------------------------------------|
+| handle(GetContratoByIdQuery)            | Consulta los detalles de un contrato         |
+| handle(GetContratosActivosPorUsuarioQuery) | Lista contratos activos del usuario       |
+
+---
+
+### 5.1.4. Infrastructure Layer
+
+#### Repositorio: `ContratoRepository`
+
+| **Método**                           | **Descripción**                                   |
+|--------------------------------------|---------------------------------------------------|
+| save(Contrato contrato)              | Persiste el contrato                              |
+| findById(UUID id)                    | Recupera contrato por ID                          |
+| findByClienteId(UUID clienteId)      | Lista contratos por cliente                       |
+| findByDesarrolladorId(UUID devId)    | Lista contratos por desarrollador                 |
+
+### 5.1.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Contracts](assets/img/chapter-4/Contract-Component.png)
+
+### 5.1.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.1.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Contracts](assets/img/chapter-5/Contract-Class.png)
+
+#### 5.1.6.2 Bounded Context Database Design Diagram.
+
+![Contracts](assets/img/chapter-5/Contract-Database.png)
+
+
+## 5.2. Bounded Context: Contract Validation
+
+El **Bounded Context de Validación de Contratos** se encarga del control de calidad y aceptación de entregas parciales (avances) realizadas por el desarrollador. También es responsable de la validación formal del contrato mediante blockchain.
+
+### 5.2.1. Domain Layer
+
+####  Aggregate: `Avance`
+
+**Descripción:** Representa una entrega parcial dentro del proceso de desarrollo del servicio contratado. Es la base para que el cliente valide si se avanza conforme al acuerdo.
+
+| **Atributo**       | **Descripción**                                      | **Tipo**   |
+|--------------------|------------------------------------------------------|------------|
+| id                 | Identificador del avance                             | UUID       |
+| fechaEntrega       | Fecha de la entrega del avance                       | Date       |
+| contenido          | Información o archivo del avance entregado           | String     |
+| estado             | Estado del avance (PENDIENTE, ACEPTADO, RECHAZADO)   | String     |
+
+**Métodos del agregado:**
+
+| **Método**             | **Descripción**                                          |
+|------------------------|----------------------------------------------------------|
+| verificarAvance()      | Evalúa si el avance es aceptado o requiere revisión      |
+
+---
+
+####  Entity: `ValidacionContrato`
+
+**Descripción:** Representa la verificación del contrato en blockchain para garantizar su autenticidad, validez y registro descentralizado.
+
+| **Atributo**       | **Descripción**                                      | **Tipo**   |
+|--------------------|------------------------------------------------------|------------|
+| id                 | Identificador de la validación                       | UUID       |
+| fechaValidacion    | Fecha en que se realizó la validación                | Date       |
+| esValido           | Resultado booleano de la validación                  | Boolean    |
+| hashBlockchain     | Código único generado en blockchain                  | String     |
+
+**Método del agregado:**
+
+| **Método**           | **Descripción**                                        |
+|----------------------|--------------------------------------------------------|
+| validarContrato()    | Registra y valida el contrato en el sistema blockchain |
+
+---
+
+### 5.2.2. Interface Layer
+
+####  Controlador `AvanceController`
+
+| **Método**                            | **Descripción**                                         | **HTTP**                          | **Respuesta**               |
+|---------------------------------------|---------------------------------------------------------|-----------------------------------|-----------------------------|
+| entregarAvance(req)                  | Crea un nuevo avance asociado a un contrato             | POST `/avances`                   | Avance registrado           |
+| verificarAvance(int id)             | Cambia el estado del avance tras revisión del cliente   | POST `/avances/{id}/verificar`    | Estado actualizado          |
+
+#### 🔹 Controlador `ValidacionContratoController`
+
+| **Método**                            | **Descripción**                                         | **HTTP**                          | **Respuesta**               |
+|---------------------------------------|---------------------------------------------------------|-----------------------------------|-----------------------------|
+| validarContrato(int contratoId)       | Ejecuta validación del contrato y lo registra en blockchain | POST `/validaciones/{contratoId}` | Hash generado              |
+
+---
+
+### 5.2.3. Application Layer
+
+#### Clase `AvanceCommandServiceImpl`
+
+| **Método**                            | **Descripción**                                   |
+|---------------------------------------|---------------------------------------------------|
+| handle(EntregarAvanceCommand)         | Procesa y registra un nuevo avance                |
+| handle(VerificarAvanceCommand)        | Cambia el estado del avance tras revisión         |
+
+#### Clase `ValidacionContratoCommandServiceImpl`
+
+| **Método**                            | **Descripción**                                     |
+|---------------------------------------|-----------------------------------------------------|
+| handle(ValidarContratoCommand)        | Registra contrato en blockchain y actualiza estado |
+
+---
+
+### 5.2.4. Infrastructure Layer
+
+#### Repositorio: `AvanceRepository`
+
+| **Método**                   | **Descripción**                          |
+|------------------------------|------------------------------------------|
+| save(Avance avance)          | Persiste o actualiza un avance           |
+| findByContratoId(UUID id)    | Lista avances de un contrato             |
+
+#### Repositorio: `ValidacionContratoRepository`
+
+| **Método**                          | **Descripción**                                        |
+|-------------------------------------|--------------------------------------------------------|
+| save(ValidacionContrato validacion) | Guarda o actualiza la validación de contrato           |
+| findByContratoId(UUID contratoId)   | Recupera la validación de un contrato específico       |
+
+### 5.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Validation](assets/img/chapter-4/Validation-Component.png)
+
+### 5.2.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.2.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Validation](assets/img/chapter-5/Validation-Class.png)
+
+#### 5.2.6.2 Bounded Context Database Design Diagram.
+
+![Validation](assets/img/chapter-5/Validation-Database.png)
+
+## 5.3. Bounded Context: Notifications
+
+El **Bounded Context de Notificaciones** tiene como objetivo mantener informados a los usuarios sobre eventos importantes como la firma de contratos, aceptación de avances, validaciones, pagos realizados, entre otros. Opera de forma asincrónica y desacoplada del flujo principal de negocio.
+
+### 5.3.1. Domain Layer
+
+####  Aggregate: `Notificacion`
+
+**Descripción:** Representa un mensaje dirigido a un usuario del sistema con el fin de notificarle un evento o cambio importante.
+
+| **Atributo**   | **Descripción**                                  | **Tipo**   |
+|----------------|--------------------------------------------------|------------|
+| id             | Identificador único de la notificación           | UUID       |
+| mensaje        | Contenido del mensaje enviado al usuario         | String     |
+| tipo           | Tipo de notificación (`INFO`, `ALERTA`, `SISTEMA`) | String     |
+| leida          | Indicador de si el mensaje ya fue leído          | Boolean    |
+
+**Métodos del agregado:**
+
+| **Método**               | **Descripción**                               |
+|--------------------------|-----------------------------------------------|
+| obtenerMensajesUsuario() | Devuelve las notificaciones pendientes        |
+| escribirMensaje()        | Genera una nueva notificación para el usuario |
+
+---
+
+### 5.3.2. Interface Layer
+
+####  Controlador `NotificacionController`
+
+| **Método**                            | **Descripción**                                      | **HTTP**                        | **Respuesta**                  |
+|---------------------------------------|------------------------------------------------------|---------------------------------|--------------------------------|
+| listarNotificaciones(int usuarioId)   | Lista notificaciones del usuario                     | GET `/notificaciones/{usuarioId}` | Lista de notificaciones     |
+| marcarComoLeida(UUID notificacionId) | Marca una notificación como leída                    | POST `/notificaciones/{id}/leida` | Estado actualizado           |
+
+---
+
+### 5.3.3. Application Layer
+
+#### Clase `NotificacionCommandServiceImpl`
+
+| **Método**                             | **Descripción**                                      |
+|----------------------------------------|------------------------------------------------------|
+| handle(EscribirMensajeCommand)         | Crea y envía una nueva notificación al usuario       |
+| handle(MarcarLeidaCommand)             | Cambia el estado de la notificación a "leída"        |
+
+#### Clase `NotificacionQueryServiceImpl`
+
+| **Método**                                 | **Descripción**                                      |
+|--------------------------------------------|------------------------------------------------------|
+| handle(GetNotificacionesByUsuarioQuery)    | Lista todas las notificaciones de un usuario         |
+| handle(GetNotificacionByIdQuery)           | Devuelve los detalles de una notificación específica |
+
+---
+
+### 5.3.4. Infrastructure Layer
+
+#### Repositorio: `NotificacionRepository`
+
+| **Método**                       | **Descripción**                                 |
+|----------------------------------|-------------------------------------------------|
+| save(Notificacion notificacion) | Guarda o actualiza una notificación             |
+| findByUsuarioId(UUID usuarioId) | Lista notificaciones por usuario                |
+| findById(UUID id)               | Busca notificación por ID                       |
+
+### 5.3.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Notifications](assets/img/chapter-4/Notification-Component.png)
+
+### 5.3.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.3.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Notifications](assets/img/chapter-5/Notification-Class.png)
+
+#### 5.3.6.2 Bounded Context Database Design Diagram.
+
+![Notifications](assets/img/chapter-5/Notification-Database.png)
+
+## 5.4. Bounded Context: Web Service
+
+El **Bounded Context de Servicio Web** permite a los desarrolladores publicar, actualizar y eliminar servicios que ofrecen a los clientes. Estos servicios representan las capacidades o paquetes de trabajo disponibles para contratar a través de contratos inteligentes.
+
+### 5.4.1. Domain Layer
+
+####  Aggregate: `ServicioWeb`
+
+**Descripción:** Representa una oferta o producto publicado por un desarrollador para ser contratado por un cliente.
+
+| **Atributo**   | **Descripción**                                 | **Tipo**   |
+|----------------|--------------------------------------------------|------------|
+| id             | Identificador del servicio                      | UUID       |
+| titulo         | Título del servicio ofrecido                    | String     |
+| descripcion    | Descripción detallada del servicio              | String     |
+| precio         | Precio del servicio                             | Double     |
+| enlace         | URL o recurso relacionado con el servicio       | String     |
+
+**Métodos del agregado:**
+
+| **Método**         | **Descripción**                                           |
+|--------------------|-----------------------------------------------------------|
+| obtenerEnlace()    | Devuelve la URL asociada al servicio                      |
+
+#### Relación:
+- Un **DesarrolladorWeb** `publica` múltiples **ServicioWeb**
+- Un **Contrato** `refiere` a un único **ServicioWeb**
+
+---
+
+### 5.4.2. Interface Layer
+
+####  Controlador `ServicioWebController`
+
+| **Método**                         | **Descripción**                                    | **HTTP**              | **Respuesta**                |
+|------------------------------------|----------------------------------------------------|------------------------|------------------------------|
+| crearServicio(req)                | Crea y publica un nuevo servicio web               | POST `/servicios`     | Servicio creado              |
+| actualizarServicio(UUID id, req)  | Edita la información de un servicio existente      | PUT `/servicios/{id}` | Servicio actualizado         |
+| eliminarServicio(UUID id)         | Elimina (lógicamente) un servicio                  | DELETE `/servicios/{id}` | Confirmación               |
+| listarServicios()                 | Lista todos los servicios activos                  | GET `/servicios`      | Lista de servicios           |
+| obtenerServicioPorId(UUID id)     | Obtiene los detalles de un servicio específico     | GET `/servicios/{id}` | Detalle del servicio         |
+
+---
+
+### 5.4.3. Application Layer
+
+#### Clase `ServicioWebCommandServiceImpl`
+
+| **Método**                              | **Descripción**                                 |
+|-----------------------------------------|-------------------------------------------------|
+| handle(CrearServicioWebCommand)         | Publica un nuevo servicio                       |
+| handle(ActualizarServicioWebCommand)    | Modifica detalles de un servicio existente      |
+| handle(EliminarServicioWebCommand)      | Elimina o desactiva un servicio web             |
+
+#### Clase `ServicioWebQueryServiceImpl`
+
+| **Método**                                 | **Descripción**                                |
+|--------------------------------------------|------------------------------------------------|
+| handle(GetServiciosDisponiblesQuery)       | Lista todos los servicios activos              |
+| handle(GetServicioByIdQuery)               | Obtiene un servicio por su ID                  |
+| handle(GetServiciosByDesarrolladorQuery)   | Lista servicios publicados por un desarrollador|
+
+---
+
+### 5.4.4. Infrastructure Layer
+
+#### Repositorio: `ServicioWebRepository`
+
+| **Método**                             | **Descripción**                                 |
+|----------------------------------------|-------------------------------------------------|
+| save(ServicioWeb servicio)            | Guarda o actualiza un servicio                  |
+| findById(UUID id)                     | Busca un servicio por ID                        |
+| findByDesarrolladorId(UUID devId)     | Lista servicios por desarrollador               |
+| findAllActivos()                      | Devuelve todos los servicios disponibles        |
+
+### 5.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Web Services](assets/img/chapter-4/webService-Component.png)
+
+### 5.4.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.4.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Web Services](assets/img/chapter-5/webService-Class.png)
+
+#### 5.4.6.2 Bounded Context Database Design Diagram.
+
+![Web Services](assets/img/chapter-5/webService-Database.png)
+
+## 5.5. Bounded Context: Profiles
+
+El **Bounded Context de Perfiles** se encarga de gestionar los datos públicos y personales editables de los usuarios dentro de la plataforma. Incluye funcionalidades para ver, crear o modificar la información personal como nombre, correo, portafolio y tipo de usuario.
+
+### 5.5.1. Domain Layer
+
+####  Aggregate: `Usuario`
+
+**Descripción:** Entidad raíz que representa a un usuario autenticado de la plataforma. Puede ser tanto un cliente como un desarrollador. En este contexto, se usa como perfil editable.
+
+| **Atributo**   | **Descripción**                               | **Tipo**   |
+|----------------|------------------------------------------------|------------|
+| id             | Identificador único del usuario                | UUID       |
+| nombre         | Nombre completo                                | String     |
+| correo         | Dirección de correo electrónico                | String     |
+| contraseña     | Contraseña cifrada                             | String     |
+
+**Subclases:**
+- `Cliente` → `metodoDePago : String`
+- `DesarrolladorWeb` → `portafolio : String`
+
+**Métodos relevantes en el contexto de perfil:**
+
+| **Método**              | **Descripción**                                 |
+|-------------------------|-------------------------------------------------|
+| crearUsuario()          | Registra un nuevo usuario en el sistema         |
+| iniciarSesion()         | Inicia sesión con sus credenciales              |
+| cerrarSesion()          | Termina la sesión activa del usuario            |
+
+---
+
+### 5.5.2. Interface Layer
+
+#### Controlador `PerfilController`
+
+| **Método**                         | **Descripción**                                     | **HTTP**                   | **Respuesta**                  |
+|------------------------------------|-----------------------------------------------------|-----------------------------|--------------------------------|
+| obtenerPerfil(UUID usuarioId)     | Devuelve el perfil público de un usuario           | GET `/perfiles/{id}`       | Datos del perfil               |
+| actualizarPerfil(UUID usuarioId)  | Permite editar nombre, correo o portafolio         | PUT `/perfiles/{id}`       | Perfil actualizado             |
+| cambiarContraseña(UUID usuarioId) | Actualiza la contraseña del usuario                 | PUT `/perfiles/{id}/clave` | Confirmación de cambio         |
+
+---
+
+### 5.5.3. Application Layer
+
+#### Clase `PerfilCommandServiceImpl`
+
+| **Método**                              | **Descripción**                                     |
+|-----------------------------------------|-----------------------------------------------------|
+| handle(ActualizarPerfilCommand)         | Actualiza los datos del perfil                      |
+| handle(CambiarContrasenaCommand)        | Cambia la contraseña de un usuario                  |
+
+#### Clase `PerfilQueryServiceImpl`
+
+| **Método**                               | **Descripción**                                     |
+|------------------------------------------|-----------------------------------------------------|
+| handle(GetPerfilByIdQuery)               | Devuelve los datos públicos de un usuario           |
+| handle(GetPerfilCompletoQuery)           | Devuelve toda la información editable de un perfil  |
+
+---
+
+### 5.5.4. Infrastructure Layer
+
+#### Repositorio: `UsuarioRepository`
+
+| **Método**                           | **Descripción**                                 |
+|--------------------------------------|-------------------------------------------------|
+| save(Usuario usuario)               | Guarda o actualiza los datos de perfil          |
+| findById(UUID id)                   | Busca un perfil de usuario por ID               |
+| existsByCorreo(String correo)       | Verifica si un correo ya está registrado        |
+
+### 5.5.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Profiles](assets/img/chapter-4/Profile-Component.png)
+
+### 5.5.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.5.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Profiles](assets/img/chapter-5/Profile-Class.png)
+
+#### 5.5.6.2 Bounded Context Database Design Diagram.
+
+![Profiles](assets/img/chapter-5/Profile-Database.png)
+
+## 5.6. Bounded Context: Suscriptions
+
+El **Bounded Context de Suscripciones** permite gestionar los planes de acceso a funcionalidades de la plataforma. Define los beneficios que un usuario obtiene según su tipo de suscripción, como visibilidad, prioridad o límites funcionales. Cada usuario puede tener una única suscripción activa.
+
+### 5.6.1. Domain Layer
+
+####  Aggregate: `Suscripcion`
+
+**Descripción:** Representa el plan de suscripción activo de un usuario, con información sobre su tipo, vigencia y duración.
+
+| **Atributo**       | **Descripción**                                     | **Tipo**   |
+|--------------------|-----------------------------------------------------|------------|
+| id                 | Identificador único de la suscripción               | UUID       |
+| tipo               | Tipo de suscripción (`GRATIS`, `BASICA`, `PREMIUM`) | String     |
+| fechaInicio        | Fecha de inicio de la suscripción                   | Date       |
+| fechaFin           | Fecha de expiración del plan                        | Date       |
+
+**Métodos del agregado:**
+
+| **Método**              | **Descripción**                                            |
+|-------------------------|------------------------------------------------------------|
+| renovar(fechaFin)       | Extiende la suscripción hasta la nueva fecha               |
+| cambiarTipo(tipoNuevo)  | Cambia el plan actual del usuario                          |
+| esActiva()              | Determina si la suscripción está vigente                   |
+
+---
+
+### 5.6.2. Interface Layer
+
+####  Controlador `SuscripcionController`
+
+| **Método**                             | **Descripción**                                         | **HTTP**                           | **Respuesta**                   |
+|----------------------------------------|---------------------------------------------------------|------------------------------------|---------------------------------|
+| obtenerSuscripcion(UUID usuarioId)    | Devuelve la suscripción activa de un usuario           | GET `/suscripciones/{usuarioId}`  | Detalles del plan actual        |
+| cambiarPlan(UUID usuarioId, req)      | Cambia el tipo de suscripción del usuario              | PUT `/suscripciones/{usuarioId}`  | Suscripción actualizada         |
+| renovarSuscripcion(UUID usuarioId)    | Extiende la vigencia de la suscripción                 | POST `/suscripciones/{usuarioId}/renovar` | Nueva fecha establecida |
+
+---
+
+### 5.6.3. Application Layer
+
+#### Clase `SuscripcionCommandServiceImpl`
+
+| **Método**                              | **Descripción**                                      |
+|-----------------------------------------|------------------------------------------------------|
+| handle(CambiarTipoSuscripcionCommand)   | Cambia el plan actual del usuario                    |
+| handle(RenovarSuscripcionCommand)       | Renueva la suscripción extendiendo su duración       |
+
+#### Clase `SuscripcionQueryServiceImpl`
+
+| **Método**                               | **Descripción**                                        |
+|------------------------------------------|--------------------------------------------------------|
+| handle(GetSuscripcionByUsuarioQuery)     | Devuelve la suscripción actual de un usuario           |
+
+---
+
+### 5.6.4. Infrastructure Layer
+
+#### Repositorio: `SuscripcionRepository`
+
+| **Método**                           | **Descripción**                                      |
+|--------------------------------------|------------------------------------------------------|
+| save(Suscripcion suscripcion)       | Guarda o actualiza una suscripción                   |
+| findByUsuarioId(UUID usuarioId)     | Recupera la suscripción activa de un usuario         |
+
+### 5.6.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Subscriptions](assets/img/chapter-4/Subscription-Component.png)
+
+### 5.6.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.6.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Subscriptions](assets/img/chapter-5/Subscription-Class.png)
+
+#### 5.6.6.2 Bounded Context Database Design Diagram.
+
+![Subscriptions](assets/img/chapter-5/Subscription-Database.png)
+
+## 5.7. Bounded Context: Reviews
+
+El **Bounded Context de Reseñas** permite a los usuarios calificar y dejar comentarios sobre su experiencia en contratos completados. Es fundamental para fomentar la reputación y confianza dentro de la plataforma entre desarrolladores y clientes.
+
+### 5.7.1. Domain Layer
+
+####  Aggregate: `Reseña`
+
+**Descripción:** Representa una evaluación emitida por un usuario hacia otro, basada en un contrato finalizado. Contiene calificación numérica y un comentario textual.
+
+| **Atributo**     | **Descripción**                                  | **Tipo**   |
+|------------------|--------------------------------------------------|------------|
+| id               | Identificador único de la reseña                 | UUID       |
+| comentario       | Texto libre con observaciones o feedback         | String     |
+| calificacion     | Valor numérico (1 a 5) de la experiencia         | int        |
+
+**Relaciones clave:**
+- `Usuario` (emisor) escribe muchas `Reseñas`
+- `Usuario` (receptor) recibe muchas `Reseñas`
+
+**Métodos del agregado:**
+
+| **Método**                   | **Descripción**                                               |
+|------------------------------|---------------------------------------------------------------|
+| editarComentario()           | Permite modificar el comentario emitido                      |
+| actualizarCalificacion()     | Actualiza el valor numérico de la calificación               |
+| validarCalificacion()        | Asegura que la puntuación se mantenga entre 1 y 5            |
+
+---
+
+### 5.7.2. Interface Layer
+
+#### Controlador `ReseñaController`
+
+| **Método**                                 | **Descripción**                                      | **HTTP**                        | **Respuesta**                 |
+|--------------------------------------------|------------------------------------------------------|---------------------------------|-------------------------------|
+| crearReseña(req)                           | Registra una nueva reseña                            | POST `/resenas`                 | Reseña creada                 |
+| obtenerResenasRecibidas(UUID usuarioId)    | Lista reseñas que ha recibido un usuario             | GET `/resenas/usuario/{id}`     | Lista de reseñas recibidas   |
+| obtenerResenasEmitidas(UUID usuarioId)     | Lista reseñas emitidas por un usuario                | GET `/resenas/emisor/{id}`      | Lista de reseñas emitidas    |
+
+---
+
+### 5.7.3. Application Layer
+
+#### Clase `ReseñaCommandServiceImpl`
+
+| **Método**                           | **Descripción**                                        |
+|--------------------------------------|--------------------------------------------------------|
+| handle(CrearResenaCommand)          | Registra una reseña al finalizar un contrato          |
+| handle(EditarComentarioCommand)     | Permite modificar el texto del comentario             |
+| handle(ActualizarCalificacionCommand) | Modifica el valor de calificación numérica           |
+
+#### Clase `ReseñaQueryServiceImpl`
+
+| **Método**                                   | **Descripción**                                      |
+|----------------------------------------------|------------------------------------------------------|
+| handle(GetResenasPorUsuarioQuery)            | Obtiene todas las reseñas recibidas por un usuario  |
+| handle(GetResenasEmitidasPorUsuarioQuery)    | Obtiene todas las reseñas hechas por un usuario     |
+| handle(GetResenaByIdQuery)                   | Devuelve una reseña específica                      |
+
+---
+
+### 5.7.4. Infrastructure Layer
+
+#### Repositorio: `ReseñaRepository`
+
+| **Método**                           | **Descripción**                                       |
+|--------------------------------------|-------------------------------------------------------|
+| save(Reseña reseña)                  | Guarda o actualiza una reseña                         |
+| findById(UUID id)                    | Busca una reseña por su ID                            |
+| findByUsuarioId(UUID usuarioId)      | Lista reseñas hechas por el usuario                   |
+| findByReceptorId(UUID receptorId)    | Lista reseñas recibidas por el usuario evaluado       |
+
+### 5.7.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Reviews](assets/img/chapter-4/Review-Component.png)
+
+### 5.7.6. Bounded Context Software Architecture Code Level Diagrams.
+
+#### 5.7.6.1 Bounded Context Domain Layer Class Diagrams.
+
+![Reviews](assets/img/chapter-5/Review-Class.png)
+
+#### 5.7.6.2 Bounded Context Database Design Diagram.
+
+![Reviews](assets/img/chapter-5/Review-Database.png)
+
+
+### 4.X. Bounded Context Software Architecture Code Level Diagrams
+
+#### 4.X.1. Bounded Context Domain Layer Class Diagram
+
+![Deployment Diagram](assets/img/chapter-4/class-diagram.png)
+
+#### 4.X.2. Bounded Context Database Design Class Diagram
+
+![Deployment Diagram](assets/img/chapter-4/database-diagram.png)
+
+## Capítulo VI: Solution UX Design
+
+### 6.1. Style Guidelines
+
+#### 6.1.1. General Style Guidelines
+
+**Branding**
+
+El logotipo de Tarket Contracts representa un contrato digital conectado por nodos, simbolizando su integración con tecnologías descentralizadas como blockchain. El diseño proyecta seguridad, tecnología confiable y transparencia operativa, y ha sido concebido con una estética limpia para su correcta visualización en todos los entornos digitales del startup.
+
+Se contemplan tres variantes principales del logotipo, diseñadas para adaptarse a distintos puntos de interacción con el usuario:
+
+**1. Icon (Isotipo)**
+
+Versión mínima del logo, compuesta solo por el ícono gráfico del contrato interconectado. Su función es representar visualmente la marca cuando no es necesario mostrar el texto o cuando el espacio es limitado.
+
+**Usos principales:**
+- Íconos de app móvil o web
+- Favicon (32x32 px, 64x64 px)
+- Splash screen o loading screen
+
+**Versiones:**
+- Fondo claro (principal)
+
+![Logo white](assets/img/chapter-6/Logo-Inverted.png)
+
+- Fondo oscuro (modo dark)
+
+![Logo black](assets/img/chapter-6/Logo.png)
+
+**2. Landing Page Icon**
+
+Esta versión incluye el ícono más la palabra “TARKET” en formato horizontal. Es la identidad visual utilizada en la landing page y sitios públicos, priorizando la recordación del nombre comercial de forma simple y directa.
+
+**Usos principales:**
+- Cabecera de la landing page
+- Firmas visuales institucionales
+
+**Versiones:**
+- Fondo claro (principal)
+
+![Logo white landing](assets/img/chapter-6/Logo-Landing-Inverted.png)
+
+- Fondo oscuro (modo nocturno)
+
+![Logo black landing](assets/img/chapter-6/Logo-Landing.png)
+
+**3. Web / Mobile Applications Icon**
+
+Versión completa del logotipo, con el ícono seguido del texto “TARKET CONTRACTS”. Esta variante es la más formal y detallada, y se utiliza dentro de los productos digitales (aplicaciones web y móviles) para reforzar el nombre completo de la solución.
+
+**Usos recomendados:**
+- Header de la aplicación web
+- Pantallas internas de la app móvil
+
+**Versiones:**
+- Fondo claro (principal)
+
+![Logo white applications](assets/img/chapter-6/Logo-Application-Inverted.png)
+
+- Fondo oscuro (modo dark)
+
+![Logo black applications](assets/img/chapter-6/Logo-Application.png)
+
+---
+
+**Typography**
+
+Se utiliza la fuente Poppins por su claridad, modernidad y alta legibilidad en entornos digitales. Su estilo sans serif con geometría uniforme permite una jerarquía visual efectiva y adaptable a distintas plataformas.
+
+| Elemento UI | Tamaño (px) | Uso principal                     |
+|-------------|-------------|-----------------------------------|
+| Título H1   | 32          | Encabezados principales           |
+| Título H2   | 24          | Subtítulos y secciones internas   |
+| Texto base  | 16          | Contenido general y formularios   |
+| Botones     | 14–16       | Acciones primarias o secundarias  |
+
+---
+
+**Colors**
+
+La paleta combina azul (#0059DC) y naranja (#F06915), elegidos por su contraste complementario y significado emocional. El azul comunica confianza, tecnología y profesionalismo. El naranja aporta dinamismo, innovación y visibilidad. Se cumplen criterios de contraste (WCAG AA) para garantizar accesibilidad visual.
+
+| Rol           | Color       | Código Hex | Uso principal                           |
+|---------------|-------------|------------|-----------------------------------------|
+| Primario      | Azul oscuro | #0059DC    | Botones, títulos, texto institucional   |
+| Secundario    | Naranja     | #F06915    | Íconos, acentos, elementos interactivos |
+| Fondo claro   | Blanco      | #FFFFFF    | Base general para interfaces            |
+| Fondo oscuro  | Negro       | #000000    | Alternativa en modo dark                |
+| Texto         | Negro       | #2F2F2F    | Párrafos y descripciones                |
+| Texto alterno | Blanco      | #B0B0B0    | Alternativa en modo dark                        |
+
+---
+
+**Spacing**
+
+Se utiliza una escala basada en múltiplos de 8 px para priorizar la consistencia en el diseño de componentes.
+
+| Tamaño   | Aplicación principal                        |
+|----------|---------------------------------------------|
+| 8 px     | Separación mínima entre ítems pequeños      |
+| 16 px    | Inputs, campos de formulario, listas        |
+| 24 px    | Padding interno de tarjetas y secciones     |
+| 32–64 px | Separación entre bloques principales     |
+| 48 px    | Altura mínima de elementos táctiles móviles |
+
+---
+
+**Tono de Comunicación y Lenguaje**
+
+El tono adoptado es profesional, claro y empático. Se prioriza una comunicación accesible y evita la jerga técnica innecesaria.
+
+| Dimensión        | Estilo definido     |
+|------------------|---------------------|
+| Formal/Casual    | Funcional, sin rigidez |
+| Respetuoso/Ironía| Respetuoso           |
+| Entusiasta/Sereno| Sereno y enfocado    |
+
+---
+
+**Design System**
+
+Tarket Contracts se apoya en Material Design 3 como base del sistema de diseño, adaptado a la identidad visual del proyecto. Las personalizaciones incluyen:
+
+- Paleta propia de colores
+- Fuente Poppins en reemplazo de Roboto
+- Espaciado estructurado con escala 8 px
+- Componentes visuales personalizados (íconos, botones, cards)
+
+---
+
+**Sustento de principios y elementos de diseño**
+
+Las decisiones visuales adoptadas en el diseño de Tarket Contracts se fundamentan en principios clave de diseño de interfaces, experiencia de usuario y consistencia visual. 
+
+Cada componente del estilo ha sido definido bajo criterios funcionales y de usabilidad para garantizar una identidad visual sólida, clara y profesional.
+
+Principios aplicados:
+
+- **Consistencia visual:** Se establecieron jerarquías tipográficas, paleta de colores funcional y reglas de espaciado para mantener coherencia en todos los entornos digitales.
+- **Accesibilidad:** Se respetaron criterios de contraste (WCAG AA), tamaño mínimo de fuente y zonas táctiles para asegurar la legibilidad y operabilidad por parte de todo tipo de usuario.
+- **Simplicidad funcional:** El diseño es limpio, sin sobrecarga visual. Se reducen elementos distractores y se priorizan las acciones clave, en línea con los principios de diseño minimalista.
+- **Escalabilidad visual:** La implementación de una escala de 8 px, el uso de Poppins como fuente uniforme y la integración con Material Design 3 aseguran una arquitectura de diseño fácilmente extensible.
+- **Adaptabilidad multiplataforma:** Cada componente visual se diseñó para funcionar correctamente tanto en interfaces web como móviles, adaptándose a modos claro y oscuro, sin perder identidad ni legibilidad.
+
+---
+
+#### 6.1.2. Web, Mobile & Devices Style Guidelines
+
+Esta sección describe los estándares visuales y de interacción aplicados en las interfaces web responsivas y aplicaciones móviles nativas de Tarket Contracts. El objetivo es garantizar una experiencia coherente, accesible y eficiente en todos los dispositivos.
+
+**Responsive Web Interfaces**
+
+- Diseño adaptable a múltiples resoluciones (mobile, tablet, desktop).
+- Layout modular con navegación superior fija y contenido jerarquizado en columnas.
+- Tipografía Poppins en jerarquías claras: títulos (32–24 px), cuerpo (16 px).
+- Spacing basado en escala de 8 px para mantener estructura visual.
+- Colores consistentes con la identidad (azul #0059DC, naranja #F06915).
+- Composición visual optimizada para pantallas anchas sin perder legibilidad.
+- Uso de componentes reusables: cards, tablas, formularios responsivos.
+- Interacción mediante clic o scroll, con feedback visual (hover, estados).
+
+**Native Mobile Interfaces**
+
+- Diseño vertical con navegación inferior (bottom navigation).
+- Elementos táctiles con dimensiones mínimas de 48 px.
+- Jerarquía de texto simplificada: títulos (20–24 px), texto base (16 px), etiquetas (14 px).
+- Cards simplificadas con acciones directas (reservar, validar).
+- Compatibilidad con gestos nativos (scroll, tap, back).
+- Adaptación a orientaciones vertical/horizontal y notch-safe zones.
+- Animaciones suaves para transiciones entre vistas.
+
+---
+
+### 6.2. Information Architecture
+
+#### 6.2.1. Organization Systems
+
+En el diseño de Tarket Contracts se han implementado diversos sistemas de organización de la información para facilitar la comprensión, exploración y uso de las funcionalidades por parte de los usuarios.
+
+Se adopta un enfoque jerárquico para la organización visual, en especial en la landing page, donde el contenido está estructurado desde secciones introductorias (como los beneficios y explicación del producto) hasta bloques informativos más detallados (como el equipo y los enlaces a descarga). 
+
+En la aplicación web y móvil, se emplea una organización secuencial (step-by-step) en los flujos de creación y firma de contratos, donde los usuarios son guiados por pasos como: selección del desarrollador, ingreso de detalles, definición de hitos y firma.
+
+Además, se aplica categorización temática en la navegación principal de la landing page. En los dashboards y sistemas de búsqueda, la categorización se refuerza con filtros por estado (activo, pendiente, cancelado) y atributos como fecha, puntuación o tipo de contrato, orientado a distintos grupos de usuarios.
+
+#### 6.2.2. Labeling Systems
+
+Se han establecido sistemas de etiquetado simples y consistentes, con el fin de representar la información de forma clara y comprensible. Se opta por etiquetas breves y técnicas, evitando ambigüedades o redundancias. Por ejemplo:
+
+- En los formularios: "Título del proyecto", "Descripción", "Método de pago", "Adjuntar archivos", etc.
+- En los contratos: "Hito", "Fecha de entrega", "Monto (USD)", "Estado", "Cliente", "Desarrollador", etc.
+- En los botones: "Ver detalles", "Revisar entrega", "Aceptar contrato", "Firmar", "Enviar", etc.
+
+#### 6.2.3. Searching Systems
+
+La funcionalidad de búsqueda está integrada principalmente en el proceso de creación de contratos. Se ofrece una barra de búsqueda de desarrolladores por nombre, complementada con opciones de filtrado que incluyen cantidad de contratos y puntuación promedio. La búsqueda devuelve resultados con formato uniforme, facilitando la comparación y selección.
+
+Además, en los dashboards de usuario (web y móvil) se visualiza la información de los contratos clasificada por estado, actuando como una forma de búsqueda filtrada que reduce el tiempo de localización de información relevante.
+
+#### 6.2.4. SEO Tags and Meta Tags
+
+A continuación se presentan los principales elementos aplicados a la Landing Page y a la aplicación móvil:
+
+- **Landing Page**
+
+    - **SEO Tags**
+        - `<title>`: Tarket Contracts – Smart Contracts for Secure Web Development
+        - `<meta name="keywords">`: contratos freelance, desarrolladores web, blockchain, validación, pagos seguros
+
+    - **Meta Tags**
+        - `<meta name="description">`: Plataforma de contratos digitales para desarrolladores web y clientes, con validación automatizada y pagos seguros vía blockchain.
+        - `<meta name="author">`: Tarket Team
+
+- **ASO para Aplicaciones Móviles**
+
+  Para maximizar la visibilidad de la aplicación en tiendas de aplicaciones (Google Play y App Store), se ha definido la siguiente estrategia de App Store Optimization (ASO):
+
+    - `App Title`: Tarket Contracts
+    - `App Subtitle`: Secure contracts for freelance web development
+    - `App Description`: Track, validate, and get paid for your freelance web projects securely with blockchain technology.
+    - `App Keywords`: freelance, web developer, smart contract, secure payments, blockchain
+
+#### 6.2.5. Navigation Systems
+
+Los sistemas de navegación están diseñados para ser intuitivos y consistentes en todas las plataformas. 
+
+En la landing page, la navegación principal se basa en un menú fijo con enlaces a secciones clave ("About the Product", "Professionals", "Developers", "About the Team") y selector de idioma (ES/EN).
+
+En la web app, la navegación se gestiona mediante dashboards personalizados para cada tipo de usuario, con tarjetas categorizadas por estado del contrato y botones de acción directa ("Ver detalles", "Revisar entrega", "Crear nuevo contrato").
+
+En la mobile app, se emplean menús superiores e inferiores, y navegación progresiva de tipo wizard en procesos como la creación y firma de contratos. La estructura step-by-step garantiza que los usuarios completen los flujos de forma lógica, sin necesidad de retroceder para entender el proceso.
+
+---
+
+### 6.3. Landing Page UI Design
+
+#### 6.3.1. Landing Page Wirefrake
+
+![Hero Interface](assets/img/chapter-6/Wireframes-Landing-DesktopHero1.png)
+
+![About Us Interface](assets/img/chapter-6/Wireframes-Landing-DesktopAboutus2.png)
+
+![Professional Interface](assets/img/chapter-6/Wireframes-Landing-DesktopProfessionals4.png)
+
+![Developer Interface](assets/img/chapter-6/Wireframes-Landing-DesktopDevelopers3.png)
+
+![About the Team Interface](assets/img/chapter-6/Wireframes-Landing-DesktopAbouttheTeam5.png)
+
+#### 6.3.2. Landing Page Mock-up
+
+![Hero Interface](assets/img/chapter-6/Mockups-Landing-DesktopHero1.png)
+
+![About Us Interface](assets/img/chapter-6/Mockups-Landing-DesktopAboutus2.png)
+
+![Professional Interface](assets/img/chapter-6/Mockups-Landing-DesktopProfessionals3.png)
+
+![Developer Interface](assets/img/chapter-6/Mockups-Landing-DesktopDevelopers4.png)
+
+![About the Team Interface](assets/img/chapter-6/Mockups-Landing-DesktopAbouttheTeam5.png)
+
+---
+
+### 6.4. Application UX/UI Design
+
+
+#### 6.4.1. Application Wireframes
+
+  
+
+**Web Application**
+
+  
+
+**Sign In:** Interfaz donde el usuario puede ingresar sus credenciales para ingresar a la aplicación.
+
+  
+  
+
+![Sign In Interface](assets/img/chapter-6/Wireframes-Web-SignIn.png)
+
+  
+
+**Sign Up:** Interfaz la cual permite a los usuarios crear cuentas ingresando nombre completo, correo electrónico, contraseña y rol.
+
+  
+
+![Sign Up Interface](assets/img/chapter-6/Wireframes-Web-SingUp.png)
+
+  
+
+**Perfil Cliente:** Interfaz donde el usuario puede editar su información personal, como nombre, correo, telefono, metodo de pago y enlace a linkedin.
+
+  
+
+![Perfil Cliente Interface](assets/img/chapter-6/Wireframes-Web-PerfilCliente.png)
+
+  
+
+**Perfil Desarrollador:** Interfaz donde el usuario puede editar su información personal, como nombre, correo, telefono, especialización, teconologias y enlace a portafolio.
+
+  
+
+![Perfil Desarrollador Interface](assets/img/chapter-6/Wireframes-Web-PerfilDesarrollador.png)
+
+  
+
+**Dashboard Cliente:** Interfaz donde el usuario puede revisar el estado de sus contratos recientes, pendientes y activos. También puede crear nuevos contratos presionando el ícono "+".
+
+  
+
+![Dashboard Cliente Interface](assets/img/chapter-6/Wireframes-Web-DashboardCliente.png)
+
+  
+
+**Dashboard Desarrollador:** Interfaz donde el usuario puede revisar el estado de sus contratos recientes, pendientes y activos. También puede aceptar nuevos contratos presionando el ícono "+".
+
+  
+
+![Dashboard Desarrollador Interface](assets/img/chapter-6/Wireframes-Web-DashboardDesarrolladorweb.png)
+
+  
+
+**Revisar Entrega:** Interfaz donde el cliente puede revisar la entrega de un hito, con la opción de aceptar o rechazar la entrega.
+
+  
+
+![Revisar Entrega Interface](assets/img/chapter-6/Wireframes-Web-Revisarentrega.png)
+
+  
+
+**Enviar Entrega:** Interfaz donde el desarrollador puede enviar la entrega de un hito, con la opción de agregar comentarios y archivos adjuntos.
+
+  
+
+![Enviar Entrega Interface](assets/img/chapter-6/Wireframes-Web-Enviarentrega.png)
+
+  
+
+**Detalles de Contrato:** Interfaz donde el usuario puede ver los detalles de un contrato específico, incluyendo información del desarrollador y los hitos realizados.
+
+  
+
+![Detalles de Contrato Interface](assets/img/chapter-6/Wireframes-Web-Detallesdecontrato.png)
+
+  
+
+**Crear Contrato:** Interfaz donde el usuario puede iniciar la creación de un contrato, eligiendo a un desarrollador y definiendo los detalles del proyecto, hitos y pagos.
+
+  
+
+![Nuevo Contrato Interface 1](assets/img/chapter-6/Wireframes-Web-Nuevocontrato.png)
+
+  
+
+![Nuevo Contrato Interface 2](assets/img/chapter-6/Wireframes-Web-Nuevocontrato2.png)
+
+  
+
+![Nuevo Contrato Interface 3](assets/img/chapter-6/Wireframes-Web-Nuevocontrato3.png)
+
+  
+
+![Nuevo Contrato Interface 4](assets/img/chapter-6/Wireframes-Web-Nuevocontrato4.png)
+
+  
+
+**Aceptar Contrato:** Interfaz donde el desarrollador puede aceptar o rechazar un contrato propuesto por un cliente. Incluye un boton para ver detalles del contrato para aceptar o rechazar la respuesta.
+
+  
+
+![Aceptar Contrato Interface](assets/img/chapter-6/Wireframes-Web-Aceptarcontrato.png)
+
+
+**Mobile Application**
+
+Interfaz donde el usuario puede ingresar sus credenciales para ingresar a la aplicación. También puede presionar un texto que lo redirige a la interfaz de creación de cuenta.
+
+![Login Interface](assets/img/chapter-6/Wireframes-Mobile-clientLogIn.png)
+
+Interfaz la cual permite a los usuarios crear cuentas ingresando nombre completo, correo electrónico y contraseña. También puede presionar un texto que lo redirige a la interfaz de inicio de sesión.
+
+![SignIn Interface](assets/img/chapter-6/Wireframes-Mobile-clientSignIn.png)
+
+Interfaz home, donde el usuario puede revisar el estado de sus contratos recientes, pendientes y activos. También puede crear nuevos contratos presionando el ícono "+".
+
+![Dashboard Interface](assets/img/chapter-6/Wireframes-Mobile-clientDashboard.png)
+
+El usuario inicia la creación del contrato antes eligiendo a un desarrollador. Puede usar la barra de búsqueda y presionar la caja que contenga cada individuo para proceder.
+
+![Create Contract Interface](assets/img/chapter-6/Wireframes-Mobile-clientCreateContract.png)
+
+Interfaz que aparece cuando un usuario realiza la búsqueda de un desarrollador específico. Puede presionar el ícono "x" para cancelar la búsqueda realizada.
+
+![Search Developer Contract Interface](assets/img/chapter-6/Wireframes-Mobile-clientCreateContractSearch.png)
+
+En esta interfaz, el usuario puede detallar diferentes aspectos del contrato a solicitar, como el título del proyecto, su descripción y archivos de referencia de manera opcional.
+
+![Contract Details Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractDetails.png)
+
+Se definen los detalles de pago por hito en esta interfaz, el usuario puede definir el número de hitos por el cual quiere coordinar la entrega del proyecto software y definir que se hace en cada hito, la fecha límite de entrega y el costo por hito finalizado, concluyendo en un monto total por un contrato completo.
+
+![Contract Payment Details Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractPayments.png)
+
+Interfaz que contiene los detalles que resumen el contrato generado y contiene un checkbox que el usuario debe marcar para así mandar la solicitud del contrato creado.
+
+![Contract Confirmation Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractConfirmation.png)
+
+Interfaz de confirmación de contrato creado, el cual hace saber que el desarrollador ya debe poder visualizar la petición para así decidir si lo acepta o rechaza.
+
+![Contract Check Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractCheck.png)
+
+Contiene los detalles de un contrato entregado, específicamente los datos del desarrollador y los hitos realizados. Contiene un botón para visualizar la firma del contrato.
+
+![Contract Delivered Detailes Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractDelivered.png)
+
+Aquí el usuario puede visualizar la firma generada del contrato, que incluye detalles del usuario y desarrollador, aparte de 
+
+![Contract Signature Interface](assets/img/chapter-6/Wireframes-Mobile-clientContractSignature.png)
+
+Permite esta interfaz revisar el estado actual del hito de un contracto generado.
+
+![Contract Status Interface](assets/img/chapter-6/Wireframes-Web-clientContractStatus-fix.png)
+
+Interfaz que contiene formulario donde el usuario puede editar la información asociada a su cuenta.
+
+![User Account Interface](assets/img/chapter-6/Wireframes-Mobile-clientAccount.png)
+
+#### 6.4.2. Application Wireflow Diagrams
+
+A continuación, se presentan los Wireflow Diagrams correspondientes a los principales User Goals identificados durante la fase de análisis. 
+
+Cada uno refleja los pasos críticos en la experiencia de usuario móvil para los diferentes perfiles: el profesional (Juan Carrasco) y el desarrollador web (Antonio Torres). 
+
+---
+
+**User Goal:** Crear una cuenta para acceder a las funcionalidades de la plataforma.  
+**User Persona:** Juan Carrasco (Profesional)
+
+![User Creation Wireflow](assets/img/chapter-6/Wireflow-Mobile-UsernameCreation.png)
+
+**Descripción del flujo:**  
+El usuario accede a la aplicación móvil por primera vez y visualiza la pantalla de inicio de sesión. Al no contar con una cuenta, selecciona la opción "Crear cuenta", accediendo a un formulario de registro donde ingresa sus datos. Al enviar el formulario, el sistema valida los campos y crea la cuenta exitosamente.
+
+---
+
+**User Goal:** Crear un nuevo contrato para iniciar un proyecto con un desarrollador.  
+**User Persona:** Juan Carrasco (Profesional)
+
+![Contract Creation Wireflow](assets/img/chapter-6/Wireflow-Mobile-ContractCreation.png)
+
+**Descripción del flujo:**  
+El usuario, desde su dashboard, selecciona “Crear contrato” y busca al desarrollador adecuado utilizando filtros y ratings. Una vez seleccionado, ingresa los detalles del proyecto y adjunta archivos referenciales. Posteriormente define los hitos con sus fechas y montos. Finalmente, revisa un resumen y confirma la creación del contrato.
+
+---
+
+**User Goal:** Revisar la firmar de un contrato creado.  
+**User Persona:** Juan Carrasco (Profesional)
+
+![Contract Signature Wireflow](assets/img/chapter-6/Wireflow-Mobile-ContractSignature.png)
+
+**Descripción del flujo:**  
+Una vez finalizado un contrato, el cliente puede presionar el botón "Ver detalles" para acceder a una pantalla que contiene detalles del contrato finalizado, como datos del desarrollador web e hitos entregados. El usuario puede presionar el botón "Ver firma" para acceder a la interfaz que contiene la firma generada del smart contract, mostrando detalles del hash generado para validar el contrato.
+
+---
+
+**User Goal:** Revisar el estado y progreso de un contrato activo.  
+**User Persona:** Juan Carrasco (Profesional)
+
+![Contract Status Wireflow](assets/img/chapter-6/Wireflow-Mobile-ContractStatus.png)
+
+**Descripción del flujo:**  
+Desde el panel de control, el cliente accede al contrato activo y presiona “Ver detalles”. Luego visualiza la sección con el listado de hitos del contrato y puede acceder al estado detallado de cada uno, incluyendo archivos entregados, comentarios del desarrollador, y firma registrada. Esto brinda trazabilidad completa del avance.
+
+---
+
+**User Goal:** Acceder y editar la información de perfil.  
+**User Persona:** Juan Carrasco (Profesional)
+
+![User Profile Wireflow](assets/img/chapter-6/Wireflow-Mobile-UserProfile.png)
+
+**Descripción del flujo:**  
+Desde su dashboard, el desarrollador accede a su perfil tocando el ícono correspondiente. Allí puede visualizar y editar información personal como nombre, correo, teléfono y método de pago. Este flujo permite mantener actualizado el perfil para facilitar la comunicación y la validación del pago en contratos futuros.
+
+---
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
@@ -1105,3 +2435,44 @@ A continuación, se presenta el refinamiento de los escenarios más relevantes, 
 ## Bibliografia
 
 ## Anexos
+A continuación se presentan los videos generados como parte del desarrollo del proyecto.
+
+**Exposición TB1**
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tb1`  
+Formato: `.mp4`  
+Duración: 26:02
+
+**Enlace acortado:**
+
+https://tinyurl.com/zkr9dy5j
+
+**Enlace original:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EdjD6he784hLofLmw9_0wDoBA2R2jA77_NI9HUOyrPyxOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ESfXa2
+
+---
+
+**Exposición TP1**
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tp1`  
+Formato: `.mp4`  
+Duración: 16:12
+
+**Enlace acortado:**
+
+https://tinyurl.com/38p345ww
+
+**Enlace original:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EbYnJUAiU-ZOpY6DJYByW5IBwrhwKMyWqqHoCfxoTvg9Cg?e=hmwDco&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Needfinding Interviews**
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-needfinding`  
+Formato: `.mp4`  
+Duración: 7:50  
+**Enlace acortado:**
+
+https://tinyurl.com/4ybcxh74
+
+**Enlace original:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EWlQI3MlZYJMu0Hq5ohT9fIBF2Vj7Y8hBtckt2Ej-YFVRg?e=rizqXz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
