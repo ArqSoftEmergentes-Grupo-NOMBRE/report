@@ -2270,8 +2270,59 @@ Interfaz que contiene formulario donde el usuario puede editar la información a
 
 #### 6.4.2. Application Wireflow Diagrams
 
+A continuación, se presentan los Wireflow Diagrams correspondientes a los principales User Goals identificados durante la fase de análisis. 
+
+Cada uno refleja los pasos críticos en la experiencia de usuario móvil para los diferentes perfiles: el profesional (Juan Carrasco) y el desarrollador web (Antonio Torres). 
+
+---
+
+**User Goal:** Crear una cuenta para acceder a las funcionalidades de la plataforma.  
+**User Persona:** Juan Carrasco (Profesional)
+
+![User Creation Wireflow](assets/img/chapter-6/Wireflow-Mobile-UsernameCreation.png)
+
+**Descripción del flujo:**  
+El usuario accede a la aplicación móvil por primera vez y visualiza la pantalla de inicio de sesión. Al no contar con una cuenta, selecciona la opción "Crear cuenta", accediendo a un formulario de registro donde ingresa sus datos. Al enviar el formulario, el sistema valida los campos y crea la cuenta exitosamente.
+
+---
+
+**User Goal:** Crear un nuevo contrato para iniciar un proyecto con un desarrollador.  
+**User Persona:** Juan Carrasco (Profesional)
+
 ![Contract Creation Wireflow](assets/img/chapter-6/Wireflow-Mobile-ContractCreation.png)
 
+**Descripción del flujo:**  
+El usuario, desde su dashboard, selecciona “Crear contrato” y busca al desarrollador adecuado utilizando filtros y ratings. Una vez seleccionado, ingresa los detalles del proyecto y adjunta archivos referenciales. Posteriormente define los hitos con sus fechas y montos. Finalmente, revisa un resumen y confirma la creación del contrato.
+
+---
+
+**User Goal:** Revisar la firmar de un contrato creado.  
+**User Persona:** Juan Carrasco (Profesional)
+
+![Contract Signature Wireflow](assets/img/chapter-6/Wireflow-Mobile-ContractSignature.png)
+
+**Descripción del flujo:**  
+Una vez finalizado un contrato, el cliente puede presionar el botón "Ver detalles" para acceder a una pantalla que contiene detalles del contrato finalizado, como datos del desarrollador web e hitos entregados. El usuario puede presionar el botón "Ver firma" para acceder a la interfaz que contiene la firma generada del smart contract, mostrando detalles del hash generado para validar el contrato.
+
+---
+
+**User Goal:** Revisar el estado y progreso de un contrato activo.  
+**User Persona:** Juan Carrasco (Profesional)
+
+![Contract Status Wireflow](assets/img/chapter-6/Wireflow-Mobile-ContractStatus.png)
+
+**Descripción del flujo:**  
+Desde el panel de control, el cliente accede al contrato activo y presiona “Ver detalles”. Luego visualiza la sección con el listado de hitos del contrato y puede acceder al estado detallado de cada uno, incluyendo archivos entregados, comentarios del desarrollador, y firma registrada. Esto brinda trazabilidad completa del avance.
+
+---
+
+**User Goal:** Acceder y editar la información de perfil.  
+**User Persona:** Juan Carrasco (Profesional)
+
+![User Profile Wireflow](assets/img/chapter-6/Wireflow-Mobile-UserProfile.png)
+
+**Descripción del flujo:**  
+Desde su dashboard, el desarrollador accede a su perfil tocando el ícono correspondiente. Allí puede visualizar y editar información personal como nombre, correo, teléfono y método de pago. Este flujo permite mantener actualizado el perfil para facilitar la comunicación y la validación del pago en contratos futuros.
 
 ---
 
