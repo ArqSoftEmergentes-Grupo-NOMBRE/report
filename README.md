@@ -81,10 +81,12 @@ https://github.com/ArqSoftEmergentes-Grupo-NOMBRE
 **Evidencia de colaboración y commits en GitHub del reporte:**
 
 ### Commits realizados:
-![Captura de Commits - 1]()
+![Captura de Commits - 1](assets/img/extra/CommitsTP1.png)
 
 ### Línea de tiempo de commits realizados
-![Captura de Network Graph - 1]()
+![Captura de Network Graph - 1](assets/img/extra/NetworkGraphTP1-1.png)
+
+![Captura de Network Graph - 1](assets/img/extra/NetworkGraphTP1-2.png)
 
 ---
 
