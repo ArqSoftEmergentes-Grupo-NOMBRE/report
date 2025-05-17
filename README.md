@@ -1247,35 +1247,35 @@ A continuación, se presenta el refinamiento de los escenarios más relevantes, 
 
 1. IAM
 
-![Canvas de Bounded Context - IAM](assets/img/chapter-4/IAM-BoundedContextCanvas.jpg)
+![Canvas de Bounded Context - IAM](assets/img/chapter-4/IAM-BoundedContextCanvas.png)
 
 2. Profile
 
-![Canvas de Bounded Context - Profile](assets/img/chapter-4/Profile-BoundedContextCanvas.jpg)
+![Canvas de Bounded Context - Profile](assets/img/chapter-4/Profile-BoundedContextCanvas.png)
 
 3. Reviews
 
-![Canvas de Bounded Context - Reviews](assets/img/chapter-4/Reviews-BoundedContextCanvas.jpg)
+![Canvas de Bounded Context - Reviews](assets/img/chapter-4/Reviews-BoundedContextCanvas.png)
 
 4. Contracts
 
-![Canvas de Bounded Context - Contracts](assets/img/chapter-4/Contract-BoundedContextCanvas.jpg)
+![Canvas de Bounded Context - Contracts](assets/img/chapter-4/Contract-BoundedContextCanvas.png)
 
 5. Contract Validation
 
-![Canvas de Bounded Context - Contract Validation](assets/img/chapter-4/Contract%20Validation-BoundedContextCanvas.jpg)
+![Canvas de Bounded Context - Contract Validation](assets/img/chapter-4/Contract-Validation-BoundedContextCanvas.png)
 
 6. Website
 
-![Canvas de Bounded Context - Website](assets/img/chapter-4/Website-BoundedContextCanvas.jpg)
+![Canvas de Bounded Context - Website](assets/img/chapter-4/Website-BoundedContextCanvas.png)
 
 7. Notification
 
-![Canvas de Bounded Context - Notification](assets/img/chapter-4/Notifications-BoundedContextCanvas.jpg)
+![Canvas de Bounded Context - Notification](assets/img/chapter-4/Notifications-BoundedContextCanvas.png)
 
 8. Subscription
 
-![Canvas de Bounded Context - Notification](assets/img/chapter-4/Subscriptions-BoundedContextCanvas.jpg)
+![Canvas de Bounded Context - Notification](assets/img/chapter-4/Subscriptions-BoundedContextCanvas.png)
 
 
 #### 4.2.5. Context Mapping
