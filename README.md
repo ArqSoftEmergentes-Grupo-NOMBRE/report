@@ -2093,27 +2093,62 @@ Esta sección describe los estándares visuales y de interacción aplicados en l
 
 ### 6.2. Information Architecture
 
-
-
 #### 6.2.1. Organization Systems
 
+En el diseño de Tarket Contracts se han implementado diversos sistemas de organización de la información para facilitar la comprensión, exploración y uso de las funcionalidades por parte de los usuarios.
 
+Se adopta un enfoque jerárquico para la organización visual, en especial en la landing page, donde el contenido está estructurado desde secciones introductorias (como los beneficios y explicación del producto) hasta bloques informativos más detallados (como el equipo y los enlaces a descarga). 
+
+En la aplicación web y móvil, se emplea una organización secuencial (step-by-step) en los flujos de creación y firma de contratos, donde los usuarios son guiados por pasos como: selección del desarrollador, ingreso de detalles, definición de hitos y firma.
+
+Además, se aplica categorización temática en la navegación principal de la landing page. En los dashboards y sistemas de búsqueda, la categorización se refuerza con filtros por estado (activo, pendiente, cancelado) y atributos como fecha, puntuación o tipo de contrato, orientado a distintos grupos de usuarios.
 
 #### 6.2.2. Labeling Systems
 
+Se han establecido sistemas de etiquetado simples y consistentes, con el fin de representar la información de forma clara y comprensible. Se opta por etiquetas breves y técnicas, evitando ambigüedades o redundancias. Por ejemplo:
 
+- En los formularios: "Título del proyecto", "Descripción", "Método de pago", "Adjuntar archivos", etc.
+- En los contratos: "Hito", "Fecha de entrega", "Monto (USD)", "Estado", "Cliente", "Desarrollador", etc.
+- En los botones: "Ver detalles", "Revisar entrega", "Aceptar contrato", "Firmar", "Enviar", etc.
 
 #### 6.2.3. Searching Systems
 
+La funcionalidad de búsqueda está integrada principalmente en el proceso de creación de contratos. Se ofrece una barra de búsqueda de desarrolladores por nombre, complementada con opciones de filtrado que incluyen cantidad de contratos y puntuación promedio. La búsqueda devuelve resultados con formato uniforme, facilitando la comparación y selección.
 
+Además, en los dashboards de usuario (web y móvil) se visualiza la información de los contratos clasificada por estado, actuando como una forma de búsqueda filtrada que reduce el tiempo de localización de información relevante.
 
 #### 6.2.4. SEO Tags and Meta Tags
 
+A continuación se presentan los principales elementos aplicados a la Landing Page y a la aplicación móvil:
 
+- **Landing Page**
+
+    - **SEO Tags**
+        - `<title>`: Tarket Contracts – Smart Contracts for Secure Web Development
+        - `<meta name="keywords">`: contratos freelance, desarrolladores web, blockchain, validación, pagos seguros
+
+    - **Meta Tags**
+        - `<meta name="description">`: Plataforma de contratos digitales para desarrolladores web y clientes, con validación automatizada y pagos seguros vía blockchain.
+        - `<meta name="author">`: Tarket Team
+
+- **ASO para Aplicaciones Móviles**
+
+  Para maximizar la visibilidad de la aplicación en tiendas de aplicaciones (Google Play y App Store), se ha definido la siguiente estrategia de App Store Optimization (ASO):
+
+    - `App Title`: Tarket Contracts
+    - `App Subtitle`: Secure contracts for freelance web development
+    - `App Description`: Track, validate, and get paid for your freelance web projects securely with blockchain technology.
+    - `App Keywords`: freelance, web developer, smart contract, secure payments, blockchain
 
 #### 6.2.5. Navigation Systems
 
+Los sistemas de navegación están diseñados para ser intuitivos y consistentes en todas las plataformas. 
 
+En la landing page, la navegación principal se basa en un menú fijo con enlaces a secciones clave ("About the Product", "Professionals", "Developers", "About the Team") y selector de idioma (ES/EN).
+
+En la web app, la navegación se gestiona mediante dashboards personalizados para cada tipo de usuario, con tarjetas categorizadas por estado del contrato y botones de acción directa ("Ver detalles", "Revisar entrega", "Crear nuevo contrato").
+
+En la mobile app, se emplean menús superiores e inferiores, y navegación progresiva de tipo wizard en procesos como la creación y firma de contratos. La estructura step-by-step garantiza que los usuarios completen los flujos de forma lógica, sin necesidad de retroceder para entender el proceso.
 
 ---
 
