@@ -2270,6 +2270,9 @@ Interfaz que contiene formulario donde el usuario puede editar la información a
 
 #### 6.4.2. Application Wireflow Diagrams
 
+![Contract Creation Wireflow](assets/img/chapter-6/Wireflow-Mobile-ContractCreation.png)
+
+
 ---
 
 ## Conclusiones
@@ -2303,6 +2306,7 @@ Nomenclatura: ``
 Formato: `.mp4`  
 Duración:  
 **Enlace:**
+
 
 
 **Needfinding Interviews**
