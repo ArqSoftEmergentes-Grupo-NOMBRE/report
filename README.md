@@ -917,6 +917,7 @@ A continuación se presentan las historias de usuario agrupadas por épicas iden
 | E6 | Notificaciones de contrato | Alertas automáticas del estado de los contratos.                                                              |
 | E7 | Revisión de sitios web | Permitir publicar y consultar enlaces web de desarrolladores.                                                 |
 | E8 | Landing Page informativa | Visita informativa de la plataforma antes del registro.                                                       |
+| E9 | Blockchain en el proyecto | Generar un Smart Contract usando Ethereum y guardarlo en el Blockchain                                       |
 
 #### Historias de usuario
 
@@ -929,7 +930,7 @@ A continuación se presentan las historias de usuario agrupadas por épicas iden
 | US5 | Dejar reseña | Como cliente, deseo dejar una calificación sobre el desarrollador al finalizar el contrato.                   | **Escenario: Reseña creada exitosamente**<br/>Given un contrato finalizado<br/>When se completa el formulario<br/>Then la reseña aparece en el perfil del desarrollador | E3 |
 | US6 | Ver reseñas | Como cliente, deseo ver reseñas previas de un desarrollador antes de contratarlo.                             | **Escenario: Visualización de reseñas**<br/>Given un perfil público<br/>When el cliente lo visita<br/>Then ve un listado de reseñas verificadas | E3 |
 | US7 | Suscribirse a plan | Como cliente, deseo suscribirme a un plan para acceder a funcionalidades premium.                             | **Escenario: Suscripción activa**<br/>Given datos de pago válidos<br/>When se confirma el pago<br/>Then se activa el plan premium | E4 |
-| US8 | Validar pago (técnico) | Como Developer, deseo validar pagos de suscripciones desde backend para autorizar servicios.                  | **Escenario: Pago confirmado vía API**<br/>Given un request de confirmación<br/>When la respuesta es válida<br/>Then se actualiza el estado de suscripción a “activa” | E4 |
+| TS1 | Validar pago       | Como Developer, deseo validar pagos de suscripciones desde backend para autorizar servicios.                  | **Escenario: Pago confirmado vía API**<br/>Given un request de confirmación<br/>When la respuesta es válida<br/>Then se actualiza el estado de suscripción a “activa” | E4 |
 | US9 | Completar perfil desarrollador | Como desarrollador, deseo editar mis datos y añadir enlaces a proyectos.                                      | **Escenario: Perfil actualizado exitosamente**<br/>Given un desarrollador autenticado<br/>When edita sus datos y guarda<br/>Then se muestra el perfil actualizado | E5 |
 | US10 | Completar perfil cliente | Como cliente, deseo actualizar mis datos personales.                                                          | **Escenario: Actualización exitosa de cliente**<br/>Given un cliente autenticado<br/>When edita sus datos<br/>Then se confirma el cambio | E5 |
 | US11 | Notificación por contrato creado | Como desarrollador, deseo recibir una alerta cuando un cliente me envía un contrato.                          | **Escenario: Alerta generada**<br/>Given un contrato nuevo<br/>When el cliente lo envía<br/>Then se genera notificación automática al desarrollador | E6 |
@@ -937,6 +938,8 @@ A continuación se presentan las historias de usuario agrupadas por épicas iden
 | US13 | Publicar enlace de proyecto | Como desarrollador, deseo compartir un enlace web de mi portafolio.                                           | **Escenario: Enlace publicado exitosamente**<br/>Given un desarrollador autenticado<br/>When añade el enlace<br/>Then este se muestra en su perfil | E7 |
 | US14 | Revisar proyecto | Como cliente, deseo revisar el enlace web publicado por un desarrollador.                                     | **Escenario: Acceso exitoso al enlace**<br/>Given un cliente autenticado<br/>When da clic al enlace<br/>Then se abre en una nueva pestaña | E7 |
 | US15 | Acceder al sitio web | Como cliente, deseo ver la información del proyecto antes de crear una cuenta.                                | **Escenario: Acceso a landing page**<br/>Given un visitante anónimo<br/>When ingresa al dominio<br/>Then visualiza las secciones públicas informativas | E8 |
+| TS2 | Crear contrato en Blockchain | Como desarrollador del proyecto, quiero un servicio para generar un Smart Contract con Blockchain.                        | **Escenario: Creación de Blockchain**<br/>Given el desarrollador utiliza el endpoint de creación de contrato en Blockchain<br/>When ingresa los datos necesarios<br/>Then un sistema externo crea el Smart Contract con Blockchain | E9 |
+| TS3 | Ver contrato en Blockchain | Como desarrollador del proyecto, quiero ver los Smart Contracts con Blockchain que se han generado.               | **Escenario: Visualización de contrato en Blockchain**<br/>Given el desarrollador utiliza el endpoint para obtener los contratos, o un contrato específico, en Blockchain<br/>When hace el llamado para obtener los contratos<br/>Then el sistema le devuelve los contratos que pidió a través del endpoint. | E9 |
 
 ### 3.3. Impact Mapping
 En esta sección, se plantearon metas de negocio utilizando los criterios SMART para elaborar el Impact Mapping en base a nuestras User Personas y User Stories.
@@ -954,26 +957,28 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
 | 3     | US14           | Revisar proyecto               | Como cliente, deseo revisar el enlace web publicado por un desarrollador.                              | 2            |
 | 4     | US3            | Crear contrato                 | Como cliente, deseo crear un contrato inteligente para formalizar la contratación de un desarrollador. | 5 |
 | 5     | US4            | Validar contrato               | Como desarrollador web, deseo validar un contrato creado por el cliente.                               | 3            |
-| 6     | US11           | Notificación por contrato creado | Como desarrollador, deseo recibir una alerta cuando un cliente me envía un contrato.                   | 2       |
-| 7     | US12           | Notificación de contrato finalizado | Como cliente, deseo recibir una notificación cuando un contrato finaliza.                              | 2     |
-| 8     | US5            | Dejar reseña                   | Como cliente, deseo dejar una calificación sobre el desarrollador al finalizar el contrato.            | 3       |
-| 9     | US6            | Ver reseñas                    | Como cliente, deseo ver reseñas previas de un desarrollador antes de contratarlo.                      | 2         |
-| 10    | US7            | Suscribirse a plan             | Como cliente, deseo suscribirme a un plan para acceder a funcionalidades premium.                      | 3           |
-| 11    | US8            | Validar pago (técnico)         | Como Developer, deseo validar pagos de suscripciones desde backend.                                    | 2            |
-| 12    | US9            | Completar perfil desarrollador | Como desarrollador, deseo editar mis datos y añadir enlaces a proyectos.                               | 2            |
-| 13    | US10           | Completar perfil cliente       | Como cliente, deseo actualizar mis datos personales.                                                   | 2            |
-| 14    | US1            | Registro de desarrollador      | Como desarrollador, deseo registrarme y autenticarme para comenzar a usar la plataforma.               | 3        |
-| 15    | US2            | Registro de cliente            | Como cliente, deseo crear una cuenta y acceder para contratar desarrolladores.                         | 3            |
+| 6     | TS2            | Crear contrato en Blockchain   | Como Developer, quiero un servicio para generar un Smart Contract con Blockchain.     | 5 |
+| 7     | TS3            | Ver contrato en Blockchain     | Como Developer, quiero ver los Smart Contracts con Blockchain que se han generado.    | 3            |
+| 8     | US11           | Notificación por contrato creado | Como desarrollador, deseo recibir una alerta cuando un cliente me envía un contrato.                   | 2       |
+| 9     | US12           | Notificación de contrato finalizado | Como cliente, deseo recibir una notificación cuando un contrato finaliza.                              | 2     |
+| 10    | US5            | Dejar reseña                   | Como cliente, deseo dejar una calificación sobre el desarrollador al finalizar el contrato.            | 3       |
+| 11    | US6            | Ver reseñas                    | Como cliente, deseo ver reseñas previas de un desarrollador antes de contratarlo.                      | 2         |
+| 12    | US7            | Suscribirse a plan             | Como cliente, deseo suscribirme a un plan para acceder a funcionalidades premium.                      | 3           |
+| 13    | TS1            | Validar pago                   | Como Developer, deseo validar pagos de suscripciones desde backend.                                    | 2            |
+| 14    | US9            | Completar perfil desarrollador | Como desarrollador, deseo editar mis datos y añadir enlaces a proyectos.                               | 2            |
+| 15    | US10           | Completar perfil cliente       | Como cliente, deseo actualizar mis datos personales.                                                   | 2            |
+| 16    | US1            | Registro de desarrollador      | Como desarrollador, deseo registrarme y autenticarme para comenzar a usar la plataforma.               | 3        |
+| 17    | US2            | Registro de cliente            | Como cliente, deseo crear una cuenta y acceder para contratar desarrolladores.                         | 3            |
 
 ---
 
 ### Captura del Product Backlog
 
-![Captura de Product Backlog en Pivotal Tracker]()
+![Captura de Product Backlog en Trello]()
 
 ### Enlace público al Product Backlog
 
-[🔗 Acceder al Product Backlog](https://ejemplo-herramienta.com/product-backlog-public-link)
+[🔗 Acceder al Product Backlog](https://trello.com/b/nNJGbA4x/product-backlog-tarket-contracts)
 
 
 ## Capítulo IV: Strategic-Level Software Design
