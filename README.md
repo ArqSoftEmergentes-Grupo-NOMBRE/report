@@ -69,7 +69,7 @@ https://github.com/ArqSoftEmergentes-Grupo-NOMBRE
 
 ### Línea de tiempo de commits realizados
 ![Captura de Network Graph - 1](assets/img/extra/NetworkGraphTB1.png)
-
+****
 #### TP1:
 
 **Descripción de las actividades realizadas:**
@@ -974,7 +974,7 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
 
 ### Captura del Product Backlog
 
-![Captura de Product Backlog en Trello]()
+![Captura de Product Backlog en Trello](assets/img/chapter-3/product-backlog.png)
 
 ### Enlace público al Product Backlog
 
