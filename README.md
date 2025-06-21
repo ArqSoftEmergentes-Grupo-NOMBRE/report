@@ -2617,6 +2617,53 @@ En esta sección se describen los pasos y pipelines necesarios para desplegar lo
 
 _El diagrama muestra la infraestructura: usuarios navegando, Azure Front Door, App Services para Web y API, ACR, MySQL Flexible Server y App Center para distribución móvil._
 
+### 7.2. Solution Implementation
+
+#### 7.2.1. Sprint 1
+
+##### 7.2.1.1. Sprint Planning 1
+
+Se especifican los aspectos principales de la reunión de planificación del Sprint 1. Se parte de una breve introducción y a continuación se presenta el cuadro resumen.
+
+**Introducción**  
+El objetivo de este Sprint 1 es entregar un prototipo funcional de todos los productos digitales (Landing Page, Web Application, Mobile Application y RESTful API) que permita presentar la solución y poner en marcha el flujo principal de creación y gestión de contratos inteligentes entre clientes y desarrolladores.
+
+| Sprint # | Sprint 1 |
+|----------|----------|
+
+##### Sprint Planning Background
+
+| Campo                              | Valor                                                                                                   |
+|------------------------------------|---------------------------------------------------------------------------------------------------------|
+| **Date**                           | 2025-06-20                                                                                              |
+| **Time**                           | 10:00 AM (GMT-5)                                                                                        |
+| **Location**                       | Virtual (Zoom)                                                                                          |
+| **Prepared By**                    | Cortés Casas, Joaquín Marcelo                                                                           |
+| **Attendees (to planning meeting)**| Castilla Pachas, César Antonio<br>Cortés Casas, Joaquín Marcelo<br>Diaz Silva, Fernando Josué           |
+| **Sprint 0 Review Summary**        |                                                                                                         |
+| **Sprint 0 Retrospective Summary** |                                                                                                         |
+
+---
+
+#### Sprint Goal & User Stories
+
+| Elemento  | Detalle  |
+|--------------|-------------|
+| **Sprint 1 Goal**      |   |
+| **Sprint 1 Velocity**  |   |
+| **Sum of Story Points**|   |
+
+##### User Stories seleccionadas
+
+| ID    | Título                         | SP | Producto asociado              |
+|-------|--------------------------------|----|--------------------------------|
+|       |                                |    |                                |
+|       |                                |    |                                |
+|       |                                |    |                                |
+|       |                                |    |                                |
+
+Con esta planificación, el equipo se compromete a entregar en Sprint 1 un mínimo viable que cumpla el flujo de registro, autenticación y creación de contratos inteligentes, validando así la integración entre frontend, móvil y backend.
+
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
