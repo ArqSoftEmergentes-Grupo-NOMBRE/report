@@ -2733,6 +2733,24 @@ _Describa aquí brevemente los avances en documentación de Web Services durante
 
 ---
 
+##### 7.2.1.7. Software Deployment Evidence for Sprint Review
+
+En esta sección describa los procesos de deployment realizados durante Sprint 1, incluyendo pasos, configuraciones y capturas.
+
+**Introducción**  
+_Resuma aquí los pasos clave de despliegue ejecutados en este Sprint._
+
+1. **Paso 1**: _Descripción del paso_  
+2. **Paso 2**: _Descripción del paso_  
+3. **Paso 3**: _Descripción del paso_  
+
+**Capturas y explicaciones**  
+- ![Paso 1](assets/images/deploy-step1.png) _Explicación breve del paso 1._  
+- ![Paso 2](assets/images/deploy-step2.png) _Explicación breve del paso 2._  
+- ![Paso 3](assets/images/deploy-step3.png) _Explicación breve del paso 3._  
+
+---
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
