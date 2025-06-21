@@ -2751,6 +2751,38 @@ _Resuma aquí los pasos clave de despliegue ejecutados en este Sprint._
 
 ---
 
+##### 7.2.1.8. Team Collaboration Insights during Sprint
+
+En esta sección presente estadísticas y capturas de los analíticos de colaboración para Sprint 1.
+
+**Introducción**  
+_Explique cómo se monitoreó la colaboración y participación del equipo durante el Sprint._
+
+**Métricas de colaboración**  
+- **Total de commits**: ___  
+- **Pull requests abiertas**: ___  
+- **Pull requests mergeadas**: ___  
+- **Issues cerrados**: ___  
+
+**Capturas de GitHub Insights**  
+- ![Commit Activity](assets/images/collab-commits.png) _Actividad diaria de commits._  
+- ![Contributors Chart](assets/images/collab-contributors.png) _Contribuciones por miembro._  
+- ![Pull Request Overview](assets/images/collab-prs.png) _Resumen de PRs durante el Sprint._  
+
+### 7.3. Validation Interviews
+
+#### 7.3.1. Diseño de Entrevistas
+
+#### 7.3.2. Registro de Entrevistas
+
+#### 7.3.3. Evaluaciones según heurísticas
+
+### 7.4. Video About-the-Product
+
+### 7.5. Video About-the-Team
+
+
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
