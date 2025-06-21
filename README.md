@@ -2692,6 +2692,16 @@ En esta sección se resumen los principales avances en la implementación para S
 |                                    |                            |           |                                |                                            |                     |
 |                                    |                            |           |                                |                                            |                     |
 
+##### 7.2.1.4. Testing Suite Evidence for Sprint Review
+
+En esta sección se presentan los Unit Tests, Integration Tests y Acceptance Tests automatizados diseñados para las User Stories de Sprint 1. Para BDD se incluyen los archivos `.feature` y sus step definitions.
+
+| Repository                         | Branch                     | Commit Id | Commit Message                 | Commit Message Body                       | Committed on (Date) |
+|------------------------------------|----------------------------|-----------|--------------------------------|--------------------------------------------|---------------------|
+|                                    |                            |           |                                |                                            |                     |
+|                                    |                            |           |                                |                                            |                     |
+|                                    |                            |           |                                |                                            |                     |
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
