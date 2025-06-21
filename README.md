@@ -2590,6 +2590,34 @@ El equipo normaliza todo el código en inglés, aplicando guías de estilo recon
 
 Con esta guía unificada, el código mantiene legibilidad, consistencia y trazabilidad, facilitando la colaboración y cumpliendo estándares académicos y profesionales.
 
+#### 7.1.4. Software Deployment Configuration
+
+En esta sección se describen los pasos y pipelines necesarios para desplegar los productos digitales directamente desde sus repositorios de código fuente, garantizando una publicación automatizada y consistente. Además, se incluye el Diagrama de Despliegue (Deployment Diagram) según el modelo C4.
+
+**1. Pipelines de despliegue (GitHub Actions)**  
+| Producto         | Trigger             | Jobs                                                  | Acción de despliegue                                |
+|------------------|---------------------|-------------------------------------------------------|-----------------------------------------------------|
+| **Landing Page** | push a `main`       | 1. Install deps<br>2. Build (Vite)<br>3. Upload artefactos estáticos | `azure/static-web-apps@v1` → Azure Static Web Apps   |
+| **Web App**      | push a `main`       | 1. Install deps<br>2. Build (Vue)<br>3. Test Playwright | `azure/webapps-deploy@v2` → Azure App Service       |
+| **API / Backend**| push a `main`       | 1. Maven build<br>2. Build Docker image<br>3. Push a ACR<br>4. Run Cucumber tests | Azure Web App for Containers (acr.tarket.org)       |
+| **Mobile App**   | push a `main`       | 1. Flutter build (APK/IPA)<br>2. Run widget tests     | Azure App Center (build & distribución interna)     |
+
+- Las credenciales y variables (RESOURCE_GROUP, AZURE_CREDENTIALS, ACR_NAME, APP_CENTER_TOKEN, etc.) se almacenan en **GitHub Secrets**.  
+- Se implementan **approval gates** en entornos de QA y producción para controlar despliegues.
+
+**2. Configuración de entornos**  
+- **Azure Resource Group**: `rg-tarket-2025`  
+- **App Service Plan**: `asp-tarket-prod`  
+- **Azure Container Registry**: `acr.tarket.org`  
+- **Azure MySQL Flexible Server**: `mysql-tarket-prod`  
+- **App Center**: organización `tarket-org`, proyecto `tarket-mobile-app`
+
+**3. Diagrama de Despliegue (C4 Model)**  
+![Deployment Diagram](assets/img/chapter-4/Deployment%20Diagram.png)
+
+_El diagrama muestra la infraestructura: usuarios navegando, Azure Front Door, App Services para Web y API, ACR, MySQL Flexible Server y App Center para distribución móvil._
+
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
