@@ -2682,6 +2682,15 @@ En esta sección se presenta el backlog del Sprint 1. Incluye un screenshot del 
 |               |                                  |                     |                                   |                                      |                    |                   |                                               |
 |               |                                  |                     |                                   |                                      |                    |                   |                                               |
 
+##### 7.2.1.3. Development Evidence for Sprint Review
+
+En esta sección se resumen los principales avances en la implementación para Sprint 1. Incluye una tabla de commits relacionados con la implementación de cada repositorio.
+
+| Repository                         | Branch                     | Commit Id | Commit Message                 | Commit Message Body                       | Committed on (Date) |
+|------------------------------------|----------------------------|-----------|--------------------------------|--------------------------------------------|---------------------|
+|                                    |                            |           |                                |                                            |                     |
+|                                    |                            |           |                                |                                            |                     |
+|                                    |                            |           |                                |                                            |                     |
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
