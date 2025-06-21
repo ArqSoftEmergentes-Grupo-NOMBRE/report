@@ -2560,6 +2560,36 @@ Estas convenciones habilitan generación automática de changelogs y activan pip
 
 Con esta configuración, el equipo garantiza trazabilidad completa desde la tarea en Trello hasta el código desplegado en Azure, manteniendo un flujo de trabajo sostenible avalado por GitFlow, Semantic Versioning y Conventional Commits.
 
+#### 7.1.3. Source Code Style Guide & Conventions
+
+El equipo normaliza todo el código en inglés, aplicando guías de estilo reconocidas por la comunidad y reforzándolas con linters/formatters automáticos en el pipeline de CI. La siguiente tabla resume las convenciones adoptadas por lenguaje y la herramienta que las hace cumplir.
+
+| Lenguaje / Artefacto           | Guía de estilo adoptada                                     | Reglas clave (extracto)                                                                                       | Linter / Formatter                                  |
+|--------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| **Java 22 (Spring Boot)**      | Google Java Style Guide + Spring conventions                | 4 sp indent; `CamelCase` para clases; `camelCase` para métodos y variables; constantes `UPPER_SNAKE_CASE`; paquetes en minúscula singular | Checkstyle (`google_checks.xml`) + Spotless         |
+| **TypeScript 5**| Google TypeScript Style Guide                               | 2 sp indent; interfaces con prefijo `I`; arrow functions; siempre `===`; no `any`; imports ordenados α-z          | ESLint (`@typescript-eslint/recommended`) + Prettier|
+| **Dart 3 (Flutter App)**       | Effective Dart                                             | 2 sp indent; `LowerCamelCase` para variables; `UpperCamelCase` para clases; omit `new`; trailing commas          | `dart analyze` + `dart format`                      |
+| **HTML / CSS (Landing)**       | HTML Living Standard + BEM                                  | Semántica HTML; atributos con comillas dobles; BEM: `.block__element--modifier`                                   | Stylelint (`stylelint-config-standard`)             |
+| **SQL (MySQL 8)**              | SQL Style Guide by sqlstyle.guide                           | `UPPERCASE` keywords; `snake_case` para tablas y columnas; PK `id`; FK `<table>_id`                              | SQLFluff (`dialect: mysql`)                         |
+| **Gherkin (.feature)**         | Gherkin Conventions for Readable Specifications             | Título “Feature: …”; pasos con una sola acción; tags en `kebab-case`                                             | cucumber-lint                                       |
+| **YAML / JSON (CI & config)**  | YAML Best Practices (Red Hat)                              | 2 sp indent; `snake_case` keys; sin tabs; comentarios `# …` en inglés                                             | yamllint / jsonlint                                 |
+| **Markdown (Docs)**            | Microsoft Docs Markdown Guide                               | Un solo `#` H1; enlaces en línea; bloques de código con ````; viñetas con `-`                                     | markdownlint                                        |
+
+##### Convenciones comunes
+
+- **Branches**: GitFlow adaptado (`feature/TK-42-short-desc`, `release/v1.2.0`, `hotfix/v1.2.1`).  
+- **Commits**: Conventional Commits (`<type>(scope?): descripción breve`, e.g. `feat(api): add POST /contracts`).  
+- **Comentarios**: en inglés, oración completa, explica **por qué** no **qué**.  
+- **Documentation-as-Code**: README y Wiki en inglés; diagramas PlantUML embebidos.  
+
+##### Automatización en CI
+
+1. **Pre-commit hooks**: ejecutan formato automático (`spotlessApply`, `prettier --write`, `dart format`).  
+2. **GitHub Actions**: corre linters y pruebas; el merge se bloquea si alguna regla falla.  
+3. **semantic-release**: genera CHANGELOG y crea tags `vMAJOR.MINOR.PATCH` a partir de Conventional Commits.  
+
+Con esta guía unificada, el código mantiene legibilidad, consistencia y trazabilidad, facilitando la colaboración y cumpliendo estándares académicos y profesionales.
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
