@@ -2714,6 +2714,25 @@ Esta sección muestra la ejecución de las vistas implementadas durante Sprint 1
 **Video Demo**  
 [▶ Ver video de demostración Sprint 1](https://REPLACE_WITH_YOUR_VIDEO_URL)
 
+##### 7.2.1.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se resumen los logros en documentación de Web Services para Sprint 1. Complete la introducción y luego rellene la tabla con los endpoints documentados.
+
+**Introducción**  
+_Describa aquí brevemente los avances en documentación de Web Services durante el Sprint._
+
+| Endpoint             | HTTP Verb | Syntax                      | Parámetros                   | Ejemplo de Response               | URL Documentación                   | Commit ID |
+|----------------------|-----------|-----------------------------|------------------------------|-----------------------------------|-------------------------------------|-----------|
+|                      |           |                             |                              |                                   |                                     |           |
+|                      |           |                             |                              |                                   |                                     |           |
+|                      |           |                             |                              |                                   |                                     |           |
+
+**Capturas de interacción**  
+- ![Descripción acción 1](assets/images/docs-action1.png)  
+- ![Descripción acción 2](assets/images/docs-action2.png)  
+
+---
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
