@@ -2452,6 +2452,39 @@ Desde su dashboard, el desarrollador accede a su perfil tocando el ícono corres
 
 ---
 
+
+#### 6.4.2. Applications Mock-ups
+
+#### 6.4.3. Applications User Flow Diagrams
+
+---
+
+### 6.5. Applications Prototyping
+
+---
+
+## Capítulo VII: Product Implementation, Validation & Deployment
+
+### 7.1. Software Configuration Management
+
+#### 7.1.1. Software Development Environment Configuration
+
+En esta sección se describen las herramientas mínimas que el equipo utilizará en cada fase del ciclo de vida de la solución, indicando la versión recomendada, el propósito específico y el enlace de referencia o descarga. 
+
+| Actividad                          | Herramienta (versión mínima)                                                                                              | Propósito                                                                                       | Enlace                                                                                                 |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Gestión de proyecto y requisitos   | Trello 2025.6<br>Discord 2025.6                                                                                            | Gestión de backlog Kanban y comunicación síncrona                                                | [trello.com](https://trello.com)<br>[discord.com](https://discord.com)                                 |
+| Diseño de producto                 | Figma 2025.6<br>diagrams.net 23.5                                                                                          | Creación de wireframes, prototipos, diagramas C4 y BPMN                                          | [figma.com](https://figma.com)<br>[app.diagrams.net](https://app.diagrams.net)                        |
+| Desarrollo de software             | WebStorm 2024.3<br>Android Studio 2024.2<br>IntelliJ IDEA 2024.3<br>OpenJDK 22.0.1<br>Node 20 LTS<br>MySQL 8.3<br>Git 2.45 | Desarrollo frontend (Vue 3 + Vite) y móvil (Flutter/Android), backend (Java 22 + Spring Boot 3.x), gestión de dependencias y control de versiones | [jetbrains.com](https://jetbrains.com)<br>[developer.android.com](https://developer.android.com)<br>[jdk.java.net](https://jdk.java.net)<br>[nodejs.org](https://nodejs.org)<br>[dev.mysql.com](https://dev.mysql.com)<br>[git-scm.com](https://git-scm.com) |
+| Pruebas de software                | JUnit 5.11<br>Postman 10.x                                                                                                 | Pruebas unitarias e integración (backend) y pruebas manuales de API                              | [mvnrepository.com](https://mvnrepository.com)<br>[postman.com](https://postman.com)                   |
+| Despliegue                         | Microsoft Azure 2025                                                                                                       | Hosting de App Services y MySQL Flexible Server, configuración de pipelines CI/CD básicos        | [portal.azure.com](https://portal.azure.com)                                                            |
+| Documentación                      | Markdown (README.md) en GitHub                                                                                             | Documentación viva, guías de uso y evidencias de cambios                                         | `github.com/{org}/{repo}`                                                                               |
+
+**Descripción resumida de la pila**  
+
+Para el frontend y la aplicación móvil se emplean WebStorm (Vue 3 + Vite) y Android Studio (Flutter), gestionados con Node 20 LTS. El backend se desarrolla en IntelliJ IDEA con OpenJDK 22 y Spring Boot 3.x, persistiendo datos en MySQL 8.3. Git 2.45 orquesta el control de versiones y dispara los pipelines de CI/CD en Azure. Con este conjunto se cubren de manera coherente las actividades de desarrollo web, móvil y backend.
+
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
