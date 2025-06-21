@@ -2664,6 +2664,24 @@ El objetivo de este Sprint 1 es entregar un prototipo funcional de todos los pro
 
 Con esta planificación, el equipo se compromete a entregar en Sprint 1 un mínimo viable que cumpla el flujo de registro, autenticación y creación de contratos inteligentes, validando así la integración entre frontend, móvil y backend.
 
+##### 7.2.1.2. Sprint Backlog 1
+
+En esta sección se presenta el backlog del Sprint 1. Incluye un screenshot del board en la herramienta de control (por ejemplo, Trello) y su URL pública.
+
+![Tablero Sprint 1](assets/images/sprint1-board.png)
+
+**URL del Board:** https://trello.com/b/REPLACE_WITH_YOUR_BOARD_URL
+
+| Sprint # | Sprint 1 |
+|----------|----------|
+
+| User Story ID | User Story Title                 | Work Item / Task ID | Work Item / Task Title            | Description                          | Estimation (Hours) | Assigned To       | Status (To-Do / In-Process / To-Review / Done) |
+|---------------|----------------------------------|---------------------|-----------------------------------|--------------------------------------|--------------------|-------------------|-----------------------------------------------|
+|               |                                  |                     |                                   |                                      |                    |                   |                                               |
+|               |                                  |                     |                                   |                                      |                    |                   |                                               |
+|               |                                  |                     |                                   |                                      |                    |                   |                                               |
+|               |                                  |                     |                                   |                                      |                    |                   |                                               |
+
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
