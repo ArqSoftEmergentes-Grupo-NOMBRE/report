@@ -2484,6 +2484,81 @@ En esta sección se describen las herramientas mínimas que el equipo utilizará
 
 Para el frontend y la aplicación móvil se emplean WebStorm (Vue 3 + Vite) y Android Studio (Flutter), gestionados con Node 20 LTS. El backend se desarrolla en IntelliJ IDEA con OpenJDK 22 y Spring Boot 3.x, persistiendo datos en MySQL 8.3. Git 2.45 orquesta el control de versiones y dispara los pipelines de CI/CD en Azure. Con este conjunto se cubren de manera coherente las actividades de desarrollo web, móvil y backend.
 
+#### 7.1.2. Source Code Management
+
+En esta sección el equipo establece los medios y esquema de organización que aplicará para el seguimiento de modificaciones. Utilizamos GitHub como plataforma y sistema de control de versiones. A continuación se listan los repositorios de GitHub para cada producto digital del alcance. En el caso de Web Services, el repositorio incluye tanto el proyecto como los archivos de pruebas (por ejemplo, `.feature`).
+
+| Producto Digital  | URL GitHub                                                      | Contenido clave                                                          | Observaciones                                     |
+|-------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------|
+| Landing Page      | https://github.com/tarket-org/tarket-landing-page               | Código estático (HTML/CSS + Vite), assets optimizados                     | Despliegue continuo a Azure Static Web Apps        |
+| Web App           | https://github.com/tarket-org/tarket-web-app                    | Vue 3 + Vite, pruebas E2E Playwright                                      | Consume REST API y usa autenticación JWT           |
+| Mobile App        | https://github.com/tarket-org/tarket-mobile-app                 | Flutter, pruebas widget                                                   | Usa mismo endpoint que Web App                     |
+| API / Backend     | https://github.com/tarket-org/tarket-api                        | Spring Boot 3.x (Java 22), pruebas BDD (`.feature`)                       | Incluye Swagger OpenAPI y Dockerfile               |
+
+URLs definitivos se crean al iniciar el proyecto; los mostrados son convenciones de nombre.
+
+---
+
+##### Modelo de ramas (GitFlow adaptado)
+
+Basado en “A successful Git branching model” de Vincent Driessen, se aplicará el siguiente workflow:
+
+| Rama       | Patrón de nombre                         | Propósito                                                       | Política de merge                                          |
+|------------|------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------|
+| main       | `main`                                   | Código estable y desplegado                                     | Solo merges fast-forward desde `release/*` o `hotfix/*` vía PR |
+| develop    | `develop`                                | Integración continua; versión candidata                         | PR obligatoria desde `feature/*`; merge fast-forward         |
+| feature    | `feature/TK-<ID>-breve-descripción`      | Desarrollo de una historia de usuario o tarea                    | Merge a `develop` cuando pasa CI                             |
+| release    | `release/v<MAJOR.MINOR.PATCH>`           | Preparación de nueva versión de producción                      | Merge a `main` y `develop` tras QA                           |
+| hotfix     | `hotfix/v<MAJOR.MINOR.PATCH>`            | Corrección urgente en producción                                | Merge a `main` y `develop`                                   |
+
+- `TK-<ID>` corresponde al identificador de la tarea en Trello.  
+- Cada PR necesita al menos un revisor y pasar el pipeline de GitHub Actions (build + tests).
+
+---
+
+##### Versionado Semántico
+
+Se aplicará Semantic Versioning 2.0.0:
+
+vMAJOR.MINOR.PATCH
+
+- **MAJOR**: cambios incompatibles (p. ej., migración de API).  
+- **MINOR**: nuevas funcionalidades compatibles con versiones anteriores.  
+- **PATCH**: correcciones compatibles.  
+
+**Ejemplo de flujo**:  
+`feature/TK-42-generar-contrato` → merge a `develop` → `release/v1.2.0` → QA → merge a `main` → tag `v1.2.0`.
+
+---
+
+##### Convenciones de Commits
+
+Se seguirán “Conventional Commits”:
+
+  <type>(scope?): <descripción breve>
+
+  [body opcional]
+
+  [footer opcional: Closes #<issue-id>]
+
+- **type**: `feat` | `fix` | `docs` | `test` | `refactor` | `chore`.  
+- **scope**: módulo o carpeta (api, mobile-ui, etc.).  
+- **Ejemplo**: feat(api): crear endpoint POST /contracts
+
+
+Estas convenciones habilitan generación automática de changelogs y activan pipelines CI/CD según el tipo de cambio.
+
+---
+
+##### Pruebas en el repositorio
+
+- **API**: archivos `.feature` ubicados en `/src/test/resources/features`.  
+- **Web App**: suites Playwright en `/tests/e2e`.  
+- Cada `push` ejecuta las suites en GitHub Actions; solo se permite merge si todos los tests pasan.
+
+---
+
+Con esta configuración, el equipo garantiza trazabilidad completa desde la tarea en Trello hasta el código desplegado en Azure, manteniendo un flujo de trabajo sostenible avalado por GitFlow, Semantic Versioning y Conventional Commits.
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
