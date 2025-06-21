@@ -260,6 +260,8 @@ https://github.com/ArqSoftEmergentes-Grupo-NOMBRE
         - [7.3.2. Registro de Entrevistas](#732-registro-de-entrevistas)  
         - [7.3.3. Evaluaciones según heurísticas](#733-evaluaciones-según-heurísticas)  
     - [7.4. Video About-the-Product](#74-video-about-the-product)
+    - [7.5. Video About-the-Team](#74-video-about-the-team)
+
 
 - [Conclusiones](#conclusiones)  
     - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
