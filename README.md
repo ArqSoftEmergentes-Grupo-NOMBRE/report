@@ -2702,6 +2702,18 @@ En esta sección se presentan los Unit Tests, Integration Tests y Acceptance Tes
 |                                    |                            |           |                                |                                            |                     |
 |                                    |                            |           |                                |                                            |                     |
 
+##### 7.2.1.5. Execution Evidence for Sprint Review
+
+Esta sección muestra la ejecución de las vistas implementadas durante Sprint 1. Incluye screenshots y un video de demostración.
+
+**Screenshots**  
+- ![Vista Home Landing Page](assets/images/sprint1-landing.png)  
+- ![Pantalla Registro Web App](assets/images/sprint1-webapp.png)  
+- ![Pantalla Registro Mobile App](assets/images/sprint1-mobile.png)  
+
+**Video Demo**  
+[▶ Ver video de demostración Sprint 1](https://REPLACE_WITH_YOUR_VIDEO_URL)
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
