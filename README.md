@@ -933,41 +933,63 @@ En esta sección se presentan los To-Be Scenario Mapping para cada segmento obje
 
 A continuación se presentan las historias de usuario agrupadas por épicas identificadas en el proyecto. Cada historia se ha elaborado siguiendo las buenas prácticas de diseño de User Stories, asegurando trazabilidad con los bounded contexts y los segmentos objetivo definidos. Los criterios de aceptación se expresan en formato Gherkin (Given-When-Then), y se incluyen también historias técnicas necesarias para el backend.
 
-#### Epicas
+#### Épicas
 
-| Epic / User Story ID | Título | Descripción                                                                                                   |
-|----------------------|--------|---------------------------------------------------------------------------------------------------------------|
-| E1 | Autenticación inicial | Gestión de autenticación y registro de usuarios para iniciar el uso de la plataforma.                         |
-| E2 | Gestión contractual | Creación y seguimiento de contratos inteligentes entre cliente y desarrollador.                               |
-| E3 | Seguimiento de reputación | Permite a clientes dejar evaluaciones sobre los desarrolladores contratados.                                  |
-| E4 | Gestión de suscripciones | Acceso a funcionalidades avanzadas mediante planes de suscripción.                                            |
-| E5 | Gestión de perfiles | Mantenimiento de información personal según el tipo de cuenta.                                                |
-| E6 | Notificaciones de contrato | Alertas automáticas del estado de los contratos.                                                              |
-| E7 | Revisión de sitios web | Permitir publicar y consultar enlaces web de desarrolladores.                                                 |
-| E8 | Landing Page informativa | Visita informativa de la plataforma antes del registro.                                                       |
-| E9 | Blockchain en el proyecto | Generar un Smart Contract usando Ethereum y guardarlo en el Blockchain                                       |
+| Epic / User Story ID | Título                                  | Descripción                                                                    |
+| -------------------- | --------------------------------------- | ------------------------------------------------------------------------------ |
+| E1                   | Autenticación y registro                | Proceso de registro y login de usuarios, tanto clientes como desarrolladores.  |
+| E2                   | Creación de contratos                   | Permitir a los clientes generar contratos con desarrolladores.                 |
+| E3                   | Selección y aceptación de desarrollador | Proceso de elección de un desarrollador para un contrato.                      |
+| E4                   | Publicación y estado de contrato        | Mostrar detalles, estado y control del contrato entre ambas partes.            |
+| E5                   | Revisión y entregas                     | Seguimiento de entregables, observaciones y validaciones en el contrato.       |
+| E6                   | Perfil de desarrollador                 | Gestiones del desarrollador sobre su cuenta, contratos y estado.               |
+| E7                   | Gestión de suscripciones                | Acceso a funcionalidades avanzadas mediante planes de suscripción.             |
+| E8                   | Notificaciones de contrato              | Alertas automáticas del estado de los contratos.                               |
+| E9                   | Landing Page informativa                | Visita informativa de la plataforma antes del registro.                        |
+| E10                  | Uso de Blockchain                       | Implementación de contratos en blockchain, cada contrato como un nuevo bloque. |
 
-#### Historias de usuario
+#### Historias de Usuario
 
-| User Story ID | Título | Descripción                                                                                                   | Criterios de Aceptación | Relacionado con (Epic ID) |
-|---------------|--------|---------------------------------------------------------------------------------------------------------------|--------------------------|----------------------------|
-| US1 | Registro de desarrollador | Como desarrollador web, deseo registrarme y autenticarme de forma segura, para comenzar a usar la plataforma. | **Escenario: Registro exitoso con correo**<br/>Given un desarrollador con correo válido<br/>When completa el formulario<br/>Then se crea la cuenta y se confirma por correo<br/><br/>**Escenario: Registro con wallet Web3**<br/>Given un desarrollador con wallet activa<br/>When se autentica<br/>Then se redirige al dashboard con acceso de desarrollador | E1 |
-| US2 | Registro de cliente | Como cliente, deseo crear una cuenta y acceder, para contratar desarrolladores de forma segura.               | **Escenario: Registro exitoso de cliente**<br/>Given un nuevo cliente<br/>When se registra con sus datos<br/>Then accede a la plataforma<br/><br/>**Escenario: Intento de inicio de sesión inválido**<br/>Given datos incorrectos<br/>When intenta iniciar sesión<br/>Then se muestra un mensaje de error | E1 |
-| US3 | Crear contrato | Como cliente, deseo crear un contrato inteligente para formalizar la contratación de un desarrollador.        | **Escenario: Contrato creado exitosamente**<br/>Given un cliente autenticado<br/>When registra términos y wallet del desarrollador<br/>Then se genera un contrato en la blockchain<br/><br/>**Escenario: Error por datos inválidos**<br/>Given campos vacíos o inválidos<br/>When se intenta crear contrato<br/>Then el sistema bloquea el envío | E2 |
-| US4 | Validar contrato | Como desarrollador web, deseo validar un contrato creado por el cliente, para comenzar a trabajar.            | **Escenario: Validación exitosa del contrato**<br/>Given un contrato pendiente<br/>When el desarrollador acepta desde su perfil<br/>Then el estado del contrato cambia a “activo” | E2 |
-| US5 | Dejar reseña | Como cliente, deseo dejar una calificación sobre el desarrollador al finalizar el contrato.                   | **Escenario: Reseña creada exitosamente**<br/>Given un contrato finalizado<br/>When se completa el formulario<br/>Then la reseña aparece en el perfil del desarrollador | E3 |
-| US6 | Ver reseñas | Como cliente, deseo ver reseñas previas de un desarrollador antes de contratarlo.                             | **Escenario: Visualización de reseñas**<br/>Given un perfil público<br/>When el cliente lo visita<br/>Then ve un listado de reseñas verificadas | E3 |
-| US7 | Suscribirse a plan | Como cliente, deseo suscribirme a un plan para acceder a funcionalidades premium.                             | **Escenario: Suscripción activa**<br/>Given datos de pago válidos<br/>When se confirma el pago<br/>Then se activa el plan premium | E4 |
-| TS1 | Validar pago       | Como Developer, deseo validar pagos de suscripciones desde backend para autorizar servicios.                  | **Escenario: Pago confirmado vía API**<br/>Given un request de confirmación<br/>When la respuesta es válida<br/>Then se actualiza el estado de suscripción a “activa” | E4 |
-| US9 | Completar perfil desarrollador | Como desarrollador, deseo editar mis datos y añadir enlaces a proyectos.                                      | **Escenario: Perfil actualizado exitosamente**<br/>Given un desarrollador autenticado<br/>When edita sus datos y guarda<br/>Then se muestra el perfil actualizado | E5 |
-| US10 | Completar perfil cliente | Como cliente, deseo actualizar mis datos personales.                                                          | **Escenario: Actualización exitosa de cliente**<br/>Given un cliente autenticado<br/>When edita sus datos<br/>Then se confirma el cambio | E5 |
-| US11 | Notificación por contrato creado | Como desarrollador, deseo recibir una alerta cuando un cliente me envía un contrato.                          | **Escenario: Alerta generada**<br/>Given un contrato nuevo<br/>When el cliente lo envía<br/>Then se genera notificación automática al desarrollador | E6 |
-| US12 | Notificación de contrato finalizado | Como cliente, deseo recibir una notificación cuando un contrato finaliza.                                     | **Escenario: Notificación de fin de contrato**<br/>Given un contrato llega a su fin<br/>When se cumplen las condiciones<br/>Then el sistema notifica al cliente | E6 |
-| US13 | Publicar enlace de proyecto | Como desarrollador, deseo compartir un enlace web de mi portafolio.                                           | **Escenario: Enlace publicado exitosamente**<br/>Given un desarrollador autenticado<br/>When añade el enlace<br/>Then este se muestra en su perfil | E7 |
-| US14 | Revisar proyecto | Como cliente, deseo revisar el enlace web publicado por un desarrollador.                                     | **Escenario: Acceso exitoso al enlace**<br/>Given un cliente autenticado<br/>When da clic al enlace<br/>Then se abre en una nueva pestaña | E7 |
-| US15 | Acceder al sitio web | Como cliente, deseo ver la información del proyecto antes de crear una cuenta.                                | **Escenario: Acceso a landing page**<br/>Given un visitante anónimo<br/>When ingresa al dominio<br/>Then visualiza las secciones públicas informativas | E8 |
-| TS2 | Crear contrato en Blockchain | Como desarrollador del proyecto, quiero un servicio para generar un Smart Contract con Blockchain.                        | **Escenario: Creación de Blockchain**<br/>Given el desarrollador utiliza el endpoint de creación de contrato en Blockchain<br/>When ingresa los datos necesarios<br/>Then un sistema externo crea el Smart Contract con Blockchain | E9 |
-| TS3 | Ver contrato en Blockchain | Como desarrollador del proyecto, quiero ver los Smart Contracts con Blockchain que se han generado.               | **Escenario: Visualización de contrato en Blockchain**<br/>Given el desarrollador utiliza el endpoint para obtener los contratos, o un contrato específico, en Blockchain<br/>When hace el llamado para obtener los contratos<br/>Then el sistema le devuelve los contratos que pidió a través del endpoint. | E9 |
+| User Story ID | Título                                        | Descripción                                                                                              | Criterios de Aceptación                                                                                                                                           | Epic ID |
+| ------------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| US1           | Registro de cliente en la web                 | Como cliente nuevo de la aplicación web, deseo registrarme para poder usar la plataforma.                | **Escenario: Registro válido**<br/>Given un usuario nuevo<br/>When completa el formulario<br/>Then se crea la cuenta y accede                                     | E1      |
+| US2           | Registro de cliente en la app móvil           | Como cliente nuevo de la aplicación móvil, deseo registrarme para poder usar la plataforma.              | **Escenario: Registro válido**<br/>Given un usuario nuevo<br/>When completa el formulario<br/>Then se crea la cuenta y accede                                     | E1      |
+| US3           | Registro de desarrollador en la web           | Como desarrollador nuevo de la aplicación web, deseo registrarme para poder usar la plataforma.          | **Escenario: Registro válido**<br/>Given un usuario nuevo<br/>When completa el formulario<br/>Then se crea la cuenta y accede                                     | E1      |
+| US4           | Registro de desarrollador en la app móvil     | Como desarrollador nuevo de la aplicación móvil, deseo registrarme para poder usar la plataforma.        | **Escenario: Registro válido**<br/>Given un usuario nuevo<br/>When completa el formulario<br/>Then se crea la cuenta y accede                                     | E1      |
+| US5           | Login en la web                               | Como usuario registrado en la aplicación web, deseo iniciar sesión para gestionar contratos.             | **Escenario: Login exitoso**<br/>Given un usuario registrado<br/>When inicia sesión con credenciales correctas<br/>Then accede al dashboard                       | E1      |
+| US6           | Login en la app móvil                         | Como usuario registrado en la aplicación móvil, deseo iniciar sesión para gestionar contratos.           | **Escenario: Login exitoso**<br/>Given un usuario registrado<br/>When inicia sesión con credenciales correctas<br/>Then accede al dashboard                       | E1      |
+| US7           | Crear contrato desde la app móvil             | Como cliente en la aplicación móvil, deseo crear un nuevo contrato con un desarrollador.                 | **Escenario: Datos completos**<br/>Given un cliente logueado<br/>When completa los campos requeridos<br/>Then se genera el contrato                               | E2      |
+| US8           | Aceptar contrato desde la web                 | Como desarrollador en la aplicación web, deseo validar un contrato creado por el cliente, para comenzar a trabajar.   | **Escenario: Aceptación del contrato**<br/>Given un contrato pendiente<br/>When el desarrollador acepta desde su perfil<br/>Then el estado del contrato cambia a “activo” | E3      |
+| US9           | Seleccionar desarrollador en la app móvil     | Como cliente en la aplicación móvil, deseo seleccionar el desarrollador para mi contrato.                | **Escenario: Asignación de desarrollador**<br/>Given un contrato sin desarrollador<br/>When selecciono uno de la lista<br/>Then queda asignado al contrato        | E3      |
+| US10          | Publicar contrato desde la app móvil          | Como cliente en la aplicación móvil, deseo publicar el contrato creado para que el desarrollador lo vea. | **Escenario: Publicación correcta**<br/>Given un contrato con todos los datos<br/>When hago clic en publicar<br/>Then se vuelve visible al desarrollador asignado | E4      |
+| US11          | Ver detalles de contrato en la web            | Como usuario en la aplicación web, deseo ver los detalles del contrato.                                  | **Escenario: Visualización de contrato**<br/>Given un contrato existente<br/>When accedo al detalle<br/>Then veo todos los datos y estado actual                  | E4      |
+| US12          | Ver detalles de contrato en la app móvil      | Como usuario en la aplicación móvil, deseo ver los detalles del contrato.                                | **Escenario: Visualización de contrato**<br/>Given un contrato existente<br/>When accedo al detalle<br/>Then veo todos los datos y estado actual                  | E4      |
+| US13          | Ver entrega del desarrollador en la app móvil | Como cliente en la aplicación móvil, deseo ver la entrega hecha por el desarrollador.                    | **Escenario: Entrega disponible**<br/>Given una entrega cargada<br/>When entro al contrato<br/>Then puedo verla y descargarla                                     | E5      |
+| US14          | Ver datos de los contratos en la web           | Como desarrollador en la aplicación web, deseo conocer si el contrato está activo o pendiente.          | **Escenario: Estado visible**<br/>Given un contrato<br/>When ingreso al dashboard<br/>Then veo un tag con su estado (pendiente / activo)                          | E4      |
+| US15          | Aceptar contrato desde la web                 | Como desarrollador en la aplicación web, deseo aceptar un contrato para comenzar a trabajar.             | **Escenario: Aceptación**<br/>Given un contrato pendiente<br/>When hago clic en "Aceptar"<br/>Then el estado cambia a "activo"                                    | E6      |
+| US16          | Cambiar estado de contrato en la web          | Como desarrollador en la aplicación web, deseo actualizar el estado según el progreso.                   | **Escenario: Estado actualizado**<br/>Given un contrato activo<br/>When marco como "En progreso" o "Entregado"<br/>Then el cambio queda guardado                  | E6      |
+| US17          | Rechazar contrato desde la web                | Como desarrollador en la aplicación web, deseo rechazar un contrato no deseado.                          | **Escenario: Rechazo exitoso**<br/>Given un contrato pendiente<br/>When hago clic en "Rechazar"<br/>Then el contrato vuelve a estado editable para el cliente     | E6      |
+| US18          | Agregar observaciones en la web               | Como desarrollador en la aplicación web, deseo dejar comentarios u observaciones al cliente.             | **Escenario: Observación publicada**<br/>Given un contrato activo<br/>When escribo una observación<br/>Then esta queda visible para el cliente                    | E5      |
+| US19          | Editar perfil desde la web                    | Como desarrollador en la aplicación web, deseo modificar mi información pública.                         | **Escenario: Edición exitosa**<br/>Given un desarrollador logueado<br/>When edita su información<br/>Then los cambios se guardan                                  | E6      |
+| US20           | Dejar reseña en la app móvil                  | Como cliente en la aplicación móvil, deseo dejar una calificación sobre el desarrollador al finalizar el contrato. | **Escenario: Reseña creada**<br/>Given un contrato finalizado<br/>When se completa el formulario<br/>Then la reseña aparece en el perfil del desarrollador      | E6      |
+| US21           | Ver reseñas en la app móvil                   | Como cliente en la aplicación móvil, deseo ver reseñas previas de un desarrollador antes de contratarlo.           | **Escenario: Ver reseñas**<br/>Given un perfil público<br/>When el cliente lo visita<br/>Then ve un listado de reseñas verificadas                            | E6      |
+| US22           | Suscribirse a plan en la app móvil            | Como cliente en la aplicación móvil, deseo suscribirme a un plan para acceder a funcionalidades premium.           | **Escenario: Suscripción activa**<br/>Given datos de pago válidos<br/>When se confirma el pago<br/>Then se activa el plan premium                            | E7      |
+| US23 | Notificación por cambio de estado del contrato en la aplicación web | Como usuario de la aplicación web, deseo recibir una alerta cuando el estado del contrato cambie. | **Escenario: Alerta generada**<br/>Given un estado de contrato cambió<br/>When el desarrollador o cliente con el que está trabajando el usuario cambia el estado del contrato<br/>Then se genera notificación automática al usuario | E8   |
+| US24| Notificación por cambio de estado del contrato en la aplicación móvil | Como usuario de la aplicación móvil, deseo recibir una alerta cuando el estado del contrato cambie.| **Escenario: Alerta generada**<br/>Given un estado de contrato cambió<br/>When el desarrollador o cliente con el que está trabajando el usuario cambia el estado del contrato<br/>Then se genera notificación automática al usuario |E8    |
+| US25           | Acceder a Landing Page            | Como potencial usuario, deseo ver la información de la aplicación en una Landing Page para decidirme a utilizarla.           | **Escenario: Ver Landing Page**<br/>Given el usuario ingresa a la Landing Page<br/>When navega por la página<br/>Then revisa la información de la aplicación.    | E10     |
+| US26           | Acceder a la aplicación web desde la Landing Page | Como potencial usuario, deseo un botón call to action en la Landing Page que me redirija a la app web | **Escenario: Ir a la app web**<br/>Given el usuario ingresa a la Landing Page<br/>When presiona el botón call to action<br/>Then es redirigido a la aplicación web.   | E10     |
+| TS1                | Visualizar cadena completa               | Como backend, deseo exponer un endpoint GET /chain para consultar toda la blockchain.                         | **Escenario: Consulta completa de blockchain**<br/>Given bloques registrados<br/>When se hace GET /chain<br/>Then retorna todos los bloques con metadatos     | E10                        |
+| TS2                | Ver contratos pendientes                 | Como backend, deseo listar contratos pendientes usando GET /queue.                                        | **Escenario: Cola disponible**<br/>Given contratos pendientes<br/>When se hace GET /queue<br/>Then muestra la cola de contratos pendientes                   | E10                        |
+| TS3                | Consultar estado de la plataforma        | Como backend, deseo exponer GET /status para verificar si la blockchain está operativa.                       | **Escenario: Estado disponible**<br/>Given servidor activo<br/>When se hace GET /status<br/>Then devuelve estado ‘online’ o ‘offline’ con timestamp           | E10                        |
+| TS4                | Consultar dificultad del PoW             | Como backend, deseo consultar la dificultad actual del Proof of Work usando GET /difficulty.                   | **Escenario: Dificultad actual**<br/>Given configuración existente<br/>When se hace GET /difficulty<br/>Then devuelve nivel de dificultad actual               | E10                        |
+| TS5                | Modificar dificultad del PoW             | Como backend, deseo permitir cambios en la dificultad del PoW mediante POST /difficulty.                       | **Escenario: Dificultad modificada**<br/>Given un payload válido<br/>When se hace POST /difficulty<br/>Then se actualiza la dificultad con confirmación       | E10                        |
+| TS6                | Validar integridad de la blockchain      | Como backend, deseo implementar GET /validate para comprobar que no hay bloques corruptos o alterados.        | **Escenario: Validación exitosa**<br/>Given blockchain en uso<br/>When se hace GET /validate<br/>Then retorna si es válida o dónde está el error              | E10                        |
+| TS7                | Crear contrato inteligente               | Como backend, deseo registrar un nuevo contrato en la blockchain usando POST /contracts.                       | **Escenario: Contrato registrado**<br/>Given un contrato JSON válido<br/>When se hace POST /contracts<br/>Then se crea un nuevo bloque con hash               | E10                        |
+| TS8                | Ver contrato por hash                    | Como backend, deseo recuperar un contrato específico mediante GET /contracts/{hash}.                           | **Escenario: Contrato localizado**<br/>Given hash válido<br/>When se hace GET al endpoint<br/>Then devuelve detalles del contrato vinculado                   | E10                        |
+| TS9                | Listar todos los hitos                   | Como backend, deseo exponer GET /milestones para mostrar todos los entregables de todos los contratos.         | **Escenario: Hitos listados**<br/>Given contratos registrados<br/>When se hace GET /milestones<br/>Then devuelve lista completa de entregables                | E10                        |
+| TS10               | Ver hitos de contrato específico         | Como backend, deseo listar los entregables de un contrato mediante GET /milestones/{index}.                    | **Escenario: Hitos de contrato específico**<br/>Given un contrato existente<br/>When se accede a /milestones/{index}<br/>Then muestra sus entregables         | E10                        |
+| TS11               | Añadir nuevo hito a contrato             | Como backend, deseo permitir el registro de un nuevo entregable con POST /milestones/{index}.                 | **Escenario: Nuevo hito añadido**<br/>Given un contrato activo<br/>When se hace POST con datos de hito<br/>Then el hito queda vinculado al contrato indicado  | E10                        |
+| TS12               | Estructura de bloque con hash previo     | Como backend, deseo asegurar que cada nuevo bloque contiene el hash del bloque anterior para mantener integridad. | **Escenario: Hash anterior presente**<br/>Given un nuevo contrato<br/>When se crea su bloque<br/>Then guarda el hash del bloque anterior                      | E10                        |
 
 ### 3.3. Impact Mapping
 En esta sección, se plantearon metas de negocio utilizando los criterios SMART para elaborar el Impact Mapping en base a nuestras User Personas y User Stories.
@@ -976,27 +998,49 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
 ![Impact Mapping Desarrollador Freelance](assets/img/chapter-3/Impact_mapping_segmento1.png)
 - Segmento 2: Profesional que busca portafolio digital
 ![Impact Mapping Profesional](assets/img/chapter-3/Impact_mapping_segmento-2.png)
+
 ### 3.4. Product Backlog
 
-| Orden | User Story ID | Título                         | Descripción                                                                                            | Story Points |
-|-------|----------------|--------------------------------|--------------------------------------------------------------------------------------------------------|--------------|
-| 1     | US15           | Acceder al sitio web           | Como cliente, deseo ver la información de la startup antes de crear una cuenta.                         | 1            |
-| 2     | US13           | Publicar enlace de proyecto    | Como desarrollador, deseo compartir un enlace web de mi portafolio.                                    | 2            |
-| 3     | US14           | Revisar proyecto               | Como cliente, deseo revisar el enlace web publicado por un desarrollador.                              | 2            |
-| 4     | US3            | Crear contrato                 | Como cliente, deseo crear un contrato inteligente para formalizar la contratación de un desarrollador. | 5 |
-| 5     | US4            | Validar contrato               | Como desarrollador web, deseo validar un contrato creado por el cliente.                               | 3            |
-| 6     | TS2            | Crear contrato en Blockchain   | Como Developer, quiero un servicio para generar un Smart Contract con Blockchain.     | 5 |
-| 7     | TS3            | Ver contrato en Blockchain     | Como Developer, quiero ver los Smart Contracts con Blockchain que se han generado.    | 3            |
-| 8     | US11           | Notificación por contrato creado | Como desarrollador, deseo recibir una alerta cuando un cliente me envía un contrato.                   | 2       |
-| 9     | US12           | Notificación de contrato finalizado | Como cliente, deseo recibir una notificación cuando un contrato finaliza.                              | 2     |
-| 10    | US5            | Dejar reseña                   | Como cliente, deseo dejar una calificación sobre el desarrollador al finalizar el contrato.            | 3       |
-| 11    | US6            | Ver reseñas                    | Como cliente, deseo ver reseñas previas de un desarrollador antes de contratarlo.                      | 2         |
-| 12    | US7            | Suscribirse a plan             | Como cliente, deseo suscribirme a un plan para acceder a funcionalidades premium.                      | 3           |
-| 13    | TS1            | Validar pago                   | Como Developer, deseo validar pagos de suscripciones desde backend.                                    | 2            |
-| 14    | US9            | Completar perfil desarrollador | Como desarrollador, deseo editar mis datos y añadir enlaces a proyectos.                               | 2            |
-| 15    | US10           | Completar perfil cliente       | Como cliente, deseo actualizar mis datos personales.                                                   | 2            |
-| 16    | US1            | Registro de desarrollador      | Como desarrollador, deseo registrarme y autenticarme para comenzar a usar la plataforma.               | 3        |
-| 17    | US2            | Registro de cliente            | Como cliente, deseo crear una cuenta y acceder para contratar desarrolladores.                         | 3            |
+| Orden | User Story ID | Título                                        | Descripción                                                                                    | Story Points |
+| ----- | ------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------ |
+| 7     | US7           | Crear contrato desde la app móvil             | Como cliente móvil, deseo crear un contrato nuevo con un desarrollador.                        | 2            |
+| 8     | US9           | Seleccionar desarrollador en la app móvil     | Como cliente en la app móvil, deseo seleccionar el desarrollador para mi contrato.             | 2            |
+| 9     | US10          | Publicar contrato desde la app móvil          | Como cliente, deseo publicar un contrato para que el desarrollador lo vea.                     | 2            |
+| 33    | TS7           | Crear contrato inteligente                    | Como backend, deseo registrar un contrato con POST /contracts.                                 | 3            |
+| 32    | TS6           | Validar integridad de la blockchain           | Como backend, deseo validar la blockchain con GET /validate.                                   | 3            |
+| 10    | US12          | Ver detalles de contrato en la app móvil      | Como usuario móvil, deseo ver detalles de un contrato existente.                               | 1            |
+| 11    | US13          | Ver entrega del desarrollador en la app móvil | Como cliente, deseo ver y descargar la entrega del desarrollador en la app móvil.              | 2            |
+| 34    | TS8           | Ver contrato por hash                         | Como backend, deseo recuperar un contrato con GET /contracts/{hash}.                           | 2            |
+| 35    | TS9           | Listar todos los hitos                        | Como backend, deseo listar todos los hitos de contratos con GET /milestones.                   | 2            |
+| 36    | TS10          | Ver hitos de contrato específico              | Como backend, deseo ver hitos de contrato con GET /milestones/{index}.                         | 2            |
+| 37    | TS11          | Añadir nuevo hito a contrato                  | Como backend, deseo registrar un hito nuevo con POST /milestones/{index}.                      | 3            |
+| 28    | TS2           | Ver contratos pendientes                      | Como backend, deseo listar contratos pendientes mediante GET /queue.                           | 2            |
+| 29    | TS3           | Consultar estado de la plataforma             | Como backend, deseo consultar estado de operación con GET /status.                             | 1            |
+| 38    | TS12          | Estructura de bloque con hash previo          | Como backend, deseo incluir el hash del bloque anterior en cada nuevo bloque.                  | 3            |
+| 30    | TS4           | Consultar dificultad del PoW                  | Como backend, deseo consultar dificultad actual con GET /difficulty.                           | 1            |
+| 31    | TS5           | Modificar dificultad del PoW                  | Como backend, deseo modificar dificultad con POST /difficulty.                                 | 2            |
+| 15    | US8           | Aceptar contrato desde la web                 | Como desarrollador web, deseo aceptar un contrato para comenzar a trabajar.                    | 2            |
+| 16    | US11          | Ver detalles de contrato en la web            | Como usuario web, deseo ver los detalles de un contrato.                                       | 1            |
+| 17    | US14          | Ver estado de contratos en la web             | Como desarrollador, deseo conocer el estado de un contrato desde la web.                       | 1            |
+| 18    | US15          | Aceptar contrato desde la web                 | Como desarrollador, deseo aceptar un contrato desde la web.                                    | 2            |
+| 19    | US16          | Cambiar estado de contrato en la web          | Como desarrollador, deseo actualizar el estado de un contrato desde la web.                    | 2            |
+| 27    | TS1           | Visualizar cadena completa                    | Como backend, deseo exponer GET /chain para ver toda la blockchain.                            | 3            |
+| 20    | US17          | Rechazar contrato desde la web                | Como desarrollador, deseo rechazar contratos no deseados desde la web.                         | 2            |
+| 21    | US18          | Agregar observaciones desde la web            | Como desarrollador, deseo dejar observaciones al cliente desde la web.                         | 2            |
+| 1     | US1           | Registro de cliente en la web                 | Como cliente nuevo de la aplicación web, deseo registrarme para poder usar la plataforma.      | 1            |
+| 2     | US2           | Registro de cliente en la app móvil           | Como cliente nuevo de la aplicación móvil, deseo registrarme para poder usar la plataforma.    | 1            |
+| 3     | US3           | Registro de desarrollador en la web           | Como desarrollador nuevo en la web, deseo registrarme para poder usar la plataforma.           | 1            |
+| 4     | US4           | Registro de desarrollador en la app móvil     | Como desarrollador nuevo en la app móvil, deseo registrarme para poder usar la plataforma.     | 1            |
+| 5     | US5           | Login en la web                               | Como usuario registrado en la aplicación web, deseo iniciar sesión para gestionar contratos.   | 1            |
+| 6     | US6           | Login en la app móvil                         | Como usuario registrado en la aplicación móvil, deseo iniciar sesión para gestionar contratos. | 1            |
+| 12    | US21          | Ver reseñas en la app móvil                   | Como cliente, deseo ver reseñas de desarrolladores antes de contratarlos.                      | 2            |
+| 13    | US20          | Dejar reseña en la app móvil                  | Como cliente, deseo dejar una calificación al finalizar un contrato.                           | 2            |
+| 14    | US22          | Suscribirse a plan en la app móvil            | Como cliente, deseo suscribirme a funcionalidades premium desde la app.                        | 2            |
+| 22    | US19          | Editar perfil desde la web                    | Como desarrollador, deseo editar mi información pública desde la web.                          | 2            |
+| 23    | US23          | Notificación de cambio de estado en web       | Como usuario web, deseo recibir notificaciones si cambia el estado del contrato.               | 2            |
+| 24    | US24          | Notificación de cambio de estado en app       | Como usuario móvil, deseo recibir notificaciones si cambia el estado del contrato.             | 2            |
+| 25    | US25          | Acceder a la Landing Page                     | Como potencial usuario, deseo ver información general antes de registrarme.                    | 1            |
+| 26    | US26          | Call to Action hacia la app web               | Como potencial usuario, deseo acceder a la app web desde la Landing Page.                      | 1            |
 
 ---
 
@@ -2641,7 +2685,7 @@ El objetivo de este Sprint 1 es entregar un prototipo funcional de todos los pro
 | **Time**                           | 10:00 AM (GMT-5)                                                                                        |
 | **Location**                       | Virtual (Zoom)                                                                                          |
 | **Prepared By**                    | Cortés Casas, Joaquín Marcelo                                                                           |
-| **Attendees (to planning meeting)**| Castilla Pachas, César Antonio<br>Cortés Casas, Joaquín Marcelo<br>Diaz Silva, Fernando Josué           |
+| **Attendees (to planning meeting)**| Castilla Pachas, César Antonio<br>Cortés Casas, Joaquín Marcelo<br>Diaz Silva, Fernando Josué<br>Jorge Arévalo, Ramón Alejandro           |
 | **Sprint 0 Review Summary**        |                                                                                                         |
 | **Sprint 0 Retrospective Summary** |                                                                                                         |
 
@@ -2651,18 +2695,44 @@ El objetivo de este Sprint 1 es entregar un prototipo funcional de todos los pro
 
 | Elemento  | Detalle  |
 |--------------|-------------|
-| **Sprint 1 Goal**      |   |
-| **Sprint 1 Velocity**  |   |
-| **Sum of Story Points**|   |
+| **Sprint 1 Goal**      | Nuestro objetivo es presentar una primera versión con las funcionalidades más importantes de todos los productos digitales que abarca nuestra solución. Siendo estos: La Landing Page, la cual debe mostrar información sobre nuestra solución y un botón Call to Action que redirija a la aplicación web. La Aplicación Móvil, que debe permitir registrarse e iniciar sesión, crear contratos y asignarlos a un desarrollador y crear hitos. Además de permitir modificar el perfil del usuario. La Aplicación Web, que también debe permitir registrarse e iniciar sesión, revisar el estado de los contratos, aceptar o rechazarlos y modificar el perfil del usuario. Finalmente, el RESTful API que debe exponer los servicios necesarios para que los demás productos lo consuman correctamente. |
+| **Sprint 1 Velocity**  | 49 |
+| **Sum of Story Points**| 49 |
+
+---
 
 ##### User Stories seleccionadas
 
-| ID    | Título                         | SP | Producto asociado              |
-|-------|--------------------------------|----|--------------------------------|
-|       |                                |    |                                |
-|       |                                |    |                                |
-|       |                                |    |                                |
-|       |                                |    |                                |
+| ID   | Título                                        | SP | Producto asociado |
+| ---- | --------------------------------------------- | -- | ----------------- |
+| US7  | Crear contrato desde la app móvil             | 2  | Aplicación Móvil  |
+| US9  | Seleccionar desarrollador en la app móvil     | 2  | Aplicación Móvil  |
+| US10 | Publicar contrato desde la app móvil          | 2  | Aplicación Móvil  |
+| TS7  | Crear contrato inteligente                    | 3  | RESTful API       |
+| TS6  | Validar integridad de la blockchain           | 3  | RESTful API       |
+| US12 | Ver detalles de contrato en la app móvil      | 1  | Aplicación Móvil  |
+| US13 | Ver entrega del desarrollador en la app móvil | 2  | Aplicación Móvil  |
+| TS8  | Ver contrato por hash                         | 2  | RESTful API       |
+| TS9  | Listar todos los hitos                        | 2  | RESTful API       |
+| TS10 | Ver hitos de contrato específico              | 2  | RESTful API       |
+| TS11 | Añadir nuevo hito a contrato                  | 3  | RESTful API       |
+| TS3  | Consultar estado de la plataforma             | 1  | RESTful API       |
+| TS12 | Estructura de bloque con hash previo          | 3  | RESTful API       |
+| TS4  | Consultar dificultad del PoW                  | 1  | RESTful API       |
+| TS5  | Modificar dificultad del PoW                  | 2  | RESTful API       |
+| US8  | Aceptar contrato desde la web                 | 2  | Aplicación Web    |
+| US11 | Ver detalles de contrato en la web            | 1  | Aplicación Web    |
+| US14 | Ver estado de contratos en la web             | 1  | Aplicación Web    |
+| US16 | Cambiar estado de contrato en la web          | 2  | Aplicación Web    |
+| TS1  | Visualizar cadena completa                    | 3  | RESTful API       |
+| US1  | Registro de cliente en la web                 | 1  | Aplicación Web    |
+| US2  | Registro de cliente en la app móvil           | 1  | Aplicación Móvil  |
+| US3  | Registro de desarrollador en la web           | 1  | Aplicación Web    |
+| US4  | Registro de desarrollador en la app móvil     | 1  | Aplicación Móvil  |
+| US5  | Login en la web                               | 1  | Aplicación Web    |
+| US6  | Login en la app móvil                         | 1  | Aplicación Móvil  |
+| US25 | Acceder a la Landing Page                     | 1  | Landing Page      |
+| US26 | Call to Action hacia la app web               | 1  | Landing Page      |
 
 Con esta planificación, el equipo se compromete a entregar en Sprint 1 un mínimo viable que cumpla el flujo de registro, autenticación y creación de contratos inteligentes, validando así la integración entre frontend, móvil y backend.
 
@@ -2670,19 +2740,43 @@ Con esta planificación, el equipo se compromete a entregar en Sprint 1 un míni
 
 En esta sección se presenta el backlog del Sprint 1. Incluye un screenshot del board en la herramienta de control (por ejemplo, Trello) y su URL pública.
 
-![Tablero Sprint 1](assets/images/sprint1-board.png)
+![Tablero Sprint 1](assets/img/chapter-3/sprint1-board.png)
 
-**URL del Board:** https://trello.com/b/REPLACE_WITH_YOUR_BOARD_URL
+**URL del Board:** https://trello.com/b/nNJGbA4x/product-backlog-tarket-contracts
 
 | Sprint # | Sprint 1 |
 |----------|----------|
 
-| User Story ID | User Story Title                 | Work Item / Task ID | Work Item / Task Title            | Description                          | Estimation (Hours) | Assigned To       | Status (To-Do / In-Process / To-Review / Done) |
-|---------------|----------------------------------|---------------------|-----------------------------------|--------------------------------------|--------------------|-------------------|-----------------------------------------------|
-|               |                                  |                     |                                   |                                      |                    |                   |                                               |
-|               |                                  |                     |                                   |                                      |                    |                   |                                               |
-|               |                                  |                     |                                   |                                      |                    |                   |                                               |
-|               |                                  |                     |                                   |                                      |                    |                   |                                               |
+| User Story ID | User Story Title                          | Work Item / Task ID | Work Item / Task Title       | Description                                                            | Estimation (Hours) | Assigned To | Status |
+| ------------- | ----------------------------------------- | ------------------- | ---------------------------- | ---------------------------------------------------------------------- | ------------------ | ----------- | ------ |
+| US1           | Registro de cliente en la web             | TSK01               | Registro web cliente         | Crear formulario de registro para clientes en la app web               | 2                  |    Fernando Diaz         | Done   |
+| US2           | Registro de cliente en la app móvil       | TSK02               | Registro móvil cliente       | Implementar formulario de registro desde app móvil                     | 2                  |    Joaquín Cortés         | Done   |
+| US3           | Registro de desarrollador en la web       | TSK03               | Registro web desarrollador   | Crear formulario de registro para desarrolladores en la app web        | 2                  |    Fernando Diaz         | Done   |
+| US4           | Registro de desarrollador en la app móvil | TSK04               | Registro móvil desarrollador | Formulario de registro para desarrolladores en la app móvil            | 2                  |    Joaquín Cortés         | Done   |
+| US5           | Login en la web                           | TSK05               | Login web                    | Autenticación y sesión desde plataforma web                            | 2                  |    Fernando Diaz         | Done   |
+| US6           | Login en la app móvil                     | TSK06               | Login móvil                  | Autenticación y sesión desde app móvil                                 | 2                  |    Joaquín Cortés         | Done   |
+| US7           | Crear contrato desde la app móvil         | TSK07               | Crear contrato app móvil     | Lógica y formulario para crear contrato desde app móvil                | 4                  |    Joaquín Cortés         | Done   |
+| US8           | Aceptar contrato desde la web             | TSK08               | Aceptar contrato web         | Funcionalidad de aceptación de contrato por desarrollador desde la web | 3                  |    Fernando Diaz         | Done   |
+| US9           | Seleccionar desarrollador en app móvil    | TSK09               | Seleccionar desarrollador    | Mostrar lista y permitir asignación de desarrollador a contrato        | 3                  |    Joaquín Cortés         | Done   |
+| US10          | Publicar contrato desde app móvil         | TSK10               | Publicar contrato app móvil  | Hacer visible contrato al desarrollador desde app móvil                | 3                  |    Joaquín Cortés         | Done   |
+| US11          | Ver detalles de contrato en la web        | TSK11               | Ver detalles contrato web    | Mostrar información del contrato desde interfaz web                    | 2                  |    Fernando Diaz         | Done   |
+| US12          | Ver detalles de contrato en la app móvil  | TSK12               | Ver detalles contrato móvil  | Mostrar información detallada del contrato en app móvil                | 2                  |    Ramón Jorge         | Done   |
+| US13          | Ver entrega del desarrollador en la app   | TSK13               | Ver entrega desarrollador    | Ver y descargar entrega desde contrato móvil                           | 3                  |    Ramón Jorge         | Done   |
+| US14          | Ver estado de contratos en la web         | TSK14               | Ver estado contratos web     | Mostrar el estado (pendiente, activo, entregado) en lista de contratos | 2                  |    Fernando Diaz         | Done   |
+| US16          | Cambiar estado de contrato en la web      | TSK15               | Cambiar estado contrato      | Permitir actualización del estado del contrato por desarrollador       | 3                  |    Fernando Diaz         | Done   |
+| US25          | Acceder a la Landing Page                 | TSK16               | Página de inicio informativa | Crear estructura visual con información básica del producto            | 2                  |    Joaquín Cortés         | Done   |
+| US26          | Call to Action hacia la app web           | TSK17               | Botón hacia aplicación web   | Redirección desde Landing Page hacia app web                           | 2                  |    Joaquín Cortés         | Done   |
+| TS1           | Visualizar cadena completa                | TSK18               | GET /chain                   | Endpoint para consultar toda la cadena de bloques                      | 5                  |    César Castilla         | Done   |
+| TS3           | Consultar estado de la plataforma         | TSK19               | GET /status                  | Endpoint para revisar si el servicio blockchain está online            | 2                  |    Ramón Jorge         | Done   |
+| TS4           | Consultar dificultad del PoW              | TSK20               | GET /difficulty              | Endpoint para obtener el nivel de dificultad actual del PoW            | 2                  |    César Castilla         | Done   |
+| TS5           | Modificar dificultad del PoW              | TSK21               | POST /difficulty             | Cambiar la dificultad del PoW mediante payload JSON                    | 3                  |    César Castilla         | Done   |
+| TS6           | Validar integridad de la blockchain       | TSK22               | GET /validate                | Verifica que todos los bloques estén encadenados y sin corrupción      | 5                  |    César Castilla         | Done   |
+| TS7           | Crear contrato inteligente                | TSK23               | POST /contracts              | Crear bloque en blockchain con contrato incluido                       | 5                  |    César Castilla         | Done   |
+| TS8           | Ver contrato por hash                     | TSK24               | GET /contracts/{hash}        | Recuperar contrato específico desde blockchain                         | 3                  |    César Castilla         | Done   |
+| TS9           | Listar todos los hitos                    | TSK25               | GET /milestones              | Listado de entregables de todos los contratos existentes               | 3                  |    Ramón Jorge         | Done   |
+| TS10          | Ver hitos de contrato específico          | TSK26               | GET /milestones/{index}      | Listado de entregables de un contrato en particular                    | 3                  |    Ramón Jorge         | Done   |
+| TS11          | Añadir nuevo hito a contrato              | TSK27               | POST /milestones/{index}     | Registro de nuevo hito para contrato activo                            | 5                  |    Ramón Jorge         | Done   |
+| TS12          | Estructura de bloque con hash previo      | TSK28               | Incluir hash previo          | Asegurar que bloque nuevo contiene hash del anterior                   | 5                  |    César Castilla         | Done   |
 
 ##### 7.2.1.3. Development Evidence for Sprint Review
 
