@@ -2775,6 +2775,107 @@ _Explique cómo se monitoreó la colaboración y participación del equipo duran
 
 #### 7.3.1. Diseño de Entrevistas
 
+En esta sección se establece detalladamente cómo llevar a cabo las entrevistas de validación con cada uno de los segmentos objetivos identificados: **Profesionales** y **Desarrolladores**. Las entrevistas abarcan la validación del **Landing Page**, la **Web Application** y la **Mobile App**. Además, se especifican claramente los user flows que formarán parte del proceso de validación para cada segmento.
+
+---
+
+##### Objetivos Generales de la Entrevista
+
+* Validar la claridad y atractivo de la propuesta de valor del producto.
+* Evaluar la facilidad de uso y comprensión de los procesos clave en cada producto digital.
+* Detectar oportunidades de mejora en términos de experiencia de usuario, diseño de interfaz y funcionalidad.
+
+---
+
+##### Perfil del Entrevistado
+
+| Segmento            | Descripción                                                                                                                                  |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Profesionales**   | Usuarios sin experiencia técnica avanzada, que requieren crear páginas web y gestionar contratos con desarrolladores web fácilmente.         |
+| **Desarrolladores** | Freelancers o pequeñas agencias de desarrollo web que buscan seguridad en pagos y gestión clara de entregas mediante contratos inteligentes. |
+
+---
+
+##### Guía General para Entrevistadores
+
+1. **Introducción (4 minutos)**:
+
+   * Presentarse y explicar brevemente el propósito de la entrevista.
+   * Explicar brevemente el producto (Landing Page, Web App o Mobile App según corresponda).
+
+   * Solicitar informacion general al entrevistado, como 
+        * **Nombre del entrevistado:**
+        * **Edad:**
+        * **Profesión / Ocupación:**
+        * **Nivel educativo:**
+        * **Experiencia previa con productos similares (sí/no y detalles breves):**
+        * **Nivel general de experiencia con tecnologías digitales (bajo, medio, alto):**
+
+2. **Validación guiada del producto (15 minutos)**:
+
+   * Guiar al entrevistado a través del user flow específico del producto.
+   * Realizar preguntas específicas por cada etapa del flujo.
+
+3. **Preguntas finales y cierre (3 minutos)**:
+
+   * ¿Cuáles fueron tus impresiones generales?
+   * ¿Qué mejorarías o añadirías al producto?
+   * Agradecer al participante por su tiempo.
+
+---
+
+#### User Flows y Preguntas Específicas por Producto
+
+##### A. Landing Page (Ambos segmentos)
+
+**User Flow**: Visita inicial → Lectura de información clave → Interacción con CTA → Impresión final
+
+**Preguntas específicas**:
+
+* ¿Qué fue lo primero que llamó tu atención al entrar al sitio?
+* ¿Está clara la propuesta de valor? ¿La entiendes sin esfuerzo?
+* ¿Hay algo en particular que no te quedó claro o te confundió?
+* ¿Te anima el contenido a explorar más o registrarte?
+* ¿Cambiarías algo para que la página sea más atractiva o comprensible?
+
+---
+
+##### B. Web Application (Segmento: Desarrolladores)
+
+**User Flow**: Registro/Login → Visualización de solicitudes de contrato → Validar contrato → Gestión de pagos y estados
+
+**Preguntas específicas**:
+
+* ¿Qué tan sencillo te resultó el registro e inicio de sesión?
+* ¿Consideras intuitiva la forma en que visualizas los contratos recibidos?
+* ¿Te sentiste cómodo con la manera en que validas y gestionas los contratos?
+* ¿El sistema de pagos por hitos es claro y transparente para ti?
+* ¿Qué funcionalidades adicionales esperarías tener?
+
+---
+
+##### C. Mobile Application (Segmento: Profesionales)
+
+**User Flow**: Registro/Login → Crear contrato → Elegir desarrollador → Seguimiento del contrato → Aprobación y pago
+
+**Preguntas específicas**:
+
+* ¿Te resultó fácil y rápida la creación de un nuevo contrato?
+* ¿Te generó confianza y claridad el proceso para elegir un desarrollador?
+* ¿Cómo evaluarías el proceso para dar seguimiento y gestionar tu contrato?
+* ¿Crees que la información sobre pagos y entregas está bien presentada?
+* ¿Qué mejorarías o añadirías en este flujo?
+
+---
+
+##### Preguntas Generales Finales (para ambos segmentos)
+
+* ¿Recomendarías este producto a un colega o amigo?
+* ¿Cuáles crees que son los puntos fuertes y débiles del producto?
+* ¿Te sientes seguro y cómodo usando esta plataforma/app?
+
+---
+
 #### 7.3.2. Registro de Entrevistas
 
 #### 7.3.3. Evaluaciones según heurísticas
