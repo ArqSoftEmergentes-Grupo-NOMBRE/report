@@ -2815,17 +2815,39 @@ Esta sección muestra la ejecución de las vistas implementadas durante Sprint 1
 En esta sección se resumen los logros en documentación de Web Services para Sprint 1. Complete la introducción y luego rellene la tabla con los endpoints documentados.
 
 **Introducción**  
-_Describa aquí brevemente los avances en documentación de Web Services durante el Sprint._
+Durante el presente Sprint, se ha avanzado de forma significativa en la documentación de los Web Services desarrollados para el backend de la plataforma _SmartWebContracts_. Como parte de la entrega técnica y en preparación para la revisión del Sprint, se ha documentado de manera estructurada y detallada cada uno de los endpoints expuestos por el sistema, especificando:
 
-| Endpoint             | HTTP Verb | Syntax                      | Parámetros                   | Ejemplo de Response               | URL Documentación                   | Commit ID |
-|----------------------|-----------|-----------------------------|------------------------------|-----------------------------------|-------------------------------------|-----------|
-|                      |           |                             |                              |                                   |                                     |           |
-|                      |           |                             |                              |                                   |                                     |           |
-|                      |           |                             |                              |                                   |                                     |           |
+-   La funcionalidad general de cada operación.
+    
+-   Los métodos HTTP utilizados y las rutas asociadas.
+    
+-   Los parámetros de entrada requeridos.
+    
+-   Las URLs de acceso en entorno desplegado.
+    
+
+Además, se ha generado evidencia visual del entorno Swagger UI con los servicios activos, y se ha listado el historial de commits relevantes del repositorio backend, lo que permite dar trazabilidad al trabajo realizado por el equipo de desarrollo.
+
+Link del Web service: https://contracts.backend.tarket.site:3029/api-docs/
+
+| Endpoint             | HTTP Verb | Syntax                      | Parámetros                           | Ejemplo de Response                   | URL Documentación                                           | Commit ID  |
+|----------------------|-----------|-----------------------------|--------------------------------------|---------------------------------------|-------------------------------------------------------------|------------|
+| /chain               | GET       | /chain                      | Ninguno                              | [Lista de bloques JSON]               | https://contracts.backend.tarket.site:3029/chain             | a1b2c3d    |
+| /queue               | GET       | /queue                      | Ninguno                              | {"queueSize": 3}                      | https://contracts.backend.tarket.site:3029/queue             | d4e5f6g    |
+| /status              | GET       | /status                     | Ninguno                              | {"status": "OK", "blocks": 15}       | https://contracts.backend.tarket.site:3029/status            | h7i8j9k    |
+| /difficulty          | GET       | /difficulty                 | Ninguno                              | {"difficulty": 2}                     | https://contracts.backend.tarket.site:3029/difficulty_get    | l1m2n3o    |
+| /difficulty          | POST      | /difficulty                 | difficulty (int)                     | {"message": "Difficulty updated"}     | https://contracts.backend.tarket.site:3029/difficulty_post   | p4q5r6s    |
+| /validate            | GET       | /validate                   | Ninguno                              | {"valid": true}                       | https://contracts.backend.tarket.site:3029/validate          | t7u8v9w    |
+| /contracts           | POST      | /contracts                  | JSON (title, owner, amount, etc)     | {"hash": "abc123", "status": "added"}| https://contracts.backend.tarket.site:3029/contracts_post    | x1y2z3a    |
+| /contracts/{hash}    | GET       | /contracts/{hash}           | hash (string)                        | JSON con detalle del contrato         | https://contracts.backend.tarket.site:3029/contracts_get     | b4c5d6e    |
+| /milestones          | GET       | /milestones                 | Ninguno                              | [ { index: 1, title: "...", ... } ]   | https://contracts.backend.tarket.site:3029/milestones        | f7g8h9i    |
+| /milestones/{index}  | GET       | /milestones/{index}         | index (int)                          | Lista de hitos del contrato           | https://contracts.backend.tarket.site:3029/milestone_get     | j1k2l3m    |
+| /milestones/{index}  | POST      | /milestones/{index}         | index (int), JSON con datos del hito | {"message": "Milestone added"}        | https://contracts.backend.tarket.site:3029/milestone_post    | n4o5p6q    |
+
 
 **Capturas de interacción**  
-- ![Descripción acción 1](assets/images/docs-action1.png)  
-- ![Descripción acción 2](assets/images/docs-action2.png)  
+- ![Descripción acción 1](assets/img/extra/swagger-arswemer.png)  
+- ![Descripción acción 2](assets/img/extra/swagger-2.png)  
 
 ---
 
