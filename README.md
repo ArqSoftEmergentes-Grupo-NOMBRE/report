@@ -2501,6 +2501,8 @@ Desde su dashboard, el desarrollador accede a su perfil tocando el ícono corres
 
 #### 6.4.2. Applications Mock-ups
 
+**Web Application**
+
 Pantallas de inicio de sesión y registro:
 
 ![Mock-Up-1](assets/img/chapter-6/sign-in-up.png)
@@ -2530,6 +2532,43 @@ Pantallas de envío de entregable:
 Pantalla de revisión de entregable:
 
 ![Mock-Up-2.2](assets/img/chapter-6/review-deliverable.png)
+
+**Mobile Application**
+
+Pantallas de inicio de sesión y registro:
+
+![Mock-Up-1](assets/img/extra/MockupclientLogIn.png)
+
+![Mock-Up-2](assets/img/extra/MockupclientSignIn.png)
+
+Pantallas de edición de perfil:
+
+![Mock-Up-3](assets/img/extra/clientAccount.png)
+
+Pantallas de dashboard principal:
+
+![Mock-Up-4](assets/img/extra/MockupclientDashboard.png)
+
+Pantallas de nuevo contrato:
+
+![Mock-Up-5](assets/img/extra/MockupclientCreateContract.png)
+
+![Mock-Up-6](assets/img/extra/clientContractDetails.png)
+
+![Mock-Up-7](assets/img/extra/clientContractPayments.png)
+
+![Mock-Up-8](assets/img/extra/clientContractConfirmationCheck.png)
+
+![Mock-Up-9](assets/img/extra/clientContractCheck.png)
+
+Detalles de contrato y firma:
+
+![Mock-Up-9](assets/img/extra/clientContractDelivered.png)
+
+![Mock-Up-10](assets/img/extra/clientContractSignature.png)
+
+![Mock-Up-11](assets/img/extra/clientContractStatus.png)
+
 
 
 #### 6.4.3. Applications User Flow Diagrams
