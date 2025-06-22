@@ -3215,7 +3215,9 @@ Duración: 16:12
 **Exposición TB2**
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tb2`  
 Formato: `.mp4`  
-Duración: 
+Duración: 22:58
+
+**Enlace acortado:** https://shorturl.at/8QiJh
 
 **Enlace acortado:** 
 
