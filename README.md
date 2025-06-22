@@ -45,7 +45,7 @@
 | 2.3.0       | 16/05/2025 | Diaz Silva, Fernando Josué                                                                              | Adición de Web Applications Wireframes.                                                                                                                                         |
 | 2.3.1       | 16/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de Mobile Applications Wireframes.                                                                                                                                      |
 | 2.4.0       | 16/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de Application Wireflow Diagrams.                                                                                                                                       |
-| 3.0         | X          | X                                                                                                       | X                                                                                                                                                                               |
+| 3.0         | 20/06/2025 | Jorge Arévalo, Ramón Alejandro                                         |                                | Corrección de Class y Database Diagrams y adición de Sprint Planning y Backlog 1
 
 ---
 
@@ -2500,6 +2500,29 @@ Desde su dashboard, el desarrollador accede a su perfil tocando el ícono corres
 
 
 #### 6.4.2. Applications Mock-ups
+
+Pantallas de inicio de sesión y registro:
+![Mock-Up-1](assets/img/chapter-6/sign-in-up.png)
+
+Pantallas de edición de perfiles:
+![Mock-Up-2.1](assets/img/chapter-6/edit-profile-client.png)
+![Mock-Up-2.2](assets/img/chapter-6/edit-profile-dev.png)
+
+Pantallas de dashboard principal:
+![Mock-Up-3](assets/img/chapter-6/dashboard.png)
+
+Pantallas de nuevo contrato:
+![Mock-Up-4.1](assets/img/chapter-6/new-contract.png)
+![Mock-Up-4.2](assets/img/chapter-6/new-contract-2.png)
+
+Pantallas de aceptación de contrato:
+![Mock-Up-5](assets/img/chapter-6/accept-contract.png)
+
+Pantallas de envío de entregable:
+![Mock-Up-2.2](assets/img/chapter-6/send-deliverable.png)
+
+Pantalla de revisión de entregable:
+![Mock-Up-2.2](assets/img/chapter-6/review-deliverable.png)
 
 #### 6.4.3. Applications User Flow Diagrams
 
