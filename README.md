@@ -283,8 +283,12 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | **Criterio específico**                                                                                                                                                               | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Conclusiones**                                                                                                                                                 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | Castilla Pachas, César Antonio<br/>TB1<br/>Durante el desarrollo del proyecto he podido comunicar mis ideas de fomra clara y objetiva, tanto en aspectos técnicos como funcionales, ademas he adaptado mi forma de explicar segun el publico, ya sea ante compañeros del proyecto o personas de cualquier otra parte, usando ejemplos y lenguaje sencillo cunado fuera necesario.<br/>TP1<br/>En esta segunda etapa del proyecto, reforcé mi capacidad para comunicar oralmente los avances y resultados obtenidos, presentando información técnica de manera estructurada y comprensible para audiencias diversas. Durante exposiciones y coordinaciones, adapté mi discurso según el nivel de conocimiento del público, empleando un lenguaje claro, apoyos visuales y ejemplos prácticos para facilitar la comprensión, especialmente al explicar decisiones de diseño, arquitectura y pruebas funcionales del sistema.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Durante el desarrollo del proyecto, comuniqué oralmente mis ideas de forma clara y estructurada a mi equipo, compuesto por estudiantes de distintas especialidades. Expliqué de manera objetiva el enfoque aplicado en la creación de User Stories, la organización del Product Backlog, la estructuración de los Bounded Context Canvases y el diseño de los Diagramas de Arquitectura de Software (Context, Container, Deployment y System Landscape). Esto permitió que todos los integrantes comprendieran los objetivos técnicos y funcionales independientemente de su nivel de conocimiento específico.<br/>TP1<br/>Durante la exposición de avances, expliqué la lógica detrás de la estructura de arquitectura de información, la estandarización visual (Style Guidelines) y los wireframes diseñados para plataformas web y móviles. Utilicé términos técnicos comprensibles y ejemplos visuales para asegurar que el equipo entendiera tanto la coherencia visual como la usabilidad planteada para cada interfaz, según el segmento objetivo.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante los avances y resultados del proyecto logre comunicar de forma oral mis ideas de manera objetiva y estructurada. Me asegure de explicar tanto los conecptos tecnicos como los beneficios del proyecto, adaptando mi lenguaje para que fuera comprensible para cualquier persona.<br/>TP1<br/>Durante la presentación del proyecto, expuse con claridad y objetividad los resultados alcanzados, detallando tanto aspectos técnicos como su aplicabilidad en el contexto real. Me enfoqué en adaptar el lenguaje y el nivel de detalle según el público presente, lo que permitió una mejor comprensión del impacto y funcionamiento del sistema desarrollado, sin perder precisión en los conceptos clave.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, he desarrollado los puntos de User Personas, User Task Matrix, Journey Mappings y Empathy Mappings, lo que me ha permitido entender y explicar el perfil de los segmentos objetivo a la que va a ir dirigida la aplicación.<br/>TP1<br/>Para esta entrega, he desarrollado los diagramas de base de datos y de clases de los distintos Bounded Context de nuestro proyecto, para poder tener una idea general de cómo empezar a desarrollar la aplicación.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>     | TB1<br/>Durante la TB1, todos los integrantes del equipo demostraron su capacidad para comunicar oralmente ideas y resultados del proyecto de manera clara, estructurada y adaptada a distintos perfiles de audiencia. Las exposiciones incluyeron desde explicaciones conceptuales hasta la justificación técnica de decisiones de diseño y arquitectura, utilizando lenguaje accesible, ejemplos visuales y enfoques comprensibles para estudiantes de diversas especialidades. Esta habilidad permitió que todos los miembros comprendieran los lineamientos técnicos del proyecto y participaran activamente en las decisiones de desarrollo.<br/>TP1<br/>En la etapa TP1 se consolidó la capacidad del equipo para comunicar los avances técnicos del sistema de forma efectiva ante diferentes niveles jerárquicos y perfiles técnicos. Se emplearon explicaciones orales con apoyo de wireframes, diagramas y lineamientos de diseño (como Style Guidelines y Arquitectura de Información), priorizando claridad, objetividad y adecuación del lenguaje al público. Esto favoreció la comprensión transversal de las soluciones propuestas y garantizó la coherencia del trabajo en equipo frente a objetivos técnicos compartidos.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/> |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Castilla Pachas, César Antonio<br/>TB1<br/>A lo largo del proyecto he comunicado por escrito nuestras ideas y resultados de manera clara y objetiva, tambien he redactado documentos tecnicos y explicativos adaptados a publicos de distintas especialidades, desde informes de arquitectura hasta resumenes funcionales.<br/>TP1<br/>Durante esta fase del proyecto, continué redactando documentación técnica y funcional con claridad y objetividad, considerando el perfil del público lector. Elaboré reportes que explican desde los componentes técnicos hasta el impacto funcional del sistema, cuidando el uso de un lenguaje preciso y accesible para diferentes niveles jerárquicos y especialidades. Además, participé en la revisión y mejora de entregables escritos para asegurar su coherencia y comprensión.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Redacté de manera precisa y comprensible la documentación técnica del proyecto, elaborando User Stories con criterios de aceptación estructurados en formato Gherkin, un Product Backlog priorizado, Bounded Context Canvases detallados para cada módulo, y Diagramas de Software Architecture utilizando C4 Model. Esta documentación permitió comunicar de manera escrita y objetiva los resultados del trabajo tanto a perfiles técnicos como a perfiles no técnicos involucrados en el proyecto.<br/>TP1<br/>Documenté de forma estructurada y clara las guías de estilo generales y específicas para web y móvil, definiendo principios de diseño consistentes. Asimismo, redacté la arquitectura de información de la plataforma y elaboré wireframes con anotaciones que justifican las decisiones de diseño. Esta documentación permitió comunicar tanto a diseñadores como a desarrolladores los lineamientos visuales y funcionales del sistema.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante el proyecto redacte informes y entregables donde presente ideas y resultados de fomra clara, objetiva y organizada. Donde adapte el nivel de detalle y el lenguaje segun el publico, asegurandome de que tanto especialistas tecnicos como profesionales pudieran comprender el alcance de esta solución.<br/>TP1<br/>Durante la entrega del proyecto documenté de forma clara y objetiva los avances y resultados obtenidos, utilizando un lenguaje adecuado para distintos públicos. Elaboré informes técnicos y explicativos que permitieron transmitir tanto los aspectos funcionales como los beneficios del sistema, asegurando la comprensión de lectores con diferentes niveles de especialización.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, desarrollé los puntos de Event Storming, Candidate Context Discovery, Domain Message Flow Modelings y Context Mapping, lo cual me ha permitido identificar las bases del diseño de la arquitectura de nuestra aplicación, con el enfoque de Domain-Driven Design.<br/>TP1<br/>En esta entrega, he desarrollado los diagramas de componentes de cada uno de los Bounded Context del proyecto, definiendo las funcionalidades que van a contemplar dichos contextos en la aplicación que desarrollaremos.<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/> | TB1<br/>Durante la TB1, todos los integrantes demostraron competencia en la redacción de documentos técnicos y funcionales dirigidos a públicos diversos, desde especialistas en desarrollo hasta stakeholders no técnicos. La documentación incluyó User Stories con criterios de aceptación, guías de estilo, lineamientos de diseño y estructuras arquitectónicas con el modelo C4. Cada entregable fue escrito con precisión, claridad y adecuación al perfil del lector, lo que garantizó una comunicación efectiva y comprensible de los avances y decisiones clave del proyecto.<br/>TP1<br/>En la etapa TP1, la documentación escrita consolidó la visión técnica y funcional del sistema desarrollado. Se elaboraron reportes estructurados que incluyeron guías de diseño visual, arquitectura de información, wireframes anotados y justificaciones de decisiones tomadas. Estos documentos facilitaron la comprensión del sistema tanto para perfiles técnicos como para perfiles organizacionales, asegurando consistencia, coherencia visual y alineamiento con los objetivos del proyecto. La redacción fue objetiva, técnica y orientada a facilitar la toma de decisiones en equipo.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/>                                                                                                                                    |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | Castilla Pachas, César Antonio<br/>TB1<br/>Durante el desarrollo del proyecto he podido comunicar mis ideas de fomra clara y objetiva, tanto en aspectos técnicos como funcionales, ademas he adaptado mi forma de explicar segun el publico, ya sea ante compañeros del proyecto o personas de cualquier otra parte, usando ejemplos y lenguaje sencillo cunado fuera necesario.<br/>TP1<br/>En esta segunda etapa del proyecto, reforcé mi capacidad para comunicar oralmente los avances y resultados obtenidos, presentando información técnica de manera estructurada y comprensible para audiencias diversas. Durante exposiciones y coordinaciones, adapté mi discurso según el nivel de conocimiento del público, empleando un lenguaje claro, apoyos visuales y ejemplos prácticos para facilitar la comprensión, especialmente al explicar decisiones de diseño, arquitectura y pruebas funcionales del sistema.<br/>TB2<br/>Durante las reuniones de avance del proyecto, presenté mis ideas de manera clara y precisa, utilizando un lenguaje accesible para colegas de otras especialidades. Me apoyé en recursos visuales y ejemplos prácticos para facilitar la comprensión, manteniendo siempre un enfoque objetivo y alineado con los objetivos del proyecto.
+<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Durante el desarrollo del proyecto, comuniqué oralmente mis ideas de forma clara y estructurada a mi equipo, compuesto por estudiantes de distintas especialidades. Expliqué de manera objetiva el enfoque aplicado en la creación de User Stories, la organización del Product Backlog, la estructuración de los Bounded Context Canvases y el diseño de los Diagramas de Arquitectura de Software (Context, Container, Deployment y System Landscape). Esto permitió que todos los integrantes comprendieran los objetivos técnicos y funcionales independientemente de su nivel de conocimiento específico.<br/>TP1<br/>Durante la exposición de avances, expliqué la lógica detrás de la estructura de arquitectura de información, la estandarización visual (Style Guidelines) y los wireframes diseñados para plataformas web y móviles. Utilicé términos técnicos comprensibles y ejemplos visuales para asegurar que el equipo entendiera tanto la coherencia visual como la usabilidad planteada para cada interfaz, según el segmento objetivo.<br/>TB2<br/>Durante esta etapa, comuniqué oralmente los resultados del sistema desde la perspectiva del diseño técnico, visual y funcional, tanto al equipo como a usuarios entrevistados en sesiones de validación. En reuniones internas, expliqué la lógica de integración entre los módulos web y mobile, el flujo de navegación, así como la arquitectura técnica del frontend. Durante las entrevistas de validación, adapté el lenguaje para explicar el propósito de la landing page y el sistema de contratos inteligentes a usuarios de perfil no técnico (como Alejandro R.) y técnico (como Lizeth A.), usando ejemplos, términos accesibles y analogías. También brindé retroalimentación sobre cómo implementar mejoras basadas en la experiencia real de estos usuarios.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante los avances y resultados del proyecto logre comunicar de forma oral mis ideas de manera objetiva y estructurada. Me asegure de explicar tanto los conecptos tecnicos como los beneficios del proyecto, adaptando mi lenguaje para que fuera comprensible para cualquier persona.<br/>TP1<br/>Durante la presentación del proyecto, expuse con claridad y objetividad los resultados alcanzados, detallando tanto aspectos técnicos como su aplicabilidad en el contexto real. Me enfoqué en adaptar el lenguaje y el nivel de detalle según el público presente, lo que permitió una mejor comprensión del impacto y funcionamiento del sistema desarrollado, sin perder precisión en los conceptos clave.<br/>TB2<br/>Para la exposición del proyecto, comuniqué los resultados con un enfoque técnico y estructurado, adaptando mi discurso al nivel jerárquico y área de especialidad del público. Utilicé analogías, visualizaciones y términos adecuados para asegurar que todos los asistentes comprendieran tanto la solución propuesta como su relevancia dentro del contexto organizacional.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, he desarrollado los puntos de User Personas, User Task Matrix, Journey Mappings y Empathy Mappings, lo que me ha permitido entender y explicar el perfil de los segmentos objetivo a la que va a ir dirigida la aplicación.<br/>TP1<br/>Para esta entrega, he desarrollado los diagramas de base de datos y de clases de los distintos Bounded Context de nuestro proyecto, para poder tener una idea general de cómo empezar a desarrollar la aplicación.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>     | TB1<br/>Durante la TB1, todos los integrantes del equipo demostraron su capacidad para comunicar oralmente ideas y resultados del proyecto de manera clara, estructurada y adaptada a distintos perfiles de audiencia. Las exposiciones incluyeron desde explicaciones conceptuales hasta la justificación técnica de decisiones de diseño y arquitectura, utilizando lenguaje accesible, ejemplos visuales y enfoques comprensibles para estudiantes de diversas especialidades. Esta habilidad permitió que todos los miembros comprendieran los lineamientos técnicos del proyecto y participaran activamente en las decisiones de desarrollo.<br/>TP1<br/>En la etapa TP1 se consolidó la capacidad del equipo para comunicar los avances técnicos del sistema de forma efectiva ante diferentes niveles jerárquicos y perfiles técnicos. Se emplearon explicaciones orales con apoyo de wireframes, diagramas y lineamientos de diseño (como Style Guidelines y Arquitectura de Información), priorizando claridad, objetividad y adecuación del lenguaje al público. Esto favoreció la comprensión transversal de las soluciones propuestas y garantizó la coherencia del trabajo en equipo frente a objetivos técnicos compartidos.<br/>TB2<brDurante la TB2, los miembros del equipo continuaron demostrando habilidades sólidas de comunicación oral, especialmente al presentar los resultados del proyecto en reuniones internas y entrevistas de validación con usuarios de distintos perfiles técnicos y jerárquicos. Se empleó un lenguaje adaptado a la audiencia, ejemplos ilustrativos, y recursos visuales para transmitir tanto los aspectos técnicos como el valor funcional del sistema. Esta capacidad permitió una retroalimentación efectiva, una mejor comprensión del producto y la identificación de mejoras relevantes, fortaleciendo el enfoque centrado en el usuario y el alineamiento del equipo con los objetivos del proyecto.
+br/>TF1<br/>Lorem ipsum dolor sit amet.<br/> |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Castilla Pachas, César Antonio<br/>TB1<br/>A lo largo del proyecto he comunicado por escrito nuestras ideas y resultados de manera clara y objetiva, tambien he redactado documentos tecnicos y explicativos adaptados a publicos de distintas especialidades, desde informes de arquitectura hasta resumenes funcionales.<br/>TP1<br/>Durante esta fase del proyecto, continué redactando documentación técnica y funcional con claridad y objetividad, considerando el perfil del público lector. Elaboré reportes que explican desde los componentes técnicos hasta el impacto funcional del sistema, cuidando el uso de un lenguaje preciso y accesible para diferentes niveles jerárquicos y especialidades. Además, participé en la revisión y mejora de entregables escritos para asegurar su coherencia y comprensión.<br/>TB2<br/>En esta fase del proyecto, preparé informes detallados que describían los objetivos, metodologías y resultados, cuidando que el lenguaje utilizado fuera accesible para distintos niveles jerárquicos y especialidades. Esta estrategia facilitó la toma de decisiones y permitió una adecuada difusión del impacto del proyecto entre todas las partes interesadas.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Cortés Casas, Joaquin Marcelo<br/>TB1<br/>Redacté de manera precisa y comprensible la documentación técnica del proyecto, elaborando User Stories con criterios de aceptación estructurados en formato Gherkin, un Product Backlog priorizado, Bounded Context Canvases detallados para cada módulo, y Diagramas de Software Architecture utilizando C4 Model. Esta documentación permitió comunicar de manera escrita y objetiva los resultados del trabajo tanto a perfiles técnicos como a perfiles no técnicos involucrados en el proyecto.<br/>TP1<br/>Documenté de forma estructurada y clara las guías de estilo generales y específicas para web y móvil, definiendo principios de diseño consistentes. Asimismo, redacté la arquitectura de información de la plataforma y elaboré wireframes con anotaciones que justifican las decisiones de diseño. Esta documentación permitió comunicar tanto a diseñadores como a desarrolladores los lineamientos visuales y funcionales del sistema.<br/>TB2<br/>Documenté la sección completa de evaluaciones heurísticas y entrevistas de validación en el entregable del equipo, integrando de forma estructurada los problemas identificados, heurísticas violadas, niveles de severidad y recomendaciones para su mejora. Estas observaciones se redactaron considerando tanto el punto de vista técnico como funcional. Asimismo, actualicé el README técnico vinculado a mis contribuciones en Software Configuration Management (SCM), detallando los commits realizados, ramas, y objetivos alcanzados, permitiendo rastrear de forma transparente los cambios efectuados.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Diaz Silva, Fernando Josué<br/>TB1<br/>Durante el proyecto redacte informes y entregables donde presente ideas y resultados de fomra clara, objetiva y organizada. Donde adapte el nivel de detalle y el lenguaje segun el publico, asegurandome de que tanto especialistas tecnicos como profesionales pudieran comprender el alcance de esta solución.<br/>TP1<br/>Durante la entrega del proyecto documenté de forma clara y objetiva los avances y resultados obtenidos, utilizando un lenguaje adecuado para distintos públicos. Elaboré informes técnicos y explicativos que permitieron transmitir tanto los aspectos funcionales como los beneficios del sistema, asegurando la comprensión de lectores con diferentes niveles de especialización.<br/>TB2<br/>A lo largo del desarrollo del proyecto, elaboré documentos técnicos y reportes donde expuse mis ideas y resultados de manera objetiva, estructurada y coherente. Me aseguré de ajustar el nivel técnico del contenido para que tanto ingenieros como personal administrativo pudieran entender el propósito y valor del trabajo realizado.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/>Jorge Arévalo, Ramón Alejandro<br/>TB1<br/>En esta entrega, desarrollé los puntos de Event Storming, Candidate Context Discovery, Domain Message Flow Modelings y Context Mapping, lo cual me ha permitido identificar las bases del diseño de la arquitectura de nuestra aplicación, con el enfoque de Domain-Driven Design.<br/>TP1<br/>En esta entrega, he desarrollado los diagramas de componentes de cada uno de los Bounded Context del proyecto, definiendo las funcionalidades que van a contemplar dichos contextos en la aplicación que desarrollaremos.<br/>Lorem ipsum dolor sit amet.<br/>TB2<br/>Lorem ipsum dolor sit amet.<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/><br/> | TB1<br/>Durante la TB1, todos los integrantes demostraron competencia en la redacción de documentos técnicos y funcionales dirigidos a públicos diversos, desde especialistas en desarrollo hasta stakeholders no técnicos. La documentación incluyó User Stories con criterios de aceptación, guías de estilo, lineamientos de diseño y estructuras arquitectónicas con el modelo C4. Cada entregable fue escrito con precisión, claridad y adecuación al perfil del lector, lo que garantizó una comunicación efectiva y comprensible de los avances y decisiones clave del proyecto.<br/>TP1<br/>En la etapa TP1, la documentación escrita consolidó la visión técnica y funcional del sistema desarrollado. Se elaboraron reportes estructurados que incluyeron guías de diseño visual, arquitectura de información, wireframes anotados y justificaciones de decisiones tomadas. Estos documentos facilitaron la comprensión del sistema tanto para perfiles técnicos como para perfiles organizacionales, asegurando consistencia, coherencia visual y alineamiento con los objetivos del proyecto. La redacción fue objetiva, técnica y orientada a facilitar la toma de decisiones en equipo.<br/>TB2<br/>En esta etapa, el equipo elaboró documentación técnica y funcional clara, objetiva y bien estructurada, orientada a distintos niveles de especialidad. Se incorporaron informes de validación, evaluaciones heurísticas, análisis de entrevistas, y documentación técnica como reportes SCM y mejoras en la landing page. El lenguaje fue cuidadosamente ajustado según el perfil del lector, permitiendo comunicar avances y decisiones de diseño tanto a desarrolladores como a usuarios finales. Esta documentación facilitó la colaboración interdisciplinaria, respaldó la toma de decisiones informadas y evidenció una gestión madura del proceso de desarrollo.
+
+<br/>TF1<br/>Lorem ipsum dolor sit amet.<br/>                                                                                                                                    |
 
 ---
 
@@ -2914,13 +2918,8 @@ En esta sección se presentan los Unit Tests, Integration Tests y Acceptance Tes
 
 Esta sección muestra la ejecución de las vistas implementadas durante Sprint 1. Incluye screenshots y un video de demostración.
 
-**Screenshots**  
-- ![Vista Home Landing Page](assets/images/sprint1-landing.png)  
-- ![Pantalla Registro Web App](assets/images/sprint1-webapp.png)  
-- ![Pantalla Registro Mobile App](assets/images/sprint1-mobile.png)  
-
 **Video Demo**  
-[▶ Ver video de demostración Sprint 1](https://REPLACE_WITH_YOUR_VIDEO_URL)
+https://shorturl.at/Fx5My
 
 ##### 7.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -3106,11 +3105,7 @@ En esta sección se establece detalladamente cómo llevar a cabo las entrevistas
 
 #### 7.3.2. Registro de Entrevistas
 
-Segmento 1: 
-
-**Profesionales**
-
-Segmento 2:
+Segmento:
 
 **Desarrolladores**
 
@@ -3146,39 +3141,35 @@ Resumen del contenido:
 
 Alejandro participó como representante del segmento de clientes no técnicos. Señaló que la landing page le parecía clara, bien organizada y visualmente atractiva. Al utilizar la plataforma, navegó con facilidad por el flujo de registro, creación de contratos y definición de hitos. Destacó positivamente la funcionalidad que permite definir fechas y montos por hito, considerando que esto aporta transparencia al proceso de desarrollo web. Sin embargo, notó que algunas secciones (como la vista de entregables) no estaban funcionales aún. Sugirió incluir una funcionalidad de chat directo con el desarrollador para mejorar la comunicación. En general, evaluó la propuesta como valiosa y la consideró útil para resolver problemas comunes en la contratación de servicios web.
 
+### 7.3.3. Evaluaciones según heurísticas
 
+#### UX Heuristics & Principles Evaluation – Tarket (Landing Page & Web Application)
 
+*Usabilidad – Arquitectura de la Información – Diseño Centrado en el Usuario*
 
-
-#### 7.3.3. Evaluaciones según heurísticas
-
-#### UX Heuristics & Principles Evaluation – SmartWebContracts (Landing Page & Web Application)
-
-Usabilidad – Arquitectura de la Información – Diseño Centrado en el Usuario
-
-| *CARRERA*    | Ingeniería de Software                                   |
-| ------------ | -------------------------------------------------------- |
-| *CURSO*      | Arquitecturas de Software Emergentes (SI728-2025-1)      |
-| *SECCIÓN*    | Grupo Tarket                                  |
-| *AUDITOR*    | Joaquín Cortés Casas                                     |
-| *CLIENTE(S)* | Lizeth A. (Project Manager en empresa de desarrollo web) |
+| CARRERA    | Ingeniería de Software                                             |
+| ------------ | ------------------------------------------------------------------ |
+| CURSO      | Arquitecturas de Software Emergentes (SI728-2024-1)                |
+| SECCIÓN    | Grupo SmartWebContracts                                            |
+| AUDITOR    | Joaquín Cortés Casas                                               |
+| CLIENTE(S) | Lizeth A. (Project Manager) <br> Alejandro R. (Cliente no técnico) |
 
 ---
 
 #### SITE / APP A EVALUAR
 
-*SmartWebContracts – Landing Page y Plataforma Web*
+SmartWebContracts – Landing Page y Plataforma Web
 
 ---
 
 #### TAREAS A EVALUAR
 
 1. Comprensión de la propuesta de valor en la landing page
-2. Registro y login como Project Manager
-3. Creación de contrato inteligente
-4. Selección de desarrollador y validación de entregables
-5. Proceso de firma y gestión del contrato
-6. Seguimiento de hitos y pagos
+2. Registro e inicio de sesión como cliente o Project Manager
+3. Creación de contrato inteligente con hitos y entregables
+4. Selección de desarrollador y validación de entregas
+5. Proceso de firma del contrato y seguimiento de pagos
+6. Experiencia de navegación y comprensión general de la plataforma
 
 ---
 
@@ -3186,10 +3177,10 @@ Usabilidad – Arquitectura de la Información – Diseño Centrado en el Usuari
 
 | Nivel | Descripción                                                                 |
 | ----- | --------------------------------------------------------------------------- |
-| *1*   | Problema superficial; arreglar si hay tiempo                                |
-| *2*   | Problema menor; prioridad baja para la próxima entrega                      |
-| *3*   | Problema mayor; frecuente o bloquea a algunos usuarios                      |
-| *4*   | Problema crítico; impide completar la tarea; corregir antes del lanzamiento |
+| 1   | Problema superficial; arreglar si hay tiempo                                |
+| 2   | Problema menor; prioridad baja para la próxima entrega                      |
+| 3   | Problema mayor; frecuente o bloquea a algunos usuarios                      |
+| 4   | Problema crítico; impide completar la tarea; corregir antes del lanzamiento |
 
 ---
 
@@ -3202,45 +3193,75 @@ Usabilidad – Arquitectura de la Información – Diseño Centrado en el Usuari
 | 3 | Proceso de firma no muestra pasos previos claramente          | 3    | Control del usuario · Feedback   |
 | 4 | Faltan ejemplos visuales de contratos o entregables esperados | 2    | Reconocimiento más que recuerdo  |
 | 5 | No hay validación clara de los entregables por el PM          | 3    | Prevención de errores · Claridad |
+| 6 | No hay canal de comunicación directa con desarrollador        | 2    | Flexibilidad · Visibilidad       |
+| 7 | Secciones no funcionales generan confusión                    | 2    | Prevención de errores · Feedback |
 
 ---
 
 #### DESCRIPCIÓN DE PROBLEMAS
 
-**Problema #1 – Propuesta de valor poco clara**
+*Problema #1 – Propuesta de valor poco clara*
 
-* *Severidad:* 3
-* *Heurística:* Match sistema-mundo real
-* *Descripción:* La entrevistada indicó que al ingresar a la landing page no queda completamente claro qué problema resuelve la plataforma ni cómo se diferencia.
-* *Recomendación:* Agregar sección introductoria con íconos o storytelling que resuma el flujo PM ↔ dev ↔ contrato inteligente.
+* Severidad: 3
+* Heurística: Match sistema-mundo real
+* Descripción: Lizeth indicó que al ingresar a la landing page no queda completamente claro qué problema resuelve la plataforma ni cómo se diferencia.
+* Recomendación: Agregar sección introductoria con íconos o storytelling que resuma el flujo PM ↔ dev ↔ contrato inteligente.
 
-**Problema #2 – Falta botón destacado de registro para clientes**
+---
 
-* *Severidad:* 2
-* *Heurística:* Visibilidad del sistema
-* *Descripción:* No se muestra claramente el botón de "Registrarse" para el perfil de profesionales; genera duda sobre cómo empezar.
-* *Recomendación:* Mostrar un botón prominente "Quiero contratar a un desarrollador" y distinguir entre tipos de usuario desde el inicio.
+*Problema #2 – Falta botón destacado de registro para clientes*
 
-**Problema #3 – Proceso de firma sin retroalimentación clara**
+* Severidad: 2
+* Heurística: Visibilidad del sistema
+* Descripción: Lizeth mencionó que el botón de “Registrarse” no está claramente identificado para el perfil de clientes.
+* Recomendación: Mostrar un botón prominente "Quiero contratar a un desarrollador" y distinguir entre tipos de usuario.
 
-* *Severidad:* 3
-* *Heurística:* Feedback · Control del usuario
-* *Descripción:* La usuaria expresó dudas sobre cómo saber si la firma fue realizada por todas las partes y qué pasos siguen luego.
-* *Recomendación:* Mostrar barra de progreso con “Estado del contrato” y confirmación por email o notificación interna.
+---
 
-**Problema #4 – Faltan ejemplos visuales de entregables esperados**
+*Problema #3 – Proceso de firma sin retroalimentación clara*
 
-* *Severidad:* 2
-* *Heurística:* Reconocimiento más que recuerdo
-* *Descripción:* No hay ejemplos de cómo se visualiza un contrato en ejecución o un entregable aprobado.
-* *Recomendación:* Agregar capturas o ejemplos de contratos con hitos, entregables y pagos para ayudar al onboarding.
+* Severidad: 3
+* Heurística: Feedback · Control del usuario
+* Descripción: La usuaria expresó dudas sobre cómo saber si la firma fue realizada por todas las partes y qué pasos siguen luego.
+* Recomendación: Mostrar barra de progreso con “Estado del contrato” y confirmación por email o notificación interna.
 
-**Problema #5 – Validación poco clara de los entregables**
+---
 
-* *Severidad:* 3
-* *Heurística:* Prevención de errores · Claridad
-* *Descripción:* El flujo no indica con claridad cuándo y cómo se aprueba un entregable por parte del cliente.
-* *Recomendación:* Añadir un paso específico en el flujo donde el PM valida cada hito antes del pago automático.
+*Problema #4 – Faltan ejemplos visuales de contratos o entregables*
+
+* Severidad: 2
+* Heurística: Reconocimiento más que recuerdo
+* Descripción: Lizeth sugirió incluir vistas de contratos y entregables simulados para facilitar la comprensión del flujo.
+* Recomendación: Incluir mockups o capturas de contratos en progreso.
+
+---
+
+*Problema #5 – Validación poco clara de los entregables*
+
+* Severidad: 3
+* Heurística: Prevención de errores · Claridad
+* Descripción: No se explicita cómo ni cuándo el PM debe validar una entrega antes del pago.
+* Recomendación: Añadir botón de aprobación por hito y vista resumen de entregables.
+
+---
+
+*Problema #6 – No hay canal de comunicación con el desarrollador*
+
+* Severidad: 2
+* Heurística: Flexibilidad · Visibilidad del estado
+* Descripción: Alejandro mencionó que sería útil tener un sistema de mensajería integrado para aclarar dudas y monitorear avances.
+* Recomendación: Incluir chat interno o integración con plataformas como WhatsApp/Telegram.
+
+---
+
+*Problema #7 – Secciones no funcionales generan confusión*
+
+* Severidad: 2
+* Heurística: Prevención de errores · Feedback
+* Descripción: Algunas funcionalidades mostradas en la interfaz (como validación de entregables) no están activas, lo que confunde al usuario.
+* Recomendación: Ocultar secciones no funcionales o mostrar mensaje claro de “en desarrollo”.
+
+---
 
 ---
 
@@ -3254,7 +3275,7 @@ Se realiza la presentación de Tarket como solución que emplea Smart Contracts 
 
 ![Video About the Product](assets/img/about-the-product.png)  
 
-Enlace: 
+Enlace: https://drive.google.com/file/d/1ESBn8LS3tfGa5YLg8DgqT-FJ2FcebUmQ/view?usp=drive_link
 
 
 ### 7.5. Video About-the-Team
@@ -3330,14 +3351,14 @@ Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-validation-tb2`
 Formato: `.mp4`  
 Duración: 10:23
 
-**Enlace acortado:** https://shorturl.at/alUSz
+**Enlace acortado:** https://shorturl.at/xxc6h
 
 **About the Product**
-Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tb2`  
+Nomenclatura: `Mi video1`  
 Formato: `.mp4`  
-Duración: 
+Duración: 0:22
 
-**Enlace acortado:** 
+**Enlace acortado:** https://drive.google.com/file/d/1ESBn8LS3tfGa5YLg8DgqT-FJ2FcebUmQ/view?usp=sharing
 
 **About the Team**
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-about-the-team-sprint-1`  
