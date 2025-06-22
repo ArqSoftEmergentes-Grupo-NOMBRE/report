@@ -3132,9 +3132,30 @@ Usabilidad – Arquitectura de la Información – Diseño Centrado en el Usuari
 
 ### 7.4. Video About-the-Product
 
+Nombre del archivo: upc-pre-202510-1asi0572-4281-Tarket-about-the-product-sprint-1.mp4
+
+Duración: 
+
+Se realiza la presentación de Tarket como solución que emplea Smart Contracts en la contratación de desarrolladores web.
+
+![Video About the Product](assets/img/about-the-product.png)  
+
+Enlace: 
+
+
 ### 7.5. Video About-the-Team
 
+Nombre del archivo: upc-pre-202510-1asi0572-4281-Tarket-about-the-team-sprint-1.mp4
 
+Duración: 5 min 38 s
+
+Se muestra cómo el equipo Tarket llevó a cabo el desarrollo de los productos, comenzando con la grabacion de testimonios, relatando la experiencia de cada integrante del grupo con Tarket.
+
+Screenshot del video
+
+![Video About the Team](assets/img/about-the-team.png)  
+
+Enlace: https://shorturl.at/emf2l
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
