@@ -3206,12 +3206,14 @@ Duración: 7:50
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-product-navigation-sprint-1`  
 Formato: `.mp4`  
 Duración: 14:34
+
 **Enlace acortado:** https://shorturl.at/Fx5My
 
 **Validation Interviews**
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-validation-tb2`  
 Formato: `.mp4`  
 Duración: 10:23
+
 **Enlace acortado:** https://shorturl.at/alUSz
 
 **About the Product**
