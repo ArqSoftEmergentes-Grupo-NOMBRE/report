@@ -3038,6 +3038,98 @@ En esta sección se establece detalladamente cómo llevar a cabo las entrevistas
 
 #### 7.3.3. Evaluaciones según heurísticas
 
+#### UX Heuristics & Principles Evaluation – SmartWebContracts (Landing Page & Web Application)
+
+Usabilidad – Arquitectura de la Información – Diseño Centrado en el Usuario
+
+| *CARRERA*    | Ingeniería de Software                                   |
+| ------------ | -------------------------------------------------------- |
+| *CURSO*      | Arquitecturas de Software Emergentes (SI728-2025-1)      |
+| *SECCIÓN*    | Grupo Tarket                                  |
+| *AUDITOR*    | Joaquín Cortés Casas                                     |
+| *CLIENTE(S)* | Lizeth A. (Project Manager en empresa de desarrollo web) |
+
+---
+
+#### SITE / APP A EVALUAR
+
+*SmartWebContracts – Landing Page y Plataforma Web*
+
+---
+
+#### TAREAS A EVALUAR
+
+1. Comprensión de la propuesta de valor en la landing page
+2. Registro y login como Project Manager
+3. Creación de contrato inteligente
+4. Selección de desarrollador y validación de entregables
+5. Proceso de firma y gestión del contrato
+6. Seguimiento de hitos y pagos
+
+---
+
+#### ESCALA DE SEVERIDAD
+
+| Nivel | Descripción                                                                 |
+| ----- | --------------------------------------------------------------------------- |
+| *1*   | Problema superficial; arreglar si hay tiempo                                |
+| *2*   | Problema menor; prioridad baja para la próxima entrega                      |
+| *3*   | Problema mayor; frecuente o bloquea a algunos usuarios                      |
+| *4*   | Problema crítico; impide completar la tarea; corregir antes del lanzamiento |
+
+---
+
+#### TABLA RESUMEN
+
+| # | Problema                                                      | Sev. | Heurística / Principio violado   |
+| - | ------------------------------------------------------------- | ---- | -------------------------------- |
+| 1 | Propuesta de valor poco clara al primer vistazo               | 3    | Match sistema-mundo real         |
+| 2 | Falta botón destacado de “Registro” para clientes             | 2    | Visibilidad del sistema          |
+| 3 | Proceso de firma no muestra pasos previos claramente          | 3    | Control del usuario · Feedback   |
+| 4 | Faltan ejemplos visuales de contratos o entregables esperados | 2    | Reconocimiento más que recuerdo  |
+| 5 | No hay validación clara de los entregables por el PM          | 3    | Prevención de errores · Claridad |
+
+---
+
+#### DESCRIPCIÓN DE PROBLEMAS
+
+**Problema #1 – Propuesta de valor poco clara**
+
+* *Severidad:* 3
+* *Heurística:* Match sistema-mundo real
+* *Descripción:* La entrevistada indicó que al ingresar a la landing page no queda completamente claro qué problema resuelve la plataforma ni cómo se diferencia.
+* *Recomendación:* Agregar sección introductoria con íconos o storytelling que resuma el flujo PM ↔ dev ↔ contrato inteligente.
+
+**Problema #2 – Falta botón destacado de registro para clientes**
+
+* *Severidad:* 2
+* *Heurística:* Visibilidad del sistema
+* *Descripción:* No se muestra claramente el botón de "Registrarse" para el perfil de profesionales; genera duda sobre cómo empezar.
+* *Recomendación:* Mostrar un botón prominente "Quiero contratar a un desarrollador" y distinguir entre tipos de usuario desde el inicio.
+
+**Problema #3 – Proceso de firma sin retroalimentación clara**
+
+* *Severidad:* 3
+* *Heurística:* Feedback · Control del usuario
+* *Descripción:* La usuaria expresó dudas sobre cómo saber si la firma fue realizada por todas las partes y qué pasos siguen luego.
+* *Recomendación:* Mostrar barra de progreso con “Estado del contrato” y confirmación por email o notificación interna.
+
+**Problema #4 – Faltan ejemplos visuales de entregables esperados**
+
+* *Severidad:* 2
+* *Heurística:* Reconocimiento más que recuerdo
+* *Descripción:* No hay ejemplos de cómo se visualiza un contrato en ejecución o un entregable aprobado.
+* *Recomendación:* Agregar capturas o ejemplos de contratos con hitos, entregables y pagos para ayudar al onboarding.
+
+**Problema #5 – Validación poco clara de los entregables**
+
+* *Severidad:* 3
+* *Heurística:* Prevención de errores · Claridad
+* *Descripción:* El flujo no indica con claridad cuándo y cómo se aprueba un entregable por parte del cliente.
+* *Recomendación:* Añadir un paso específico en el flujo donde el PM valida cada hito antes del pago automático.
+
+---
+
 ### 7.4. Video About-the-Product
 
 ### 7.5. Video About-the-Team
