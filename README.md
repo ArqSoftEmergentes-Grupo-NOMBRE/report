@@ -2685,7 +2685,7 @@ El objetivo de este Sprint 1 es entregar un prototipo funcional de todos los pro
 | **Time**                           | 10:00 AM (GMT-5)                                                                                        |
 | **Location**                       | Virtual (Zoom)                                                                                          |
 | **Prepared By**                    | Cortés Casas, Joaquín Marcelo                                                                           |
-| **Attendees (to planning meeting)**| Castilla Pachas, César Antonio<br>Cortés Casas, Joaquín Marcelo<br>Diaz Silva, Fernando Josué           |
+| **Attendees (to planning meeting)**| Castilla Pachas, César Antonio<br>Cortés Casas, Joaquín Marcelo<br>Diaz Silva, Fernando Josué<br>Jorge Arévalo, Ramón Alejandro           |
 | **Sprint 0 Review Summary**        |                                                                                                         |
 | **Sprint 0 Retrospective Summary** |                                                                                                         |
 
@@ -2695,18 +2695,44 @@ El objetivo de este Sprint 1 es entregar un prototipo funcional de todos los pro
 
 | Elemento  | Detalle  |
 |--------------|-------------|
-| **Sprint 1 Goal**      |   |
-| **Sprint 1 Velocity**  |   |
-| **Sum of Story Points**|   |
+| **Sprint 1 Goal**      | Nuestro objetivo es presentar una primera versión con las funcionalidades más importantes de todos los productos digitales que abarca nuestra solución. Siendo estos: La Landing Page, la cual debe mostrar información sobre nuestra solución y un botón Call to Action que redirija a la aplicación web. La Aplicación Móvil, que debe permitir registrarse e iniciar sesión, crear contratos y asignarlos a un desarrollador y crear hitos. Además de permitir modificar el perfil del usuario. La Aplicación Web, que también debe permitir registrarse e iniciar sesión, revisar el estado de los contratos, aceptar o rechazarlos y modificar el perfil del usuario. Finalmente, el RESTful API que debe exponer los servicios necesarios para que los demás productos lo consuman correctamente. |
+| **Sprint 1 Velocity**  | 49 |
+| **Sum of Story Points**| 49 |
+
+---
 
 ##### User Stories seleccionadas
 
-| ID    | Título                         | SP | Producto asociado              |
-|-------|--------------------------------|----|--------------------------------|
-|       |                                |    |                                |
-|       |                                |    |                                |
-|       |                                |    |                                |
-|       |                                |    |                                |
+| ID   | Título                                        | SP | Producto asociado |
+| ---- | --------------------------------------------- | -- | ----------------- |
+| US7  | Crear contrato desde la app móvil             | 2  | Aplicación Móvil  |
+| US9  | Seleccionar desarrollador en la app móvil     | 2  | Aplicación Móvil  |
+| US10 | Publicar contrato desde la app móvil          | 2  | Aplicación Móvil  |
+| TS7  | Crear contrato inteligente                    | 3  | RESTful API       |
+| TS6  | Validar integridad de la blockchain           | 3  | RESTful API       |
+| US12 | Ver detalles de contrato en la app móvil      | 1  | Aplicación Móvil  |
+| US13 | Ver entrega del desarrollador en la app móvil | 2  | Aplicación Móvil  |
+| TS8  | Ver contrato por hash                         | 2  | RESTful API       |
+| TS9  | Listar todos los hitos                        | 2  | RESTful API       |
+| TS10 | Ver hitos de contrato específico              | 2  | RESTful API       |
+| TS11 | Añadir nuevo hito a contrato                  | 3  | RESTful API       |
+| TS3  | Consultar estado de la plataforma             | 1  | RESTful API       |
+| TS12 | Estructura de bloque con hash previo          | 3  | RESTful API       |
+| TS4  | Consultar dificultad del PoW                  | 1  | RESTful API       |
+| TS5  | Modificar dificultad del PoW                  | 2  | RESTful API       |
+| US8  | Aceptar contrato desde la web                 | 2  | Aplicación Web    |
+| US11 | Ver detalles de contrato en la web            | 1  | Aplicación Web    |
+| US14 | Ver estado de contratos en la web             | 1  | Aplicación Web    |
+| US16 | Cambiar estado de contrato en la web          | 2  | Aplicación Web    |
+| TS1  | Visualizar cadena completa                    | 3  | RESTful API       |
+| US1  | Registro de cliente en la web                 | 1  | Aplicación Web    |
+| US2  | Registro de cliente en la app móvil           | 1  | Aplicación Móvil  |
+| US3  | Registro de desarrollador en la web           | 1  | Aplicación Web    |
+| US4  | Registro de desarrollador en la app móvil     | 1  | Aplicación Móvil  |
+| US5  | Login en la web                               | 1  | Aplicación Web    |
+| US6  | Login en la app móvil                         | 1  | Aplicación Móvil  |
+| US25 | Acceder a la Landing Page                     | 1  | Landing Page      |
+| US26 | Call to Action hacia la app web               | 1  | Landing Page      |
 
 Con esta planificación, el equipo se compromete a entregar en Sprint 1 un mínimo viable que cumpla el flujo de registro, autenticación y creación de contratos inteligentes, validando así la integración entre frontend, móvil y backend.
 
@@ -2714,19 +2740,43 @@ Con esta planificación, el equipo se compromete a entregar en Sprint 1 un míni
 
 En esta sección se presenta el backlog del Sprint 1. Incluye un screenshot del board en la herramienta de control (por ejemplo, Trello) y su URL pública.
 
-![Tablero Sprint 1](assets/images/sprint1-board.png)
+![Tablero Sprint 1](assets/img/chapter-3/sprint1-board.png)
 
-**URL del Board:** https://trello.com/b/REPLACE_WITH_YOUR_BOARD_URL
+**URL del Board:** https://trello.com/b/nNJGbA4x/product-backlog-tarket-contracts
 
 | Sprint # | Sprint 1 |
 |----------|----------|
 
-| User Story ID | User Story Title                 | Work Item / Task ID | Work Item / Task Title            | Description                          | Estimation (Hours) | Assigned To       | Status (To-Do / In-Process / To-Review / Done) |
-|---------------|----------------------------------|---------------------|-----------------------------------|--------------------------------------|--------------------|-------------------|-----------------------------------------------|
-|               |                                  |                     |                                   |                                      |                    |                   |                                               |
-|               |                                  |                     |                                   |                                      |                    |                   |                                               |
-|               |                                  |                     |                                   |                                      |                    |                   |                                               |
-|               |                                  |                     |                                   |                                      |                    |                   |                                               |
+| User Story ID | User Story Title                          | Work Item / Task ID | Work Item / Task Title       | Description                                                            | Estimation (Hours) | Assigned To | Status |
+| ------------- | ----------------------------------------- | ------------------- | ---------------------------- | ---------------------------------------------------------------------- | ------------------ | ----------- | ------ |
+| US1           | Registro de cliente en la web             | TSK01               | Registro web cliente         | Crear formulario de registro para clientes en la app web               | 2                  |    Fernando Diaz         | Done   |
+| US2           | Registro de cliente en la app móvil       | TSK02               | Registro móvil cliente       | Implementar formulario de registro desde app móvil                     | 2                  |    Joaquín Cortés         | Done   |
+| US3           | Registro de desarrollador en la web       | TSK03               | Registro web desarrollador   | Crear formulario de registro para desarrolladores en la app web        | 2                  |    Fernando Diaz         | Done   |
+| US4           | Registro de desarrollador en la app móvil | TSK04               | Registro móvil desarrollador | Formulario de registro para desarrolladores en la app móvil            | 2                  |    Joaquín Cortés         | Done   |
+| US5           | Login en la web                           | TSK05               | Login web                    | Autenticación y sesión desde plataforma web                            | 2                  |    Fernando Diaz         | Done   |
+| US6           | Login en la app móvil                     | TSK06               | Login móvil                  | Autenticación y sesión desde app móvil                                 | 2                  |    Joaquín Cortés         | Done   |
+| US7           | Crear contrato desde la app móvil         | TSK07               | Crear contrato app móvil     | Lógica y formulario para crear contrato desde app móvil                | 4                  |    Joaquín Cortés         | Done   |
+| US8           | Aceptar contrato desde la web             | TSK08               | Aceptar contrato web         | Funcionalidad de aceptación de contrato por desarrollador desde la web | 3                  |    Fernando Diaz         | Done   |
+| US9           | Seleccionar desarrollador en app móvil    | TSK09               | Seleccionar desarrollador    | Mostrar lista y permitir asignación de desarrollador a contrato        | 3                  |    Joaquín Cortés         | Done   |
+| US10          | Publicar contrato desde app móvil         | TSK10               | Publicar contrato app móvil  | Hacer visible contrato al desarrollador desde app móvil                | 3                  |    Joaquín Cortés         | Done   |
+| US11          | Ver detalles de contrato en la web        | TSK11               | Ver detalles contrato web    | Mostrar información del contrato desde interfaz web                    | 2                  |    Fernando Diaz         | Done   |
+| US12          | Ver detalles de contrato en la app móvil  | TSK12               | Ver detalles contrato móvil  | Mostrar información detallada del contrato en app móvil                | 2                  |    Ramón Jorge         | Done   |
+| US13          | Ver entrega del desarrollador en la app   | TSK13               | Ver entrega desarrollador    | Ver y descargar entrega desde contrato móvil                           | 3                  |    Ramón Jorge         | Done   |
+| US14          | Ver estado de contratos en la web         | TSK14               | Ver estado contratos web     | Mostrar el estado (pendiente, activo, entregado) en lista de contratos | 2                  |    Fernando Diaz         | Done   |
+| US16          | Cambiar estado de contrato en la web      | TSK15               | Cambiar estado contrato      | Permitir actualización del estado del contrato por desarrollador       | 3                  |    Fernando Diaz         | Done   |
+| US25          | Acceder a la Landing Page                 | TSK16               | Página de inicio informativa | Crear estructura visual con información básica del producto            | 2                  |    Joaquín Cortés         | Done   |
+| US26          | Call to Action hacia la app web           | TSK17               | Botón hacia aplicación web   | Redirección desde Landing Page hacia app web                           | 2                  |    Joaquín Cortés         | Done   |
+| TS1           | Visualizar cadena completa                | TSK18               | GET /chain                   | Endpoint para consultar toda la cadena de bloques                      | 5                  |    César Castilla         | Done   |
+| TS3           | Consultar estado de la plataforma         | TSK19               | GET /status                  | Endpoint para revisar si el servicio blockchain está online            | 2                  |    Ramón Jorge         | Done   |
+| TS4           | Consultar dificultad del PoW              | TSK20               | GET /difficulty              | Endpoint para obtener el nivel de dificultad actual del PoW            | 2                  |    César Castilla         | Done   |
+| TS5           | Modificar dificultad del PoW              | TSK21               | POST /difficulty             | Cambiar la dificultad del PoW mediante payload JSON                    | 3                  |    César Castilla         | Done   |
+| TS6           | Validar integridad de la blockchain       | TSK22               | GET /validate                | Verifica que todos los bloques estén encadenados y sin corrupción      | 5                  |    César Castilla         | Done   |
+| TS7           | Crear contrato inteligente                | TSK23               | POST /contracts              | Crear bloque en blockchain con contrato incluido                       | 5                  |    César Castilla         | Done   |
+| TS8           | Ver contrato por hash                     | TSK24               | GET /contracts/{hash}        | Recuperar contrato específico desde blockchain                         | 3                  |    César Castilla         | Done   |
+| TS9           | Listar todos los hitos                    | TSK25               | GET /milestones              | Listado de entregables de todos los contratos existentes               | 3                  |    Ramón Jorge         | Done   |
+| TS10          | Ver hitos de contrato específico          | TSK26               | GET /milestones/{index}      | Listado de entregables de un contrato en particular                    | 3                  |    Ramón Jorge         | Done   |
+| TS11          | Añadir nuevo hito a contrato              | TSK27               | POST /milestones/{index}     | Registro de nuevo hito para contrato activo                            | 5                  |    Ramón Jorge         | Done   |
+| TS12          | Estructura de bloque con hash previo      | TSK28               | Incluir hash previo          | Asegurar que bloque nuevo contiene hash del anterior                   | 5                  |    César Castilla         | Done   |
 
 ##### 7.2.1.3. Development Evidence for Sprint Review
 
