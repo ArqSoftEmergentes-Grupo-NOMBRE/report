@@ -3180,37 +3180,50 @@ Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tb1`
 Formato: `.mp4`  
 Duración: 26:02
 
-**Enlace acortado:**
-
-https://tinyurl.com/zkr9dy5j
-
-**Enlace original:**
-
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EdjD6he784hLofLmw9_0wDoBA2R2jA77_NI9HUOyrPyxOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ESfXa2
-
----
+**Enlace acortado:** https://tinyurl.com/zkr9dy5j
 
 **Exposición TP1**
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tp1`  
 Formato: `.mp4`  
 Duración: 16:12
 
-**Enlace acortado:**
+**Enlace acortado:** https://tinyurl.com/38p345ww
 
-https://tinyurl.com/38p345ww
+**Exposición TB2**
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tb2`  
+Formato: `.mp4`  
+Duración: 
 
-**Enlace original:**
-
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EbYnJUAiU-ZOpY6DJYByW5IBwrhwKMyWqqHoCfxoTvg9Cg?e=hmwDco&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**Enlace acortado:** 
 
 **Needfinding Interviews**
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-needfinding`  
 Formato: `.mp4`  
 Duración: 7:50  
-**Enlace acortado:**
+**Enlace acortado:** https://tinyurl.com/4ybcxh74
 
-https://tinyurl.com/4ybcxh74
+**Product Navigation/Execution**
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-product-navigation-sprint-1`  
+Formato: `.mp4`  
+Duración: 14:34
+**Enlace acortado:** https://shorturl.at/Fx5My
 
-**Enlace original:**
+**Validation Interviews**
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-validation-tb2`  
+Formato: `.mp4`  
+Duración: 10:23
+**Enlace acortado:** https://shorturl.at/alUSz
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114545_upc_edu_pe/EWlQI3MlZYJMu0Hq5ohT9fIBF2Vj7Y8hBtckt2Ej-YFVRg?e=rizqXz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**About the Product**
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tb2`  
+Formato: `.mp4`  
+Duración: 
+
+**Enlace acortado:** 
+
+**About the Team**
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-about-the-team-sprint-1`  
+Formato: `.mp4`  
+Duración: 5:38
+
+**Enlace acortado:** https://shorturl.at/emf2l
