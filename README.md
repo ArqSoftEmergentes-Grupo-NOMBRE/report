@@ -3106,6 +3106,50 @@ En esta sección se establece detalladamente cómo llevar a cabo las entrevistas
 
 #### 7.3.2. Registro de Entrevistas
 
+Segmento 1: 
+
+**Profesionales**
+
+Segmento 2:
+
+**Desarrolladores**
+
+##### Entrevista 1: 
+
+**Profesional - Lizeth A. (Project Manager)**
+
+**Fecha:** 2025-06-10
+
+**Plataforma:** Web Application + Landing Page
+
+Analisis:
+
+Lizet Antonia, Project Manager con experiencia en herramientas digitales como Trello y Notion, destaco positivamente el impacto inicial del título principal de la landing page, señalando que terminos como “contratos inteligentes” y “riesgo cero” captaron su atención de inmediato. Reconocio que la propuesta de valor general es comprensible, pero mencionó que ciertos términos técnicos como "hash" o "PoW" podrian confundir a usuarios no especializados. También sugirió incluir elementos visuales como infografias o testimonios reales que ayuden a generar mayor confianza y comprensión del funcionamiento interno de la plataforma.
+
+En cuanto al aplicativo web, Lizet considero que el proceso de registro fue agil, aunque propuso la incorporación de validación por correo electrónico y autenticación mediante cuentas de Google o GitHub. Valoró la organización de los contratos, pero recomendó añadir filtros por estado y un resumen del monto total por contrato. Sobre la validación, le resultio util ver el hash del bloque, y sugirio agregar un boton para visualizar el contrato directamente en la blockchain. Además, encontró el sistema de pagos por hitos claro y funcional, pero consideró importante implementar notificaciones automáticas cuando un cliente aprueba un hito.
+
+Finalmente, Lizet percibio la plataforma como una solución sólida tanto para desarrolladores como para clientes, destacando su utilidad práctica y la orientación al trabajo freelance. Recomendó implementar funcionalidades como plantillas reutilizables, historial de contratos y métricas de rendimiento. Concluyó que definitivamente recomendaría el uso del sistema a otros profesionales de su entorno, validando así el valor y el enfoque de SmartWebContracts para su público objetivo.
+
+
+![![Lizet A. - Entrevista](assets/img/chapter-3/interview-lizet.png)](./assets/img/extra/interview-cesar.png)
+
+##### Entrevista 2:
+
+**Alejandro R. (Cliente)**
+**Fecha:** 14 de junio de 2025
+
+**Perfil:** Administrador de empresas, cliente potencial que busca contratar sitios web
+
+**Plataforma evaluada:** SmartWebContracts (Landing Page + Web App)
+
+Resumen del contenido:
+
+Alejandro participó como representante del segmento de clientes no técnicos. Señaló que la landing page le parecía clara, bien organizada y visualmente atractiva. Al utilizar la plataforma, navegó con facilidad por el flujo de registro, creación de contratos y definición de hitos. Destacó positivamente la funcionalidad que permite definir fechas y montos por hito, considerando que esto aporta transparencia al proceso de desarrollo web. Sin embargo, notó que algunas secciones (como la vista de entregables) no estaban funcionales aún. Sugirió incluir una funcionalidad de chat directo con el desarrollador para mejorar la comunicación. En general, evaluó la propuesta como valiosa y la consideró útil para resolver problemas comunes en la contratación de servicios web.
+
+
+
+
+
 #### 7.3.3. Evaluaciones según heurísticas
 
 #### UX Heuristics & Principles Evaluation – SmartWebContracts (Landing Page & Web Application)
