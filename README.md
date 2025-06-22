@@ -2778,19 +2778,61 @@ En esta sección se presenta el backlog del Sprint 1. Incluye un screenshot del 
 | TS11          | Añadir nuevo hito a contrato              | TSK27               | POST /milestones/{index}     | Registro de nuevo hito para contrato activo                            | 5                  |    Ramón Jorge         | Done   |
 | TS12          | Estructura de bloque con hash previo      | TSK28               | Incluir hash previo          | Asegurar que bloque nuevo contiene hash del anterior                   | 5                  |    César Castilla         | Done   |
 
-##### 7.2.1.3. Development Evidence for Sprint Review
+#### 7.2.1.3. Development Evidence for Sprint Review
 
 En esta sección se resumen los principales avances en la implementación para Sprint 1. Incluye una tabla de commits relacionados con la implementación de cada repositorio.
 
-| Repository                         | Branch                     | Commit Id | Commit Message                 | Commit Message Body                       | Committed on (Date) |
-|------------------------------------|----------------------------|-----------|--------------------------------|--------------------------------------------|---------------------|
-|                                    |                            |           |                                |                                            |                     |
-|                                    |                            |           |                                |                                            |                     |
-|                                    |                            |           |                                |                                            |                     |
+| Repository   | Branch | Commit Id | Commit Message                                                                       | Committed on (Date) |
+| ------------ | ------ | --------- | ------------------------------------------------------------------------------------ | ------------------- |
+| landing-page | develop   | `4831c6c` | docs: Add README.md with a landing page overview                                     | Jun 21, 2025        |
+| landing-page | develop   | `93e80ca` | chore: initialize project structure with base folders and files                      | Jun 21, 2025        |
+| landing-page | develop   | `3bed597` | feat: add HTML meta information and header with navigation and language toggle       | Jun 21, 2025        |
+| landing-page | develop   | `0ecf446` | feat: add hero section with title, subtitle, and CTA button                          | Jun 21, 2025        |
+| landing-page | develop   | `4697884` | feat: add about section with logo, intro, features, and video placeholder            | Jun 21, 2025        |
+| landing-page | develop   | `40bc311` | feat: add professionals section with platform links                                  | Jun 21, 2025        |
+| landing-page | develop   | `ba85af5` | feat: add benefits section for professionals with 3 key features                     | Jun 21, 2025        |
+| landing-page | develop   | `bf6aaf4` | feat: add developers section with external CTA button                                | Jun 21, 2025        |
+| landing-page | develop   | `a8e3412` | feat: add benefits section for developers with 3 key features                        | Jun 21, 2025        |
+| landing-page | develop   | `336960b` | feat: add team section with member grid and video placeholder                        | Jun 21, 2025        |
+| landing-page | develop   | `e59d17b` | feat: add footer with social links, contact, and copyright                           | Jun 21, 2025        |
+| landing-page | develop   | `7f59cdd` | feat: define global design tokens in \_variables.css                                 | Jun 21, 2025        |
+| landing-page | develop   | `7a5a66d` | feat: implement full layout and responsive design styles                             | Jun 21, 2025        |
+| landing-page | develop   | `260958f` | feat: implement i18n support, scroll navigation highlight, and mobile sidebar toggle | Jun 21, 2025        |
+| landing-page | develop   | `b34f5be` | feat: update file address                                                            | Jun 21, 2025        |
+| landing-page | develop   | `7e4511c` | feat: rename variables                                                               | Jun 21, 2025        |
+| landing-page | main   | `a6b8e10` | Merge pull request #1 from ArqSoftEmergentes-Grupo-NOMBRE/develop                       | Jun 21, 2025        |
+| Mobile Application | `main`    | 625c939   | Merge pull request #1 from ArqSoftEmergentes-Grupo-NOMBRE/develop     | Jun 21, 2025        |
+| Mobile Application | `develop` | cc8a889   | chore: Add README.md with context to explain how to run the project   | Jun 21, 2025        |
+| Mobile Application | `develop` | 995d6e1   | feat: Add main.dart context to join all bounded contexts in the build | Jun 21, 2025        |
+| Mobile Application | `develop` | 6fe6f26   | chore: Add shared files between all Bounded Contexts with DDD         | Jun 21, 2025        |
+| Mobile Application | `develop` | 26b8fcc   | feat: Add Profile Bounded Context with DDD                            | Jun 21, 2025        |
+| Mobile Application | `develop` | 413a2a3   | feat: Add IAM bounded context with DDD                                | Jun 21, 2025        |
+| Mobile Application | `develop` | 220b35a   | feat: Add contract bounded context with DDD                           | Jun 21, 2025        |
+| Mobile Application | `develop` | 7fab2ef   | chore: initialize project structure with base folders and files       | Jun 21, 2025        |
+| Mobile Application | `develop` | 0064137   | Initial commit                                                        | Jun 21, 2025        |
+| Web Application | `main` | 20e6800   | Feat: Implemented Everything | Jun 17, 2025        |
+| Web Application | `main` | e4122df   | Initial commit               | Jun 17, 2025        |
+| restful-api | `main`              | 26be456   | FEAT: Implemented Everything                                                | Jun 17, 2025        |
+| restful-api | `main`              | 7931bb3   | Merge pull request #1 from ArqSoftEmergentes-Grupo-NOMBRE/feat/deliverables | Jun 17, 2025        |
+| restful-api | `feat/deliverables` | ca2b95c   | feat(deliverable): added Swagger to application.properties.                 | Jun 16, 2025        |
+| restful-api | `feat/deliverables` | 766cc12   | feat(deliverable): created Deliverable Controller.                          | Jun 16, 2025        |
+| restful-api | `feat/deliverables` | 54e6c38   | feat(deliverable): created Deliverable Query Service.                       | Jun 16, 2025        |
+| restful-api | `feat/deliverables` | 5d05cd1   | feat(deliverable): created Deliverable Command Service.                     | Jun 16, 2025        |
+| restful-api | `feat/deliverables` | 32ae790   | feat(deliverable): created Deliverable repository interface.                | Jun 16, 2025        |
+| restful-api | `feat/deliverables` | 8ce5952   | feat(deliverable): created Deliverable entity.                              | Jun 16, 2025        |
+| restful-api | `bounded-contracts` | 1266522   | feat: add hash registry                                                     | Jun 4, 2025         |
+| restful-api | `bounded-contracts` | acd06be   | feat: add dependencies an application properties                            | Jun 4, 2025         |
+| restful-api | `bounded-contracts` | 60088f9   | feat: add hash                                                              | Jun 4, 2025         |
+| restful-api | `bounded-contracts` | dd95e97   | feat: add blockchain adapter and config                                     | Jun 4, 2025         |
+| restful-api | `bounded-contracts` | 32f2e89   | feat: add contract controller                                               | Jun 4, 2025         |
+| restful-api | `bounded-contracts` | 5e7e252   | feat: add bounded context contract                                          | Jun 4, 2025         |
+| restful-api | All Branches      | 58bd618   | Initialize base structure of the SmartWebContracts project                  | Jun 2, 2025         |
+
+---
 
 ##### 7.2.1.4. Testing Suite Evidence for Sprint Review
 
-En esta sección se presentan los Unit Tests, Integration Tests y Acceptance Tests automatizados diseñados para las User Stories de Sprint 1. Para BDD se incluyen los archivos `.feature` y sus step definitions.
+En esta sección se presentan los Unit Tests, Integration Tests y Acceptance Tests automatizados diseñados para las User Stories de Sprint 1.
 
 | Repository                         | Branch                     | Commit Id | Commit Message                 | Commit Message Body                       | Committed on (Date) |
 |------------------------------------|----------------------------|-----------|--------------------------------|--------------------------------------------|---------------------|
