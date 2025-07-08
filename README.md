@@ -3307,6 +3307,28 @@ Enlace: https://shorturl.at/emf2l
 
 ## Bibliografia
 
+
+- Nakamoto, S. (2008). *Bitcoin: A Peer-to-Peer Electronic Cash System*. Recuperado de: https://bitcoin.org/bitcoin.pdf [Consulta: 15 de abril de 2025]
+
+- Buterin, V. (2014). *A Next-Generation Smart Contract and Decentralized Application Platform*. Recuperado de: https://ethereum.org/en/whitepaper/ [Consulta: 20 de mayo de 2025]
+
+- Christidis, K., & Devetsikiotis, M. (2016). *Blockchains and Smart Contracts for the Internet of Things*. IEEE Access, 4, 2292–2303. Recuperado de: https://doi.org/10.1109/ACCESS.2016.2566339 [Consulta: 20 de mayo de 2025]
+
+- Tikhomirov, S. (2017). *Ethereum: State of Knowledge and Research Perspectives*. Recuperado de: https://arxiv.org/abs/1705.06885 [Consulta: 24 de mayo de 2025]
+
+- Upwork Inc. (2023). *Freelancing in America: Research & Trends*. Recuperado de: https://www.upwork.com/research/freelancing-in-america [Consulta: 26 de mayo de 2025]
+
+- Fitzgerald, M. (2020). *Programming Smart Contracts in Solidity*. O’Reilly Media. ISBN: 9781492045267
+
+- Wood, G. (2014). *Ethereum: A Secure Decentralised Generalised Transaction Ledger*. Recuperado de: https://ethereum.github.io/yellowpaper/paper.pdf [Consulta: 03 de junio de 2025]
+
+- Werbach, K., & Cornell, N. (2017). *Contracts Ex Machina*. Duke Law Journal, 67(2), 313–382. Recuperado de: https://scholarship.law.duke.edu/dlj/vol67/iss2/3/ [Consulta: 04 de julio de 2025]
+
+- Mougayar, W. (2016). *The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology*. Wiley. ISBN: 9781119300311
+
+- Tapscott, D., & Tapscott, A. (2016). *Blockchain Revolution: How the Technology Behind Bitcoin is Changing Money, Business, and the World*. Penguin. ISBN: 9781101980132
+
+
 ## Anexos
 A continuación se presentan los videos generados como parte del desarrollo del proyecto.
 
