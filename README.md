@@ -2994,6 +2994,170 @@ _Explique cómo se monitoreó la colaboración y participación del equipo duran
 - ![Contributors Chart](assets/images/collab-contributors.png) _Contribuciones por miembro._  
 - ![Pull Request Overview](assets/images/collab-prs.png) _Resumen de PRs durante el Sprint._  
 
+#### 7.2.2. Sprint 2
+
+##### 7.2.2.1. Sprint Planning 2
+
+Se especifican los aspectos principales de la reunión de planificación del Sprint 2. Se parte de una breve introducción y a continuación se presenta el cuadro resumen.
+
+**Introducción**  
+El objetivo de este Sprint 2 es entregar la versión final de todos los productos (Landing Page, Web Application, Mobile Application y RESTful API) que permita realizar el flujo completo de creación y gestión de contratos inteligentes entre clientes y desarrolladores.
+
+| Sprint # | Sprint 2 |
+|----------|----------|
+
+##### Sprint Planning Background
+
+| Campo                              | Valor                                                                                                   |
+|------------------------------------|---------------------------------------------------------------------------------------------------------|
+| **Date**                           | 2025-07-03                                                                                              |
+| **Time**                           | 10:00 AM (GMT-5)                                                                                        |
+| **Location**                       | Virtual (Zoom)                                                                                          |
+| **Prepared By**                    | Cortés Casas, Joaquín Marcelo                                                                           |
+| **Attendees (to planning meeting)**| Castilla Pachas, César Antonio<br>Cortés Casas, Joaquín Marcelo<br>Diaz Silva, Fernando Josué<br>Jorge Arévalo, Ramón Alejandro           |
+| **Sprint 1 Review Summary**        | Se logró completar un primero flujo con las funcionalidades más importantes para los usuarios respecto a la creación de contratos.        |
+| **Sprint 1 Retrospective Summary** | Se hizo un buen trabajo con las funcionalidades decididas para el Sprint 1, ahora el objetivo será completar la solución.        |
+
+---
+
+#### Sprint Goal & User Stories
+
+| Elemento  | Detalle  |
+|--------------|-------------|
+| **Sprint 2 Goal**      | Nuestro objetivo es presentar la versión final con todas las funcionalidades implementadas en todos los productos digitales que abarca nuestra solución. Siendo estos: La Landing Page, la cual debe mostrar información sobre nuestra solución y un botón Call to Action que redirija a la aplicación web. La Aplicación Móvil, que debe permitir registrarse e iniciar sesión, crear contratos y asignarlos a un desarrollador y crear hitos. Además de permitir modificar el perfil del usuario. La Aplicación Web, que también debe permitir registrarse e iniciar sesión, revisar el estado de los contratos, aceptar o rechazarlos y modificar el perfil del usuario. Finalmente, el RESTful API que debe exponer los servicios necesarios para que los demás productos lo consuman correctamente. |
+| **Sprint 2 Velocity**  | 14 |
+| **Sum of Story Points**| 14 |
+
+---
+
+##### User Stories seleccionadas
+
+| ID   | Título                                        | SP | Producto asociado |
+| ---- | --------------------------------------------- | -- | ----------------- |
+| TS2  | Ver contratos pendientes                      | 2  | RESTful API       |
+| US15 | Aceptar contrato desde la web                 | 2  | Aplicación Web    |
+| US17 | Rechazar contrato desde la web                | 2  | Aplicación Web    |
+| US18 | Agregar observaciones desde la web            | 2  | Aplicación Web    |
+| US19 | Editar perfil desde la web                    | 2  | Aplicación Web    |
+| US23 | Notificación de cambio de estado en web       | 2  | Aplicación Web    |
+| US24 | Notificación de cambio de estado en app       | 2  | Aplicación Móvil  |
+
+Con esta planificación, el equipo se compromete a entregar en Sprint 2 un producto completo que cumpla el flujo de registro, autenticación y creación de contratos inteligentes, validando así la integración entre frontend, móvil y backend.
+
+##### 7.2.2.2. Sprint Backlog 2
+
+En esta sección se presenta el backlog del Sprint 2. Incluye un screenshot del board en la herramienta de control (por ejemplo, Trello) y su URL pública.
+
+![Tablero Sprint 1](assets/img/chapter-3/sprint2-board.png)
+
+**URL del Board:** https://trello.com/b/nNJGbA4x/product-backlog-tarket-contracts
+
+| Sprint # | Sprint 2 |
+|----------|----------|
+
+| User Story ID | User Story Title                        | Work Item / Task ID | Work Item / Task Title        | Description                                                             | Estimation (Hours) | Assigned To    | Status      |
+| ------------- | --------------------------------------- | ------------------- | ----------------------------- | ----------------------------------------------------------------------- | ------------------ | -------------- | ----------- |
+| TS2           | Ver contratos pendientes                | TSK29               | GET /contracts/pending        | Endpoint REST para recuperar contratos pendientes de aceptación         | 3                  | César Castilla | Done       |
+| US15          | Aceptar contrato desde la web           | TSK30               | Aceptar contrato web          | Permitir a los usuarios aceptar contratos desde la plataforma web       | 2                  | César Castilla | Done       |
+| US17          | Rechazar contrato desde la web          | TSK31               | Rechazar contrato web         | Implementar botón y lógica para rechazar contratos desde la web         | 2                  | Fernando Diaz  | Done       |
+| US18          | Agregar observaciones desde la web      | TSK32               | Añadir observaciones contrato | Formulario para escribir observaciones en contratos desde interfaz web  | 3                  | Fernando Diaz  | Done       |
+| US19          | Editar perfil desde la web              | TSK33               | Formulario editar perfil web  | Formulario de edición de datos de usuario desde la aplicación web       | 3                  | Joaquín Cortés | Done       |
+| US23          | Notificación de cambio de estado en web | TSK34               | Notificar cambio estado web   | Mostrar alertas visuales cuando el estado del contrato cambia en la web | 2                  | Joaquín Cortés | Done       |
+| US24          | Notificación de cambio de estado en app | TSK35               | Notificar cambio estado app   | Implementar notificaciones push o visuales en la app móvil por cambios  | 2                  | Ramón Jorge    | Done       |
+
+
+#### 7.2.2.3. Development Evidence for Sprint Review
+
+En esta sección se resumen los principales avances en la implementación para Sprint 2. Incluye una tabla de commits relacionados con la implementación de cada repositorio.
+
+| Repository   | Branch | Commit Id | Commit Message                                                                       | Committed on (Date) |
+| ------------ | ------ | --------- | ------------------------------------------------------------------------------------ | ------------------- |
+
+---
+
+##### 7.2.2.4. Testing Suite Evidence for Sprint Review
+
+En esta sección se presentan los Unit Tests, Integration Tests y Acceptance Tests automatizados diseñados para las User Stories de Sprint 2.
+
+| Repository                         | Branch                     | Commit Id | Commit Message                 | Commit Message Body                       | Committed on (Date) |
+|------------------------------------|----------------------------|-----------|--------------------------------|--------------------------------------------|---------------------|
+|                                    |                            |           |                                |                                            |                     |
+|                                    |                            |           |                                |                                            |                     |
+|                                    |                            |           |                                |                                            |                     |
+
+##### 7.2.2.5. Execution Evidence for Sprint Review
+
+Esta sección muestra la ejecución de las vistas implementadas durante Sprint 2. Incluye screenshots y un video de demostración.
+
+**Video Demo**  
+https://shorturl.at/Fx5My
+
+##### 7.2.2.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se resumen los logros en documentación de Web Services para Sprint 2.
+
+**Introducción**  
+Como parte de la entrega técnica, se ha documentado de manera estructurada y detallada cada uno de los endpoints expuestos por el sistema, especificando:
+
+-   La funcionalidad general de cada operación.
+    
+-   Los métodos HTTP utilizados y las rutas asociadas.
+    
+-   Los parámetros de entrada requeridos.
+    
+-   Las URLs de acceso en entorno desplegado.
+    
+
+Además, se ha generado evidencia visual del entorno Swagger UI con los servicios activos, y se ha listado el historial de commits relevantes del repositorio backend, lo que permite dar trazabilidad al trabajo realizado por el equipo de desarrollo.
+
+Link del Web service: https://contracts.backend.tarket.site:3029/api-docs/
+
+| Endpoint             | HTTP Verb | Syntax                      | Parámetros                           | Ejemplo de Response                   | URL Documentación                                           | Commit ID  |
+|----------------------|-----------|-----------------------------|--------------------------------------|---------------------------------------|-------------------------------------------------------------|------------|
+| /chain               | GET       | /chain                      | Ninguno                              | [Lista de bloques JSON]               | https://contracts.backend.tarket.site:3029/chain             | a1b2c3d    |
+| /queue               | GET       | /queue                      | Ninguno                              | {"queueSize": 3}                      | https://contracts.backend.tarket.site:3029/queue             | d4e5f6g    |
+| /status              | GET       | /status                     | Ninguno                              | {"status": "OK", "blocks": 15}       | https://contracts.backend.tarket.site:3029/status            | h7i8j9k    |
+| /difficulty          | GET       | /difficulty                 | Ninguno                              | {"difficulty": 2}                     | https://contracts.backend.tarket.site:3029/difficulty_get    | l1m2n3o    |
+| /difficulty          | POST      | /difficulty                 | difficulty (int)                     | {"message": "Difficulty updated"}     | https://contracts.backend.tarket.site:3029/difficulty_post   | p4q5r6s    |
+| /validate            | GET       | /validate                   | Ninguno                              | {"valid": true}                       | https://contracts.backend.tarket.site:3029/validate          | t7u8v9w    |
+| /contracts           | POST      | /contracts                  | JSON (title, owner, amount, etc)     | {"hash": "abc123", "status": "added"}| https://contracts.backend.tarket.site:3029/contracts_post    | x1y2z3a    |
+| /contracts/{hash}    | GET       | /contracts/{hash}           | hash (string)                        | JSON con detalle del contrato         | https://contracts.backend.tarket.site:3029/contracts_get     | b4c5d6e    |
+| /milestones          | GET       | /milestones                 | Ninguno                              | [ { index: 1, title: "...", ... } ]   | https://contracts.backend.tarket.site:3029/milestones        | f7g8h9i    |
+| /milestones/{index}  | GET       | /milestones/{index}         | index (int)                          | Lista de hitos del contrato           | https://contracts.backend.tarket.site:3029/milestone_get     | j1k2l3m    |
+| /milestones/{index}  | POST      | /milestones/{index}         | index (int), JSON con datos del hito | {"message": "Milestone added"}        | https://contracts.backend.tarket.site:3029/milestone_post    | n4o5p6q    |
+
+
+**Capturas de interacción**  
+- ![Descripción acción 1](assets/img/extra/swagger-arswemer.png)  
+- ![Descripción acción 2](assets/img/extra/swagger-2.png)  
+
+---
+
+##### 7.2.2.7. Software Deployment Evidence for Sprint Review
+
+A continuación, se describirán los procesos de Deployment realizados para el presente sprint:
+
+1. **Paso 1**: _Descripción del paso_  
+2. **Paso 2**: _Descripción del paso_  
+3. **Paso 3**: _Descripción del paso_  
+
+**Capturas y explicaciones**  
+- ![Paso 1](assets/images/deploy-step1.png) _Explicación breve del paso 1._  
+- ![Paso 2](assets/images/deploy-step2.png) _Explicación breve del paso 2._  
+- ![Paso 3](assets/images/deploy-step3.png) _Explicación breve del paso 3._  
+
+---
+
+##### 7.2.2.8. Team Collaboration Insights during Sprint
+
+En esta sección se presentan las estadísticas y capturas de los analíticos de colaboración:
+
+**Capturas de GitHub Insights**  
+- ![Commit Activity](assets/images/collab-commits.png) _Actividad diaria de commits._  
+- ![Contributors Chart](assets/images/collab-contributors.png) _Contribuciones por miembro._  
+- ![Pull Request Overview](assets/images/collab-prs.png) _Resumen de PRs durante el Sprint._  
+
+
 ### 7.3. Validation Interviews
 
 #### 7.3.1. Diseño de Entrevistas
