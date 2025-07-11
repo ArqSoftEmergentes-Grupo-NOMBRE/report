@@ -3145,14 +3145,11 @@ A continuación, se describirán los procesos de Deployment realizados para el p
 
 En esta sección se presentan las estadísticas y capturas de los analíticos de colaboración para Sprint 2:
 
-![Insights](assets/img/extra/insights-1.png)
+![Insights](assets/img/extra/CollaborationInsightWeb.png)
 
-![Insights](assets/img/extra/insights-2.png)  
+![Insights](assets/img/extra/CollaborationInsightMobile.png)  
 
-![Insights](assets/img/extra/insights-3.png)  
-
-![Insights](assets/img/extra/insights-4.png)  
-
+![Insights](assets/img/extra/CollaborationInsightBackend.png)  
 
 ### 7.3. Validation Interviews
 
