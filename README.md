@@ -2969,30 +2969,22 @@ _Resuma aquí los pasos clave de despliegue ejecutados en este Sprint._
 2. **Paso 2**: _Descripción del paso_  
 3. **Paso 3**: _Descripción del paso_  
 
-**Capturas y explicaciones**  
-- ![Paso 1](assets/images/deploy-step1.png) _Explicación breve del paso 1._  
-- ![Paso 2](assets/images/deploy-step2.png) _Explicación breve del paso 2._  
-- ![Paso 3](assets/images/deploy-step3.png) _Explicación breve del paso 3._  
+**Capturas**  
+
 
 ---
 
 ##### 7.2.1.8. Team Collaboration Insights during Sprint
 
-En esta sección presente estadísticas y capturas de los analíticos de colaboración para Sprint 1.
+En esta sección se presentan estadísticas y capturas de los analíticos de colaboración para Sprint 1.
 
-**Introducción**  
-_Explique cómo se monitoreó la colaboración y participación del equipo durante el Sprint._
+![Insights](assets/img/extra/insights-1.png)
 
-**Métricas de colaboración**  
-- **Total de commits**: ___  
-- **Pull requests abiertas**: ___  
-- **Pull requests mergeadas**: ___  
-- **Issues cerrados**: ___  
+![Insights](assets/img/extra/insights-2.png)  
 
-**Capturas de GitHub Insights**  
-- ![Commit Activity](assets/images/collab-commits.png) _Actividad diaria de commits._  
-- ![Contributors Chart](assets/images/collab-contributors.png) _Contribuciones por miembro._  
-- ![Pull Request Overview](assets/images/collab-prs.png) _Resumen de PRs durante el Sprint._  
+![Insights](assets/img/extra/insights-3.png)  
+
+![Insights](assets/img/extra/insights-4.png)  
 
 #### 7.2.2. Sprint 2
 
@@ -3150,12 +3142,15 @@ A continuación, se describirán los procesos de Deployment realizados para el p
 
 ##### 7.2.2.8. Team Collaboration Insights during Sprint
 
-En esta sección se presentan las estadísticas y capturas de los analíticos de colaboración:
+En esta sección se presentan las estadísticas y capturas de los analíticos de colaboración para Sprint 2:
 
-**Capturas de GitHub Insights**  
-- ![Commit Activity](assets/images/collab-commits.png) _Actividad diaria de commits._  
-- ![Contributors Chart](assets/images/collab-contributors.png) _Contribuciones por miembro._  
-- ![Pull Request Overview](assets/images/collab-prs.png) _Resumen de PRs durante el Sprint._  
+![Insights](assets/img/extra/insights-1.png)
+
+![Insights](assets/img/extra/insights-2.png)  
+
+![Insights](assets/img/extra/insights-3.png)  
+
+![Insights](assets/img/extra/insights-4.png)  
 
 
 ### 7.3. Validation Interviews
