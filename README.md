@@ -49,6 +49,7 @@
 | 4.0         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                        | Actualización de Conclusiones y Recomendaciones.  | 
 | 4.1         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                        | Adición de Sprint 2 Project Report Collaboration Insights.  | 
 | 4.2         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                        | Actualización de enlace al Video About the Product.  | 
+| 4.3         | 11/07/2025 | Castilla Pachas, Cesar Antonio                                       | Adición del Development Evidence for Sprint Review |
 
 ---
 
@@ -3065,8 +3066,30 @@ En esta sección se presenta el backlog del Sprint 2. Incluye un screenshot del 
 
 En esta sección se resumen los principales avances en la implementación para Sprint 2. Incluye una tabla de commits relacionados con la implementación de cada repositorio.
 
-| Repository   | Branch | Commit Id | Commit Message                                                                       | Committed on (Date) |
-| ------------ | ------ | --------- | ------------------------------------------------------------------------------------ | ------------------- |
+| Repository                 | Branch                  | Commit Id | Commit Message                                    | Committed on (Date) |
+|---------------------------|-------------------------|-----------|--------------------------------------------------|---------------------|
+| SmartWebContractsFrontend | main                    | 457593585a399843854c64b45f0f93272fa727f8 | feat: update files for contracts                 | 10/07/25            |
+| SmartWebContractsFrontend | main                    | 72bc2b1f8c3b1966c75320ec59e6b5ab9e18673b | feat: update dashboard                           | 10/07/25            |
+| SmartWebContractsFrontend | main                    | f3d60578cbce8c72475b027ea923e85fe4bbb75d | feat: update dashboard and submit component      | 11/07/25            |
+| SmartWebContractsFrontend | main                    | 01a1aeeb76d8c020bb92710f455e9ae49489d0f6 | feat: update views components                    | 11/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | d4614b4b268ea3ca38657498dce97d6738583ba4 | feat: update files                               | 11/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | 84dbb4bd5fcd627c0321326eb304a2ecbc26567c | feat: update files                               | 11/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | eaa982c10a19da9de355af65c809cc703aba3680 | feat: update and aggregate endpoints             | 11/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | 2ba94442d5c0541ca20250bb5617e74cc3dee97c | feat: add Dto Deliverable Submission             | 11/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | 11672ceb079096e68e6dee58a63ec34410d0b327 | feat: add web config                             | 11/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | efbad7622a70cadb1cd18180d64e1f91e77adefa | feat: update files for put contracts             | 11/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | 0d8fae20de939d45a684c7f3049e20fcf12dc804 | feat: add getAll contracts                       | 09/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | c83c3c6b074dd2b7f53df81aebc12d51b91a5cd4 | feat: update kwy wallet                          | 09/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | e271cc41841479e8c99c5ed0aa6e51233f4abb22 | feat: add domain deliverables                    | 09/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | 0053d932c1f136b7bc4adedfb0fadf4959549d1f | feat: add Dtos and enum                          | 09/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | a80c5caec3866eef82962d786becafbc5d259c19 | feat: update files contract                      | 09/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | 838a57bcff09865f48dca8ee044f5e927c18da2c | feat: update files for contract new              | 09/07/25            |
+| SmartWebContractsBackend  | feat/contracts-deliverables | 48c972e85f9eb55f96db5d00e278413c40fe1547 | feat: add new contract                           | 09/07/25            |
+| mobile-application        | main                    | ceac278e78c8a55761c769def57cc5185e03e4fa | feat: update files for validation contracts      | 10/07/25            |
+| mobile-application        | main                    | adf6a55edfdbe1e3b5181f99b0a842d012bb5405 | feat: add deliverable models                     | 10/07/25            |
+| mobile-application        | main                    | 601dcec35646a91c5ed2796a2dbd3fba6e4bfe0f | feat: update files for views deliverables        | 11/07/25            |
+| mobile-application        | main                    | f064a0838cd8f02db3b80fc3adbdcc99ab33fcd3 | fix: Updated readme.md                           | 11/07/25            |
+| mobile-application        | main                    | b212d61f7a2dc9c23a35d505c62568e6f5532263 | Update README.md                                 | 11/07/25            |
 
 ---
 
