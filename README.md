@@ -45,7 +45,8 @@
 | 2.3.0       | 16/05/2025 | Diaz Silva, Fernando Josué                                                                              | Adición de Web Applications Wireframes.                                                                                                                                         |
 | 2.3.1       | 16/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de Mobile Applications Wireframes.                                                                                                                                      |
 | 2.4.0       | 16/05/2025 | Cortés Casas, Joaquín Marcelo                                                                           | Adición de Application Wireflow Diagrams.                                                                                                                                       |
-| 3.0         | 20/06/2025 | Jorge Arévalo, Ramón Alejandro                                         |                                | Corrección de Class y Database Diagrams y adición de Sprint Planning y Backlog 1
+| 3.0         | 20/06/2025 | Jorge Arévalo, Ramón Alejandro                                         | Corrección de Class y Database Diagrams y adición de Sprint Planning y Backlog 1
+| 4.0         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                        | Actualización de Conclusiones y Recomendaciones.  | 
 
 ---
 
