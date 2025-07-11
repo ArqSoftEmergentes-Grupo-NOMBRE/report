@@ -3450,15 +3450,24 @@ Enlace: https://shorturl.at/emf2l
 ## Conclusiones
 ### Conclusiones y recomendaciones
 #### Conclusiones
-- La plataforma Tarket proporciona una solución innovadora al automatizar contratos freelance mediante tecnología blockchain, mejorando la confianza entre clientes y desarrolladores.
-- La arquitectura basada en contenedores distribuidos y servicios externos especializados optimiza la escalabilidad y la robustez de la solución.
-- El desarrollo de User Stories centradas en los segmentos objetivo garantizó una alineación efectiva entre los requerimientos de negocio y las funcionalidades propuestas.
-- El proceso de EventStorming y Context Mapping resultó clave para identificar las dependencias entre los bounded contexts, evitando solapamientos y redundancias.
+
+ - **Integración exitosa de tecnologías emergentes**. El proyecto logró con éxito la implementación de una solución web y móvil basada en contratos inteligentes sobre blockchain, lo que permitió automatizar acuerdos y validar entregas.
+
+ - **Enfoque centrado en el usuario**. El uso de herramientas como User Personas, entrevistas y validaciones heurísticas permitió diseñar una plataforma alineada a las necesidades reales de los segmentos objetivo.
+
+ - **Desarrollo incremental y multidisciplinario**. La planificación por sprints, junto con una clara asignación de roles y tareas, permitió avanzar progresivamente desde el análisis del problema, la definición de requerimientos y el diseño de arquitectura, hasta la implementación técnica y la validación funcional de la solución.
+
+ - **Colaboración efectiva y aprendizaje continuo**. La colaboración entre los integrantes se reflejó en una documentación detallada, el uso disciplinado de control de versiones y una comunicación eficaz de ideas tanto de forma oral como escrita, lo que fortaleció la calidad del entregable y el aprendizaje del equipo.
+
+ - **Validación de hipótesis y aportes reales**. Las métricas de satisfacción y adopción obtenidas en entrevistas y pruebas piloto evidencian que la solución aporta valor real, generando interés en usuarios previamente escépticos respecto a tecnologías Web3. Se comprobó la viabilidad técnica y la utilidad de la plataforma como alternativa a los modelos tradicionales.
 
 #### Recomendaciones
-- Priorizar mejoras de usabilidad, especialmente para usuarios nuevos en entornos Web3, mediante tutoriales interactivos o asistentes de configuración inicial.
-- Expandir en el futuro la compatibilidad con más blockchains (no solo Ethereum) para reducir costos de transacción y llegar a una mayor base de usuarios.
-- Considerar la posibilidad de integrar funcionalidades de arbitraje o resolución de disputas como siguiente fase evolutiva del producto.
+
+ - **Optimizar la interoperabilidad y el rendimiento**. Monitorear constantemente la interacción entre el frontend (web/móvil) y los smart contracts, priorizando mejoras de rendimiento, manejo de errores, y asegurando la compatibilidad ante actualizaciones de blockchain o wallets.
+
+ - **Profundizar en mecanismos de reputación y seguridad**. Añadir sistemas de reputación verificable y feedback entre usuarios puede fortalecer la confianza en la plataforma. Además, se recomienda implementar revisiones de seguridad periódicas sobre el código de los contratos inteligentes.
+
+ - **Planificar mantenibilidad y soporte post-despliegue**. Establecer un plan de mantenimiento y soporte técnico para los usuarios, priorizando la corrección de bugs, actualizaciones de seguridad y la incorporación de nuevas funcionalidades a partir del feedback recibido.
 
 ## Bibliografia
 
