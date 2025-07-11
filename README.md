@@ -48,6 +48,7 @@
 | 3.0         | 20/06/2025 | Jorge Arévalo, Ramón Alejandro                                         | Corrección de Class y Database Diagrams y adición de Sprint Planning y Backlog 1
 | 4.0         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                        | Actualización de Conclusiones y Recomendaciones.  | 
 | 4.1         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                        | Adición de Sprint 2 Project Report Collaboration Insights.  | 
+| 4.2         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                        | Actualización de enlace al Video About the Product.  | 
 
 ---
 
@@ -3421,7 +3422,7 @@ SmartWebContracts – Landing Page y Plataforma Web
 
 ### 7.4. Video About-the-Product
 
-Nombre del archivo: upc-pre-202510-1asi0572-4281-Tarket-about-the-product-sprint-1.mp4
+Nombre del archivo: upc-pre-202510-1asi0572-4281-Tarket-about-the-product-sprint-2.mp4
 
 Duración: 
 
@@ -3429,7 +3430,7 @@ Se realiza la presentación de Tarket como solución que emplea Smart Contracts 
 
 ![Video About the Product](assets/img/about-the-product.png)  
 
-Enlace: https://drive.google.com/file/d/1ESBn8LS3tfGa5YLg8DgqT-FJ2FcebUmQ/view?usp=drive_link
+Enlace: https://shorturl.at/23dFd
 
 
 ### 7.5. Video About-the-Team
@@ -3543,7 +3544,7 @@ Nomenclatura: `Mi video1`
 Formato: `.mp4`  
 Duración: 0:22
 
-**Enlace acortado:** https://drive.google.com/file/d/1ESBn8LS3tfGa5YLg8DgqT-FJ2FcebUmQ/view?usp=sharing
+**Enlace acortado:** https://shorturl.at/23dFd
 
 **About the Team**
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-about-the-team-sprint-1`  
