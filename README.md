@@ -101,14 +101,13 @@ https://github.com/ArqSoftEmergentes-Grupo-NOMBRE
 - **Cortés Casas, Joaquin Marcelo:** Completar las secciones de Sprint 2 Testing Suite, Execution Evidence, Project Report Collaboration Insights y corregir conclusiones y recomendaciones.
 -  **Diaz Silva, Fernando Josué:** Adjuntar enlace de video about the product extendido y corregido.
 - **Jorge Arévalo, Ramón Alejandro:** Completar las secciones de Sprint 2 Planning y Backlog.
-- 
+
 **Evidencia de colaboración y commits en GitHub del reporte:**
 
 ### Commits realizados:
 ![Captura de Commits - 1](assets/img/extra/CommitsTP1.png)
 
 ---
-
 
 ## Contenido
 
