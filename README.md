@@ -3500,7 +3500,7 @@ SmartWebContracts – Landing Page y Plataforma Web
 
 Nombre del archivo: upc-pre-202510-1asi0572-4281-Tarket-about-the-product-sprint-2.mp4
 
-Duración: 
+Duración: 1 min 15 s
 
 Se realiza la presentación de Tarket como solución que emplea Smart Contracts en la contratación de desarrolladores web.
 
@@ -3616,9 +3616,9 @@ Duración: 10:23
 **Enlace acortado:** https://shorturl.at/xxc6h
 
 **About the Product**
-Nomenclatura: `Mi video1`  
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-about-the-product-sprint-2`  
 Formato: `.mp4`  
-Duración: 0:22
+Duración: 1:15
 
 **Enlace acortado:** https://shorturl.at/23dFd
 
