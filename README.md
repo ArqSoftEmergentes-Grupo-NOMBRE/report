@@ -97,11 +97,11 @@ https://github.com/ArqSoftEmergentes-Grupo-NOMBRE
 #### TF1:
 
 **Descripción de las actividades realizadas:**
-- **Castilla Pachas, César Antonio:**  
-- **Cortés Casas, Joaquin Marcelo:**  
--  **Diaz Silva, Fernando Josué:**  
-- **Jorge Arévalo, Ramón Alejandro:**  
-
+- **Castilla Pachas, César Antonio:** Completar las secciones de Sprint 2 Development Evidence for Sprint Review y video de demostración del Execution Evidence.
+- **Cortés Casas, Joaquin Marcelo:** Completar las secciones de Sprint 2 Testing Suite, Execution Evidence, Project Report Collaboration Insights y corregir conclusiones y recomendaciones.
+-  **Diaz Silva, Fernando Josué:** Adjuntar enlace de video about the product extendido y corregido.
+- **Jorge Arévalo, Ramón Alejandro:** Completar las secciones de Sprint 2 Planning y Backlog.
+- 
 **Evidencia de colaboración y commits en GitHub del reporte:**
 
 ### Commits realizados:
