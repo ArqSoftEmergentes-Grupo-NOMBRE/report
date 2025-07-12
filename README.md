@@ -3113,25 +3113,26 @@ https://shorturl.at/Fx5My
 
 Aqui mostramos unas capturas tomadas de las interfaces implementadas en este sprint:
 
-![](assets/img/sprint2-mobile-login.jpg)  
+![Sample](assets/img/chapter-6/sprint2-mobile-login.jpg)  
 
-![](assets/img/sprint2-mobile-creation.jpg)  
+![Sample](assets/img/chapter-6/sprint2-mobile-creation.jpg)  
 
-![](assets/img/sprint2-mobile-home.jpg)  
+![Sample](assets/img/chapter-6/sprint2-mobile-home.jpg)  
 
-![](assets/img/sprint2-mobile-contract-developers.jpg)  
+![Sample](assets/img/chapter-6/sprint2-mobile-contract-developers.jpg)  
 
-![](assets/img/sprint2-mobile-contract-details.jpg)  
+![Sample](assets/img/chapter-6/sprint2-mobile-contract-details.jpg)  
 
-![](assets/img/sprint2-mobile-contract-deliverables.jpg)  
+![Sample](assets/img/chapter-6/sprint2-mobile-contract-deliverables.jpg)  
 
-![](assets/img/sprint2-mobile-contract-signed.jpg)  
+![Sample](assets/img/chapter-6/sprint2-mobile-contract-signed.jpg)  
 
-![](assets/img/sprint2-mobile-contract-created.jpg)  
+![Sample](assets/img/chapter-6/sprint2-mobile-contract-created.jpg)  
 
-![](assets/img/sprint2-mobile-contract-deliverables-details.jpg)  
+![Sample](assets/img/chapter-6/sprint2-mobile-contract-deliverables-details.jpg)  
 
-![](assets/img/sprint2-mobile-contract-blockchain-details.jpg)  
+![Sample](assets/img/chapter-6/sprint2-mobile-contract-blockchain-details.jpg)  
+
 
 ##### 7.2.2.6. Services Documentation Evidence for Sprint Review
 
