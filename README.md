@@ -3113,6 +3113,22 @@ https://shorturl.at/Fx5My
 
 Aqui mostramos unas capturas tomadas de las interfaces implementadas en este sprint:
 
+**Wen Application:**
+
+![Sample](assets/img/chapter-6/sprint2-web-account-login.jpg)  
+
+![Sample](assets/img/chapter-6/sprint2-web-account-creation.jpg)  
+
+![Sample](assets/img/chapter-6/sprint2-web-contract-list.jpg)  
+
+![Sample](assets/img/chapter-6/sprint2-web-contract-status.jpg)  
+
+![Sample](assets/img/chapter-6/sprint2-web-contract-deliverable-upload.jpg)  
+
+---
+
+**Mobile Application:**
+
 ![Sample](assets/img/chapter-6/sprint2-mobile-login.jpg)  
 
 ![Sample](assets/img/chapter-6/sprint2-mobile-creation.jpg)  
