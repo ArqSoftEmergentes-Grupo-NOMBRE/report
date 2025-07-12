@@ -3200,7 +3200,9 @@ Link del Web service: https://contracts.backend.tarket.site:3029/api-docs/
 
 **Capturas de interacción**  
 - ![Descripción acción 1](assets/img/extra/swagger-arswemer.png)  
-- ![Descripción acción 2](assets/img/extra/swagger-2.png)  
+- ![Descripción acción 2](assets/img/extra/swagger-2.png)
+- ![Descripción acción 2](assets/img/extra/swagger-3.jpeg)
+- ![Descripción acción 2](assets/img/extra/swagger-4.jpeg)  
 
 ---
 
