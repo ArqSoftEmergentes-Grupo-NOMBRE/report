@@ -3113,7 +3113,7 @@ https://shorturl.at/Fx5My
 
 Aqui mostramos unas capturas tomadas de las interfaces implementadas en este sprint:
 
-**Wen Application:**
+**Web Application:**
 
 ![Sample](assets/img/chapter-6/sprint2-web-account-login.jpg)  
 
