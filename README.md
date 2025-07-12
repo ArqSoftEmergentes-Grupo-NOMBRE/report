@@ -3494,8 +3494,6 @@ SmartWebContracts – Landing Page y Plataforma Web
 
 ---
 
----
-
 ### 7.4. Video About-the-Product
 
 Nombre del archivo: upc-pre-202510-1asi0572-4281-Tarket-about-the-product-sprint-2.mp4
@@ -3593,6 +3591,11 @@ Duración: 22:58
 
 **Enlace acortado:** https://shorturl.at/8QiJh
 
+**Exposición TF1**
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tf1`  
+Formato: `.mp4`  
+Duración: 
+
 **Enlace acortado:** 
 
 **Needfinding Interviews**
@@ -3607,6 +3610,13 @@ Formato: `.mp4`
 Duración: 14:34
 
 **Enlace acortado:** https://shorturl.at/Fx5My
+
+**Blockchain Implementation**
+Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-blockchain-implementation-sprint-2`  
+Formato: `.mp4`  
+Duración: 
+
+**Enlace acortado:** 
 
 **Validation Interviews**
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-validation-tb2`  
