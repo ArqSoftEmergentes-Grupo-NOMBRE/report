@@ -3120,10 +3120,10 @@ En esta sección se presentan los Unit Tests, Integration Tests y Acceptance Tes
 
 ##### 7.2.2.5. Execution Evidence for Sprint Review
 
-Esta sección muestra la ejecución de las vistas implementadas durante Sprint 2. Incluye screenshots y un video de demostración.
+Esta sección muestra la ejecución de las vistas implementadas durante Sprint 2. Incluye screenshots y un video de demostración de nuestros productos y la implementación de blockchain en nuestra solución digital.
 
 **Video Demo**  
-https://shorturl.at/Fx5My
+https://shorturl.at/QdL6J
 
 Aqui mostramos unas capturas tomadas de las interfaces implementadas en este sprint:
 
@@ -3598,9 +3598,9 @@ Duración: 22:58
 **Exposición TF1**
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-expo-tf1`  
 Formato: `.mp4`  
-Duración: 
+Duración: 20:42
 
-**Enlace acortado:** 
+**Enlace acortado:** https://shorturl.at/NnuOu
 
 **Needfinding Interviews**
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-needfinding`  
@@ -3618,9 +3618,9 @@ Duración: 14:34
 **Blockchain Implementation**
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-blockchain-implementation-sprint-2`  
 Formato: `.mp4`  
-Duración: 
+Duración: 5:04
 
-**Enlace acortado:** 
+**Enlace acortado:** https://shorturl.at/QdL6J
 
 **Validation Interviews**
 Nomenclatura: `upc-pre-202510-1asi0572-4281-Tarket-validation-tb2`  
