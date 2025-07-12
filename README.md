@@ -49,8 +49,9 @@
 | 4.0         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                        | Actualización de Conclusiones y Recomendaciones.  | 
 | 4.1         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                        | Adición de Sprint 2 Project Report Collaboration Insights.  | 
 | 4.2         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                        | Actualización de enlace al Video About the Product.  | 
-| 4.3         | 11/07/2025 | Castilla Pachas, Cesar Antonio                                       | Adición del Development Evidence for Sprint Review |
-| 4.4         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                       | Adición del Execution Evidence for Sprint 2 Review  |
+| 4.3         | 11/07/2025 | Castilla Pachas, Cesar Antonio                                       | Adición del Development Evidence for Sprint Review. |
+| 4.4         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                       | Adición del Execution Evidence for Sprint 2 Review.  |
+| 4.5         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                       | Adición del Sprint 2 Testing Suite.  |
 
 ---
 
@@ -3100,9 +3101,9 @@ En esta sección se presentan los Unit Tests, Integration Tests y Acceptance Tes
 
 | Repository                         | Branch                     | Commit Id | Commit Message                 | Commit Message Body                       | Committed on (Date) |
 |------------------------------------|----------------------------|-----------|--------------------------------|--------------------------------------------|---------------------|
-|                                    |                            |           |                                |                                            |                     |
-|                                    |                            |           |                                |                                            |                     |
-|                                    |                            |           |                                |                                            |                     |
+|      SmartWebContractsBackend      | feat/contract/deliverables | 8915e6b52d1a18d876cba479ae5328db267520dc | feat: Add Test of CommandServiceImpl  | | 11/07/25 |
+|      SmartWebContractsBackend      | feat/contract/deliverables | 5eac976807af6e3bfb5ff30ecfd17ec05b05ae93 | feat: Add test of QueryServiceImpl of Contract  | | 11/07/25 |
+|      SmartWebContractsBackend      | feat/contract/deliverables | 5425d3e90528016957403529666618fe0a76ccd8 | feat: Add test of ContractController  | | 11/07/25 |
 
 ##### 7.2.2.5. Execution Evidence for Sprint Review
 
