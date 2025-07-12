@@ -94,6 +94,19 @@ https://github.com/ArqSoftEmergentes-Grupo-NOMBRE
 
 ![Captura de Network Graph - 1](assets/img/extra/NetworkGraphTP1-2.png)
 
+#### TF1:
+
+**Descripción de las actividades realizadas:**
+- **Castilla Pachas, César Antonio:**  
+- **Cortés Casas, Joaquin Marcelo:**  
+-  **Diaz Silva, Fernando Josué:**  
+- **Jorge Arévalo, Ramón Alejandro:**  
+
+**Evidencia de colaboración y commits en GitHub del reporte:**
+
+### Commits realizados:
+![Captura de Commits - 1](assets/img/extra/CommitsTP1.png)
+
 ---
 
 
