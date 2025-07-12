@@ -50,6 +50,7 @@
 | 4.1         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                        | Adición de Sprint 2 Project Report Collaboration Insights.  | 
 | 4.2         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                        | Actualización de enlace al Video About the Product.  | 
 | 4.3         | 11/07/2025 | Castilla Pachas, Cesar Antonio                                       | Adición del Development Evidence for Sprint Review |
+| 4.4         | 11/07/2025 | Cortés Casas, Joaquín Marcelo                                       | Adición del Execution Evidence for Sprint 2 Review  |
 
 ---
 
@@ -3109,6 +3110,28 @@ Esta sección muestra la ejecución de las vistas implementadas durante Sprint 2
 
 **Video Demo**  
 https://shorturl.at/Fx5My
+
+Aqui mostramos unas capturas tomadas de las interfaces implementadas en este sprint:
+
+![](assets/img/sprint2-mobile-login.jpg)  
+
+![](assets/img/sprint2-mobile-creation.jpg)  
+
+![](assets/img/sprint2-mobile-home.jpg)  
+
+![](assets/img/sprint2-mobile-contract-developers.jpg)  
+
+![](assets/img/sprint2-mobile-contract-details.jpg)  
+
+![](assets/img/sprint2-mobile-contract-deliverables.jpg)  
+
+![](assets/img/sprint2-mobile-contract-signed.jpg)  
+
+![](assets/img/sprint2-mobile-contract-created.jpg)  
+
+![](assets/img/sprint2-mobile-contract-deliverables-details.jpg)  
+
+![](assets/img/sprint2-mobile-contract-blockchain-details.jpg)  
 
 ##### 7.2.2.6. Services Documentation Evidence for Sprint Review
 
