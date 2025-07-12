@@ -3122,6 +3122,11 @@ En esta sección se presentan los Unit Tests, Integration Tests y Acceptance Tes
 
 Esta sección muestra la ejecución de las vistas implementadas durante Sprint 2. Incluye screenshots y un video de demostración de nuestros productos y la implementación de blockchain en nuestra solución digital.
 
+Además, se han integrado los videos About-The-Product y About-The-Team al Landing Page. Se va a incluir un enlace al Landing desplegado en Github Pages con lo descrito.
+
+**Enlace Landing Page**
+https://arqsoftemergentes-grupo-nombre.github.io/landing/
+
 **Video Demo**  
 https://shorturl.at/QdL6J
 
